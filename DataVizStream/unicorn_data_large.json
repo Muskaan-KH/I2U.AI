@@ -1,0 +1,102 @@
+[
+  {
+    "Company": "ByteDance",
+    "Valuation ($B)": 225.0,
+    "AI Impact Score": 5.37,
+    "Growth Rate (%)": 62.44,
+    "Sector": "Technology",
+    "Founded Year": 2012,
+    "Country": "China",
+    "Status": "Unicorn"
+  },
+  {
+    "Company": "SpaceX",
+    "Valuation ($B)": 137.0,
+    "AI Impact Score": 1.25,
+    "Growth Rate (%)": 143.1,
+    "Sector": "Aerospace",
+    "Founded Year": 2002,
+    "Country": "USA",
+    "Status": "Unicorn"
+  },
+  {
+    "Company": "SHEIN",
+    "Valuation ($B)": 100.0,
+    "AI Impact Score": 5.55,
+    "Growth Rate (%)": 112.48,
+    "Sector": "E-commerce",
+    "Founded Year": 2008,
+    "Country": "China",
+    "Status": "Unicorn"
+  },
+  {
+    "Company": "Stripe",
+    "Valuation ($B)": 50.0,
+    "AI Impact Score": 9.68,
+    "Growth Rate (%)": 93.81,
+    "Sector": "Fintech",
+    "Founded Year": 2010,
+    "Country": "USA",
+    "Status": "Unicorn"
+  },
+  {
+    "Company": "Canva",
+    "Valuation ($B)": 40.0,
+    "AI Impact Score": 4.46,
+    "Growth Rate (%)": 31.84,
+    "Sector": "Design",
+    "Founded Year": 2013,
+    "Country": "Australia",
+    "Status": "Unicorn"
+  },
+  {
+    "Company": "Revolut",
+    "Valuation ($B)": 33.0,
+    "AI Impact Score": 1.35,
+    "Growth Rate (%)": 31.84,
+    "Sector": "Fintech",
+    "Founded Year": 2015,
+    "Country": "UK",
+    "Status": "Unicorn"
+  },
+  {
+    "Company": "Epic Games",
+    "Valuation ($B)": 31.5,
+    "AI Impact Score": 1.28,
+    "Growth Rate (%)": 18.13,
+    "Sector": "Gaming",
+    "Founded Year": 1991,
+    "Country": "USA",
+    "Status": "Unicorn"
+  },
+  {
+    "Company": "Databricks",
+    "Valuation ($B)": 31.0,
+    "AI Impact Score": 4.49,
+    "Growth Rate (%)": 131.26,
+    "Sector": "AI/ML",
+    "Founded Year": 2013,
+    "Country": "USA",
+    "Status": "Unicorn"
+  },
+  {
+    "Company": "OpenAI",
+    "Valuation ($B)": 157.0,
+    "AI Impact Score": 95.0,
+    "Growth Rate (%)": 1200.0,
+    "Sector": "AI/ML",
+    "Founded Year": 2015,
+    "Country": "USA",
+    "Status": "Unicorn"
+  },
+  {
+    "Company": "Anthropic",
+    "Valuation ($B)": 41.5,
+    "AI Impact Score": 88.0,
+    "Growth Rate (%)": 850.0,
+    "Sector": "AI/ML",
+    "Founded Year": 2021,
+    "Country": "USA",
+    "Status": "Unicorn"
+  }
+]

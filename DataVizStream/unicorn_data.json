@@ -1,0 +1,62 @@
+[
+  {
+    "Company": "OpenAI",
+    "Valuation ($B)": 157.0,
+    "AI Impact Score": 95,
+    "Growth Rate (%)": 180
+  },
+  {
+    "Company": "Anthropic", 
+    "Valuation ($B)": 41.5,
+    "AI Impact Score": 88,
+    "Growth Rate (%)": 220
+  },
+  {
+    "Company": "Databricks",
+    "Valuation ($B)": 43.0,
+    "AI Impact Score": 82,
+    "Growth Rate (%)": 85
+  },
+  {
+    "Company": "Scale AI",
+    "Valuation ($B)": 13.8,
+    "AI Impact Score": 78,
+    "Growth Rate (%)": 165
+  },
+  {
+    "Company": "Hugging Face",
+    "Valuation ($B)": 4.5,
+    "AI Impact Score": 85,
+    "Growth Rate (%)": 340
+  },
+  {
+    "Company": "Cohere",
+    "Valuation ($B)": 5.5,
+    "AI Impact Score": 75,
+    "Growth Rate (%)": 280
+  },
+  {
+    "Company": "Stability AI",
+    "Valuation ($B)": 4.0,
+    "AI Impact Score": 72,
+    "Growth Rate (%)": 450
+  },
+  {
+    "Company": "Character.AI",
+    "Valuation ($B)": 5.0,
+    "AI Impact Score": 68,
+    "Growth Rate (%)": 380
+  },
+  {
+    "Company": "Jasper",
+    "Valuation ($B)": 1.7,
+    "AI Impact Score": 65,
+    "Growth Rate (%)": 290
+  },
+  {
+    "Company": "Runway ML",
+    "Valuation ($B)": 1.5,
+    "AI Impact Score": 70,
+    "Growth Rate (%)": 320
+  }
+]

@@ -1,0 +1,7238 @@
+[
+  {
+    "Company": "ByteDance",
+    "Valuation ($B)": 225.0,
+    "AI Impact Score": 5.37,
+    "Growth Rate (%)": 62.44
+  },
+  {
+    "Company": "SpaceX",
+    "Valuation ($B)": 137.0,
+    "AI Impact Score": 1.25,
+    "Growth Rate (%)": 143.1
+  },
+  {
+    "Company": "SHEIN",
+    "Valuation ($B)": 100.0,
+    "AI Impact Score": 5.55,
+    "Growth Rate (%)": 112.48
+  },
+  {
+    "Company": "Stripe",
+    "Valuation ($B)": 50.0,
+    "AI Impact Score": 9.68,
+    "Growth Rate (%)": 93.81
+  },
+  {
+    "Company": "Canva",
+    "Valuation ($B)": 40.0,
+    "AI Impact Score": 4.46,
+    "Growth Rate (%)": 31.84
+  },
+  {
+    "Company": "Revolut",
+    "Valuation ($B)": 33.0,
+    "AI Impact Score": 1.35,
+    "Growth Rate (%)": 31.84
+  },
+  {
+    "Company": "Epic Games",
+    "Valuation ($B)": 31.5,
+    "AI Impact Score": 1.28,
+    "Growth Rate (%)": 18.13
+  },
+  {
+    "Company": "Databricks",
+    "Valuation ($B)": 31.0,
+    "AI Impact Score": 4.49,
+    "Growth Rate (%)": 131.26
+  },
+  {
+    "Company": "Fanatics",
+    "Valuation ($B)": 31.0,
+    "AI Impact Score": 2.44,
+    "Growth Rate (%)": 94.16
+  },
+  {
+    "Company": "Chime",
+    "Valuation ($B)": 25.0,
+    "AI Impact Score": 1.21,
+    "Growth Rate (%)": 109.13
+  },
+  {
+    "Company": "OpenAI",
+    "Valuation ($B)": 20.0,
+    "AI Impact Score": 7.8100000000000005,
+    "Growth Rate (%)": 12.88
+  },
+  {
+    "Company": "Xiaohongshu",
+    "Valuation ($B)": 20.0,
+    "AI Impact Score": 5.13,
+    "Growth Rate (%)": 145.79
+  },
+  {
+    "Company": "J&T Express",
+    "Valuation ($B)": 20.0,
+    "AI Impact Score": 3.6,
+    "Growth Rate (%)": 126.54
+  },
+  {
+    "Company": "Miro",
+    "Valuation ($B)": 17.5,
+    "AI Impact Score": 9.1,
+    "Growth Rate (%)": 39.73
+  },
+  {
+    "Company": "Yuanfudao",
+    "Valuation ($B)": 15.5,
+    "AI Impact Score": 2.05,
+    "Growth Rate (%)": 35.46
+  },
+  {
+    "Company": "DJI Innovations",
+    "Valuation ($B)": 15.0,
+    "AI Impact Score": 9.6,
+    "Growth Rate (%)": 35.68
+  },
+  {
+    "Company": "Discord",
+    "Valuation ($B)": 15.0,
+    "AI Impact Score": 3.83,
+    "Growth Rate (%)": 52.59
+  },
+  {
+    "Company": "goPuff",
+    "Valuation ($B)": 15.0,
+    "AI Impact Score": 9.0,
+    "Growth Rate (%)": 83.47
+  },
+  {
+    "Company": "Yuanqi Senlin",
+    "Valuation ($B)": 15.0,
+    "AI Impact Score": 6.43,
+    "Growth Rate (%)": 70.47
+  },
+  {
+    "Company": "Ripple",
+    "Valuation ($B)": 15.0,
+    "AI Impact Score": 8.44,
+    "Growth Rate (%)": 50.77
+  },
+  {
+    "Company": "Blockchain.com",
+    "Valuation ($B)": 14.0,
+    "AI Impact Score": 9.86,
+    "Growth Rate (%)": 95.66
+  },
+  {
+    "Company": "Plaid",
+    "Valuation ($B)": 13.5,
+    "AI Impact Score": 3.6,
+    "Growth Rate (%)": 29.53
+  },
+  {
+    "Company": "OpenSea",
+    "Valuation ($B)": 13.3,
+    "AI Impact Score": 9.65,
+    "Growth Rate (%)": 50.9
+  },
+  {
+    "Company": "Celonis",
+    "Valuation ($B)": 13.0,
+    "AI Impact Score": 4.51,
+    "Growth Rate (%)": 61.29
+  },
+  {
+    "Company": "Grammarly",
+    "Valuation ($B)": 13.0,
+    "AI Impact Score": 4.47,
+    "Growth Rate (%)": 73.85
+  },
+  {
+    "Company": "Devoted Health",
+    "Valuation ($B)": 12.6,
+    "AI Impact Score": 4.06,
+    "Growth Rate (%)": 119.92
+  },
+  {
+    "Company": "Faire",
+    "Valuation ($B)": 12.59,
+    "AI Impact Score": 5.87,
+    "Growth Rate (%)": 37.95
+  },
+  {
+    "Company": "Brex",
+    "Valuation ($B)": 12.3,
+    "AI Impact Score": 2.39,
+    "Growth Rate (%)": 81.99
+  },
+  {
+    "Company": "Instacart",
+    "Valuation ($B)": 12.0,
+    "AI Impact Score": 5.98,
+    "Growth Rate (%)": 92.94
+  },
+  {
+    "Company": "JUUL Labs",
+    "Valuation ($B)": 12.0,
+    "AI Impact Score": 5.88,
+    "Growth Rate (%)": 16.5
+  },
+  {
+    "Company": "Bitmain Technologies",
+    "Valuation ($B)": 12.0,
+    "AI Impact Score": 7.86,
+    "Growth Rate (%)": 95.06
+  },
+  {
+    "Company": "Biosplice Therapeutics",
+    "Valuation ($B)": 12.0,
+    "AI Impact Score": 8.5,
+    "Growth Rate (%)": 33.87
+  },
+  {
+    "Company": "GoodLeap",
+    "Valuation ($B)": 12.0,
+    "AI Impact Score": 4.96,
+    "Growth Rate (%)": 19.11
+  },
+  {
+    "Company": "Xingsheng Selected",
+    "Valuation ($B)": 12.0,
+    "AI Impact Score": 3.7199999999999998,
+    "Growth Rate (%)": 142.84
+  },
+  {
+    "Company": "Deel",
+    "Valuation ($B)": 12.0,
+    "AI Impact Score": 3.33,
+    "Growth Rate (%)": 145.19
+  },
+  {
+    "Company": "Airtable",
+    "Valuation ($B)": 11.7,
+    "AI Impact Score": 2.75,
+    "Growth Rate (%)": 123.18
+  },
+  {
+    "Company": "BYJU's",
+    "Valuation ($B)": 11.5,
+    "AI Impact Score": 1.52,
+    "Growth Rate (%)": 52.65
+  },
+  {
+    "Company": "ZongMu Technology",
+    "Valuation ($B)": 11.4,
+    "AI Impact Score": 4.08,
+    "Growth Rate (%)": 23.67
+  },
+  {
+    "Company": "Rippling",
+    "Valuation ($B)": 11.25,
+    "AI Impact Score": 3.43,
+    "Growth Rate (%)": 105.79
+  },
+  {
+    "Company": "Global Switch",
+    "Valuation ($B)": 11.1,
+    "AI Impact Score": 9.7,
+    "Growth Rate (%)": 71.62
+  },
+  {
+    "Company": "Checkout.com",
+    "Valuation ($B)": 11.0,
+    "AI Impact Score": 6.02,
+    "Growth Rate (%)": 27.09
+  },
+  {
+    "Company": "Bolt",
+    "Valuation ($B)": 11.0,
+    "AI Impact Score": 4.13,
+    "Growth Rate (%)": 79.32
+  },
+  {
+    "Company": "Alchemy",
+    "Valuation ($B)": 10.2,
+    "AI Impact Score": 6.22,
+    "Growth Rate (%)": 14.81
+  },
+  {
+    "Company": "Lalamove",
+    "Valuation ($B)": 10.0,
+    "AI Impact Score": 2.25,
+    "Growth Rate (%)": 137.3
+  },
+  {
+    "Company": "Wiz",
+    "Valuation ($B)": 10.0,
+    "AI Impact Score": 5.0,
+    "Growth Rate (%)": 46.23
+  },
+  {
+    "Company": "Gusto",
+    "Valuation ($B)": 10.0,
+    "AI Impact Score": 6.64,
+    "Growth Rate (%)": 102.75
+  },
+  {
+    "Company": "Chehaoduo",
+    "Valuation ($B)": 10.0,
+    "AI Impact Score": 5.4,
+    "Growth Rate (%)": 53.64
+  },
+  {
+    "Company": "reddit",
+    "Valuation ($B)": 10.0,
+    "AI Impact Score": 4.62,
+    "Growth Rate (%)": 82.81
+  },
+  {
+    "Company": "Talkdesk",
+    "Valuation ($B)": 10.0,
+    "AI Impact Score": 9.94,
+    "Growth Rate (%)": 86.54
+  },
+  {
+    "Company": "Notion Labs",
+    "Valuation ($B)": 10.0,
+    "AI Impact Score": 8.92,
+    "Growth Rate (%)": 35.88
+  },
+  {
+    "Company": "Thrasio",
+    "Valuation ($B)": 10.0,
+    "AI Impact Score": 6.61,
+    "Growth Rate (%)": 145.74
+  },
+  {
+    "Company": "Digital Currency Group",
+    "Valuation ($B)": 10.0,
+    "AI Impact Score": 6.12,
+    "Growth Rate (%)": 118.52
+  },
+  {
+    "Company": "KuCoin",
+    "Valuation ($B)": 10.0,
+    "AI Impact Score": 6.59,
+    "Growth Rate (%)": 141.53
+  },
+  {
+    "Company": "ServiceTitan",
+    "Valuation ($B)": 9.5,
+    "AI Impact Score": 2.81,
+    "Growth Rate (%)": 135.28
+  },
+  {
+    "Company": "HEYTEA",
+    "Valuation ($B)": 9.28,
+    "AI Impact Score": 4.5600000000000005,
+    "Growth Rate (%)": 93.71
+  },
+  {
+    "Company": "N26",
+    "Valuation ($B)": 9.23,
+    "AI Impact Score": 1.3599999999999999,
+    "Growth Rate (%)": 139.06
+  },
+  {
+    "Company": "Klaviyo",
+    "Valuation ($B)": 9.2,
+    "AI Impact Score": 5.28,
+    "Growth Rate (%)": 22.39
+  },
+  {
+    "Company": "Navan",
+    "Valuation ($B)": 9.2,
+    "AI Impact Score": 5.89,
+    "Growth Rate (%)": 37.44
+  },
+  {
+    "Company": "Northvolt",
+    "Valuation ($B)": 9.08,
+    "AI Impact Score": 3.05,
+    "Growth Rate (%)": 16.33
+  },
+  {
+    "Company": "Tanium",
+    "Valuation ($B)": 9.0,
+    "AI Impact Score": 9.68,
+    "Growth Rate (%)": 55.55
+  },
+  {
+    "Company": "Niantic",
+    "Valuation ($B)": 9.0,
+    "AI Impact Score": 9.19,
+    "Growth Rate (%)": 64.41
+  },
+  {
+    "Company": "OYO Rooms",
+    "Valuation ($B)": 9.0,
+    "AI Impact Score": 7.5,
+    "Growth Rate (%)": 47.99
+  },
+  {
+    "Company": "Getir",
+    "Valuation ($B)": 8.8,
+    "AI Impact Score": 5.8,
+    "Growth Rate (%)": 126.02
+  },
+  {
+    "Company": "Rapyd",
+    "Valuation ($B)": 8.75,
+    "AI Impact Score": 8.83,
+    "Growth Rate (%)": 59.95
+  },
+  {
+    "Company": "Kavak",
+    "Valuation ($B)": 8.7,
+    "AI Impact Score": 2.18,
+    "Growth Rate (%)": 49.33
+  },
+  {
+    "Company": "Nuro",
+    "Valuation ($B)": 8.6,
+    "AI Impact Score": 8.11,
+    "Growth Rate (%)": 85.98
+  },
+  {
+    "Company": "Chainalysis",
+    "Valuation ($B)": 8.6,
+    "AI Impact Score": 2.12,
+    "Growth Rate (%)": 29.73
+  },
+  {
+    "Company": "Pony.ai",
+    "Valuation ($B)": 8.5,
+    "AI Impact Score": 8.15,
+    "Growth Rate (%)": 122.31
+  },
+  {
+    "Company": "Personio",
+    "Valuation ($B)": 8.5,
+    "AI Impact Score": 3.48,
+    "Growth Rate (%)": 20.44
+  },
+  {
+    "Company": "Anduril",
+    "Valuation ($B)": 8.48,
+    "AI Impact Score": 8.89,
+    "Growth Rate (%)": 148.16
+  },
+  {
+    "Company": "SumUp",
+    "Valuation ($B)": 8.5,
+    "AI Impact Score": 9.5,
+    "Growth Rate (%)": 118.11
+  },
+  {
+    "Company": "Bolt",
+    "Valuation ($B)": 8.4,
+    "AI Impact Score": 2.34,
+    "Growth Rate (%)": 37.82
+  },
+  {
+    "Company": "Lacework",
+    "Valuation ($B)": 8.3,
+    "AI Impact Score": 5.16,
+    "Growth Rate (%)": 10.77
+  },
+  {
+    "Company": "Tipalti",
+    "Valuation ($B)": 8.3,
+    "AI Impact Score": 9.83,
+    "Growth Rate (%)": 124.16
+  },
+  {
+    "Company": "Tempus",
+    "Valuation ($B)": 8.1,
+    "AI Impact Score": 5.35,
+    "Growth Rate (%)": 108.96
+  },
+  {
+    "Company": "Ramp",
+    "Valuation ($B)": 8.1,
+    "AI Impact Score": 8.77,
+    "Growth Rate (%)": 112.06
+  },
+  {
+    "Company": "Swiggy",
+    "Valuation ($B)": 8.0,
+    "AI Impact Score": 6.3,
+    "Growth Rate (%)": 117.98
+  },
+  {
+    "Company": "Dream11",
+    "Valuation ($B)": 8.0,
+    "AI Impact Score": 4.38,
+    "Growth Rate (%)": 20.37
+  },
+  {
+    "Company": "Fireblocks",
+    "Valuation ($B)": 8.0,
+    "AI Impact Score": 3.5700000000000003,
+    "Growth Rate (%)": 60.19
+  },
+  {
+    "Company": "Flexport",
+    "Valuation ($B)": 8.0,
+    "AI Impact Score": 2.83,
+    "Growth Rate (%)": 26.22
+  },
+  {
+    "Company": "FalconX",
+    "Valuation ($B)": 8.0,
+    "AI Impact Score": 7.86,
+    "Growth Rate (%)": 130.83
+  },
+  {
+    "Company": "Caris",
+    "Valuation ($B)": 7.83,
+    "AI Impact Score": 4.48,
+    "Growth Rate (%)": 97.26
+  },
+  {
+    "Company": "Dapper Labs",
+    "Valuation ($B)": 7.6,
+    "AI Impact Score": 5.6,
+    "Growth Rate (%)": 56.33
+  },
+  {
+    "Company": "Hopin",
+    "Valuation ($B)": 7.75,
+    "AI Impact Score": 5.43,
+    "Growth Rate (%)": 18.9
+  },
+  {
+    "Company": "Netskope",
+    "Valuation ($B)": 7.5,
+    "AI Impact Score": 6.2,
+    "Growth Rate (%)": 53.54
+  },
+  {
+    "Company": "Razorpay",
+    "Valuation ($B)": 7.5,
+    "AI Impact Score": 8.79,
+    "Growth Rate (%)": 55.53
+  },
+  {
+    "Company": "Automattic",
+    "Valuation ($B)": 7.5,
+    "AI Impact Score": 9.83,
+    "Growth Rate (%)": 112.14
+  },
+  {
+    "Company": "Carta",
+    "Valuation ($B)": 7.4,
+    "AI Impact Score": 4.67,
+    "Growth Rate (%)": 99.26
+  },
+  {
+    "Company": "Snyk",
+    "Valuation ($B)": 7.4,
+    "AI Impact Score": 8.45,
+    "Growth Rate (%)": 134.21
+  },
+  {
+    "Company": "Scale AI",
+    "Valuation ($B)": 7.3,
+    "AI Impact Score": 7.88,
+    "Growth Rate (%)": 76.11
+  },
+  {
+    "Company": "Gong",
+    "Valuation ($B)": 7.25,
+    "AI Impact Score": 6.16,
+    "Growth Rate (%)": 26.74
+  },
+  {
+    "Company": "Gemini",
+    "Valuation ($B)": 7.1,
+    "AI Impact Score": 9.6,
+    "Growth Rate (%)": 109.85
+  },
+  {
+    "Company": "Toss",
+    "Valuation ($B)": 7.0,
+    "AI Impact Score": 2.8,
+    "Growth Rate (%)": 116.51
+  },
+  {
+    "Company": "We Doctor",
+    "Valuation ($B)": 7.0,
+    "AI Impact Score": 1.98,
+    "Growth Rate (%)": 88.58
+  },
+  {
+    "Company": "Ro",
+    "Valuation ($B)": 7.0,
+    "AI Impact Score": 8.69,
+    "Growth Rate (%)": 117.94
+  },
+  {
+    "Company": "ConsenSys",
+    "Valuation ($B)": 7.0,
+    "AI Impact Score": 4.95,
+    "Growth Rate (%)": 79.13
+  },
+  {
+    "Company": "Automation Anywhere",
+    "Valuation ($B)": 6.8,
+    "AI Impact Score": 8.62,
+    "Growth Rate (%)": 83.18
+  },
+  {
+    "Company": "1Password",
+    "Valuation ($B)": 6.8,
+    "AI Impact Score": 9.04,
+    "Growth Rate (%)": 69.86
+  },
+  {
+    "Company": "Klarna",
+    "Valuation ($B)": 6.7,
+    "AI Impact Score": 1.56,
+    "Growth Rate (%)": 13.56
+  },
+  {
+    "Company": "Ziroom",
+    "Valuation ($B)": 6.6,
+    "AI Impact Score": 8.95,
+    "Growth Rate (%)": 25.1
+  },
+  {
+    "Company": "SVOLT",
+    "Valuation ($B)": 6.51,
+    "AI Impact Score": 5.03,
+    "Growth Rate (%)": 14.4
+  },
+  {
+    "Company": "National Stock Exchange of India",
+    "Valuation ($B)": 6.5,
+    "AI Impact Score": 5.59,
+    "Growth Rate (%)": 99.1
+  },
+  {
+    "Company": "Mollie",
+    "Valuation ($B)": 6.5,
+    "AI Impact Score": 6.64,
+    "Growth Rate (%)": 54.01
+  },
+  {
+    "Company": "Ola Cabs",
+    "Valuation ($B)": 7.5,
+    "AI Impact Score": 9.34,
+    "Growth Rate (%)": 81.2
+  },
+  {
+    "Company": "Doctolib",
+    "Valuation ($B)": 6.4,
+    "AI Impact Score": 1.17,
+    "Growth Rate (%)": 137.06
+  },
+  {
+    "Company": "CRED",
+    "Valuation ($B)": 6.4,
+    "AI Impact Score": 5.29,
+    "Growth Rate (%)": 44.9
+  },
+  {
+    "Company": "DataRobot",
+    "Valuation ($B)": 6.3,
+    "AI Impact Score": 7.19,
+    "Growth Rate (%)": 67.45
+  },
+  {
+    "Company": "Upgrade",
+    "Valuation ($B)": 6.28,
+    "AI Impact Score": 7.5,
+    "Growth Rate (%)": 115.78
+  },
+  {
+    "Company": "Hinge Health",
+    "Valuation ($B)": 6.2,
+    "AI Impact Score": 7.23,
+    "Growth Rate (%)": 42.03
+  },
+  {
+    "Company": "Black Unicorn Factory",
+    "Valuation ($B)": 6.1,
+    "AI Impact Score": 2.21,
+    "Growth Rate (%)": 20.78
+  },
+  {
+    "Company": "Benchling",
+    "Valuation ($B)": 6.1,
+    "AI Impact Score": 3.69,
+    "Growth Rate (%)": 50.57
+  },
+  {
+    "Company": "Royole Corporation",
+    "Valuation ($B)": 6.0,
+    "AI Impact Score": 4.23,
+    "Growth Rate (%)": 32.57
+  },
+  {
+    "Company": "Better.com",
+    "Valuation ($B)": 6.0,
+    "AI Impact Score": 8.24,
+    "Growth Rate (%)": 140.16
+  },
+  {
+    "Company": "iCapital Network",
+    "Valuation ($B)": 6.0,
+    "AI Impact Score": 3.51,
+    "Growth Rate (%)": 123.14
+  },
+  {
+    "Company": "6Sense",
+    "Valuation ($B)": 5.2,
+    "AI Impact Score": 2.9,
+    "Growth Rate (%)": 98.68
+  },
+  {
+    "Company": "Attentive",
+    "Valuation ($B)": 5.99,
+    "AI Impact Score": 9.62,
+    "Growth Rate (%)": 132.0
+  },
+  {
+    "Company": "Easyhome",
+    "Valuation ($B)": 5.78,
+    "AI Impact Score": 1.08,
+    "Growth Rate (%)": 122.51
+  },
+  {
+    "Company": "Lianjia",
+    "Valuation ($B)": 5.77,
+    "AI Impact Score": 9.98,
+    "Growth Rate (%)": 36.12
+  },
+  {
+    "Company": "Vice Media",
+    "Valuation ($B)": 5.7,
+    "AI Impact Score": 7.09,
+    "Growth Rate (%)": 134.96
+  },
+  {
+    "Company": "Cityblock Health",
+    "Valuation ($B)": 5.7,
+    "AI Impact Score": 8.46,
+    "Growth Rate (%)": 85.51
+  },
+  {
+    "Company": "Workato",
+    "Valuation ($B)": 5.7,
+    "AI Impact Score": 3.65,
+    "Growth Rate (%)": 123.04
+  },
+  {
+    "Company": "Back Market",
+    "Valuation ($B)": 5.7,
+    "AI Impact Score": 1.13,
+    "Growth Rate (%)": 135.45
+  },
+  {
+    "Company": "RELEX",
+    "Valuation ($B)": 5.7,
+    "AI Impact Score": 7.64,
+    "Growth Rate (%)": 54.52
+  },
+  {
+    "Company": "The Boring Company",
+    "Valuation ($B)": 5.7,
+    "AI Impact Score": 8.51,
+    "Growth Rate (%)": 25.41
+  },
+  {
+    "Company": "Postman",
+    "Valuation ($B)": 5.6,
+    "AI Impact Score": 7.66,
+    "Growth Rate (%)": 41.91
+  },
+  {
+    "Company": "FiveTran",
+    "Valuation ($B)": 5.6,
+    "AI Impact Score": 2.29,
+    "Growth Rate (%)": 69.8
+  },
+  {
+    "Company": "ContentSquare",
+    "Valuation ($B)": 5.6,
+    "AI Impact Score": 7.78,
+    "Growth Rate (%)": 124.52
+  },
+  {
+    "Company": "Trade Republic",
+    "Valuation ($B)": 5.36,
+    "AI Impact Score": 7.92,
+    "Growth Rate (%)": 130.5
+  },
+  {
+    "Company": "Rappi",
+    "Valuation ($B)": 5.25,
+    "AI Impact Score": 6.93,
+    "Growth Rate (%)": 10.97
+  },
+  {
+    "Company": "Collibra",
+    "Valuation ($B)": 5.25,
+    "AI Impact Score": 7.9,
+    "Growth Rate (%)": 81.5
+  },
+  {
+    "Company": "OneTrust",
+    "Valuation ($B)": 5.1,
+    "AI Impact Score": 8.61,
+    "Growth Rate (%)": 68.44
+  },
+  {
+    "Company": "QuintoAndar",
+    "Valuation ($B)": 5.1,
+    "AI Impact Score": 6.52,
+    "Growth Rate (%)": 41.1
+  },
+  {
+    "Company": "C6 Bank",
+    "Valuation ($B)": 5.05,
+    "AI Impact Score": 1.8,
+    "Growth Rate (%)": 26.78
+  },
+  {
+    "Company": "Flink",
+    "Valuation ($B)": 5.0,
+    "AI Impact Score": 5.39,
+    "Growth Rate (%)": 57.27
+  },
+  {
+    "Company": "Hello TransTech",
+    "Valuation ($B)": 5.0,
+    "AI Impact Score": 1.7000000000000002,
+    "Growth Rate (%)": 142.01
+  },
+  {
+    "Company": "Airwallex",
+    "Valuation ($B)": 5.5,
+    "AI Impact Score": 4.67,
+    "Growth Rate (%)": 55.25
+  },
+  {
+    "Company": "Mambu",
+    "Valuation ($B)": 5.5,
+    "AI Impact Score": 4.66,
+    "Growth Rate (%)": 82.63
+  },
+  {
+    "Company": "Horizon Robotics",
+    "Valuation ($B)": 5.0,
+    "AI Impact Score": 1.5899999999999999,
+    "Growth Rate (%)": 108.42
+  },
+  {
+    "Company": "Howden Group Holdings",
+    "Valuation ($B)": 5.0,
+    "AI Impact Score": 4.14,
+    "Growth Rate (%)": 60.91
+  },
+  {
+    "Company": "SambaNova Systems",
+    "Valuation ($B)": 5.0,
+    "AI Impact Score": 2.0,
+    "Growth Rate (%)": 146.05
+  },
+  {
+    "Company": "ZEPZ",
+    "Valuation ($B)": 5.0,
+    "AI Impact Score": 8.27,
+    "Growth Rate (%)": 144.74
+  },
+  {
+    "Company": "OakNorth Bank",
+    "Valuation ($B)": 5.0,
+    "AI Impact Score": 9.53,
+    "Growth Rate (%)": 45.25
+  },
+  {
+    "Company": "Moon Active",
+    "Valuation ($B)": 5.0,
+    "AI Impact Score": 1.65,
+    "Growth Rate (%)": 79.61
+  },
+  {
+    "Company": "OfBusiness",
+    "Valuation ($B)": 5.0,
+    "AI Impact Score": 9.6,
+    "Growth Rate (%)": 52.12
+  },
+  {
+    "Company": "Cockroach Labs",
+    "Valuation ($B)": 5.0,
+    "AI Impact Score": 5.7,
+    "Growth Rate (%)": 49.88
+  },
+  {
+    "Company": "Pine Labs",
+    "Valuation ($B)": 5.0,
+    "AI Impact Score": 3.7,
+    "Growth Rate (%)": 15.16
+  },
+  {
+    "Company": "Qonto",
+    "Valuation ($B)": 5.0,
+    "AI Impact Score": 1.69,
+    "Growth Rate (%)": 95.34
+  },
+  {
+    "Company": "Ola Electric Mobility",
+    "Valuation ($B)": 5.0,
+    "AI Impact Score": 5.51,
+    "Growth Rate (%)": 80.38
+  },
+  {
+    "Company": "Icertis",
+    "Valuation ($B)": 5.0,
+    "AI Impact Score": 8.15,
+    "Growth Rate (%)": 17.21
+  },
+  {
+    "Company": "Hopper",
+    "Valuation ($B)": 5.0,
+    "AI Impact Score": 7.36,
+    "Growth Rate (%)": 49.01
+  },
+  {
+    "Company": "VerSe Innovation",
+    "Valuation ($B)": 5.0,
+    "AI Impact Score": 1.45,
+    "Growth Rate (%)": 137.16
+  },
+  {
+    "Company": "ShareChat",
+    "Valuation ($B)": 5.0,
+    "AI Impact Score": 1.6600000000000001,
+    "Growth Rate (%)": 43.54
+  },
+  {
+    "Company": "Coalition",
+    "Valuation ($B)": 5.0,
+    "AI Impact Score": 4.63,
+    "Growth Rate (%)": 30.29
+  },
+  {
+    "Company": "Grafana Labs",
+    "Valuation ($B)": 4.93,
+    "AI Impact Score": 3.66,
+    "Growth Rate (%)": 78.52
+  },
+  {
+    "Company": "Meesho",
+    "Valuation ($B)": 4.9,
+    "AI Impact Score": 3.09,
+    "Growth Rate (%)": 147.99
+  },
+  {
+    "Company": "Cerebral",
+    "Valuation ($B)": 4.8,
+    "AI Impact Score": 3.5300000000000002,
+    "Growth Rate (%)": 43.89
+  },
+  {
+    "Company": "Creditas",
+    "Valuation ($B)": 4.8,
+    "AI Impact Score": 8.23,
+    "Growth Rate (%)": 104.1
+  },
+  {
+    "Company": "Reify Health",
+    "Valuation ($B)": 4.8,
+    "AI Impact Score": 9.36,
+    "Growth Rate (%)": 116.63
+  },
+  {
+    "Company": "Chipone",
+    "Valuation ($B)": 4.73,
+    "AI Impact Score": 4.65,
+    "Growth Rate (%)": 43.27
+  },
+  {
+    "Company": "BetterUp",
+    "Valuation ($B)": 4.7,
+    "AI Impact Score": 9.15,
+    "Growth Rate (%)": 111.95
+  },
+  {
+    "Company": "Pleo",
+    "Valuation ($B)": 4.7,
+    "AI Impact Score": 3.89,
+    "Growth Rate (%)": 61.49
+  },
+  {
+    "Company": "SonarSource",
+    "Valuation ($B)": 4.7,
+    "AI Impact Score": 5.29,
+    "Growth Rate (%)": 98.52
+  },
+  {
+    "Company": "Lyra Health",
+    "Valuation ($B)": 5.85,
+    "AI Impact Score": 3.03,
+    "Growth Rate (%)": 98.69
+  },
+  {
+    "Company": "Checkr",
+    "Valuation ($B)": 4.6,
+    "AI Impact Score": 6.76,
+    "Growth Rate (%)": 85.01
+  },
+  {
+    "Company": "Color",
+    "Valuation ($B)": 4.6,
+    "AI Impact Score": 9.81,
+    "Growth Rate (%)": 22.64
+  },
+  {
+    "Company": "Lendable",
+    "Valuation ($B)": 4.58,
+    "AI Impact Score": 6.43,
+    "Growth Rate (%)": 126.94
+  },
+  {
+    "Company": "Vinted",
+    "Valuation ($B)": 4.53,
+    "AI Impact Score": 4.22,
+    "Growth Rate (%)": 54.91
+  },
+  {
+    "Company": "VIPKid",
+    "Valuation ($B)": 4.5,
+    "AI Impact Score": 6.83,
+    "Growth Rate (%)": 36.11
+  },
+  {
+    "Company": "Socure",
+    "Valuation ($B)": 4.5,
+    "AI Impact Score": 2.11,
+    "Growth Rate (%)": 15.71
+  },
+  {
+    "Company": "Monzo",
+    "Valuation ($B)": 4.5,
+    "AI Impact Score": 9.0,
+    "Growth Rate (%)": 92.73
+  },
+  {
+    "Company": "UBTECH Robotics",
+    "Valuation ($B)": 4.58,
+    "AI Impact Score": 5.53,
+    "Growth Rate (%)": 104.86
+  },
+  {
+    "Company": "wefox",
+    "Valuation ($B)": 4.5,
+    "AI Impact Score": 5.04,
+    "Growth Rate (%)": 12.32
+  },
+  {
+    "Company": "Lenskart",
+    "Valuation ($B)": 4.5,
+    "AI Impact Score": 6.27,
+    "Growth Rate (%)": 81.69
+  },
+  {
+    "Company": "Anthropic",
+    "Valuation ($B)": 4.4,
+    "AI Impact Score": 6.62,
+    "Growth Rate (%)": 41.71
+  },
+  {
+    "Company": "Outreach",
+    "Valuation ($B)": 4.4,
+    "AI Impact Score": 1.65,
+    "Growth Rate (%)": 100.32
+  },
+  {
+    "Company": "WeRide",
+    "Valuation ($B)": 4.4,
+    "AI Impact Score": 7.14,
+    "Growth Rate (%)": 34.41
+  },
+  {
+    "Company": "Guild Education",
+    "Valuation ($B)": 4.4,
+    "AI Impact Score": 3.18,
+    "Growth Rate (%)": 106.73
+  },
+  {
+    "Company": "Arctic Wolf Networks",
+    "Valuation ($B)": 4.3,
+    "AI Impact Score": 7.43,
+    "Growth Rate (%)": 64.14
+  },
+  {
+    "Company": "OutSystems",
+    "Valuation ($B)": 4.3,
+    "AI Impact Score": 8.4,
+    "Growth Rate (%)": 141.14
+  },
+  {
+    "Company": "Sorare",
+    "Valuation ($B)": 4.3,
+    "AI Impact Score": 8.24,
+    "Growth Rate (%)": 29.25
+  },
+  {
+    "Company": "Relativity Space",
+    "Valuation ($B)": 4.2,
+    "AI Impact Score": 5.97,
+    "Growth Rate (%)": 57.75
+  },
+  {
+    "Company": "Miaoshou Doctor",
+    "Valuation ($B)": 4.25,
+    "AI Impact Score": 5.68,
+    "Growth Rate (%)": 25.89
+  },
+  {
+    "Company": "ThoughtSpot",
+    "Valuation ($B)": 4.2,
+    "AI Impact Score": 2.29,
+    "Growth Rate (%)": 139.46
+  },
+  {
+    "Company": "Globalization Partners",
+    "Valuation ($B)": 4.2,
+    "AI Impact Score": 7.98,
+    "Growth Rate (%)": 132.83
+  },
+  {
+    "Company": "dbt Labs",
+    "Valuation ($B)": 4.2,
+    "AI Impact Score": 3.44,
+    "Growth Rate (%)": 46.11
+  },
+  {
+    "Company": "SSENSE",
+    "Valuation ($B)": 4.15,
+    "AI Impact Score": 5.47,
+    "Growth Rate (%)": 102.4
+  },
+  {
+    "Company": "Dataminr",
+    "Valuation ($B)": 4.1,
+    "AI Impact Score": 3.56,
+    "Growth Rate (%)": 124.41
+  },
+  {
+    "Company": "BitPanda",
+    "Valuation ($B)": 4.11,
+    "AI Impact Score": 2.2,
+    "Growth Rate (%)": 87.73
+  },
+  {
+    "Company": "Weee!",
+    "Valuation ($B)": 4.1,
+    "AI Impact Score": 6.67,
+    "Growth Rate (%)": 84.15
+  },
+  {
+    "Company": "Skydance Media",
+    "Valuation ($B)": 4.0,
+    "AI Impact Score": 1.49,
+    "Growth Rate (%)": 43.86
+  },
+  {
+    "Company": "Houzz",
+    "Valuation ($B)": 4.0,
+    "AI Impact Score": 7.74,
+    "Growth Rate (%)": 23.03
+  },
+  {
+    "Company": "Yello Mobile",
+    "Valuation ($B)": 4.0,
+    "AI Impact Score": 3.86,
+    "Growth Rate (%)": 135.61
+  },
+  {
+    "Company": "MEGVII",
+    "Valuation ($B)": 4.0,
+    "AI Impact Score": 1.0,
+    "Growth Rate (%)": 136.06
+  },
+  {
+    "Company": "Greensill",
+    "Valuation ($B)": 4.0,
+    "AI Impact Score": 5.6,
+    "Growth Rate (%)": 98.63
+  },
+  {
+    "Company": "Impossible Foods",
+    "Valuation ($B)": 4.0,
+    "AI Impact Score": 1.42,
+    "Growth Rate (%)": 57.46
+  },
+  {
+    "Company": "Radiology Partners",
+    "Valuation ($B)": 4.0,
+    "AI Impact Score": 3.49,
+    "Growth Rate (%)": 58.89
+  },
+  {
+    "Company": "Next Insurance",
+    "Valuation ($B)": 4.0,
+    "AI Impact Score": 7.36,
+    "Growth Rate (%)": 111.63
+  },
+  {
+    "Company": "PointClickCare",
+    "Valuation ($B)": 4.0,
+    "AI Impact Score": 1.56,
+    "Growth Rate (%)": 135.6
+  },
+  {
+    "Company": "Zapier",
+    "Valuation ($B)": 4.0,
+    "AI Impact Score": 8.55,
+    "Growth Rate (%)": 134.19
+  },
+  {
+    "Company": "Clubhouse",
+    "Valuation ($B)": 4.0,
+    "AI Impact Score": 1.03,
+    "Growth Rate (%)": 119.18
+  },
+  {
+    "Company": "BrowserStack",
+    "Valuation ($B)": 4.0,
+    "AI Impact Score": 3.22,
+    "Growth Rate (%)": 99.88
+  },
+  {
+    "Company": "Olive",
+    "Valuation ($B)": 4.0,
+    "AI Impact Score": 7.67,
+    "Growth Rate (%)": 21.78
+  },
+  {
+    "Company": "Rubrik",
+    "Valuation ($B)": 4.0,
+    "AI Impact Score": 3.85,
+    "Growth Rate (%)": 32.63
+  },
+  {
+    "Company": "Melio",
+    "Valuation ($B)": 4.0,
+    "AI Impact Score": 1.92,
+    "Growth Rate (%)": 135.8
+  },
+  {
+    "Company": "Vuori",
+    "Valuation ($B)": 4.0,
+    "AI Impact Score": 4.24,
+    "Growth Rate (%)": 94.9
+  },
+  {
+    "Company": "ClickUp",
+    "Valuation ($B)": 4.0,
+    "AI Impact Score": 3.43,
+    "Growth Rate (%)": 11.29
+  },
+  {
+    "Company": "Cerebras Systems",
+    "Valuation ($B)": 4.0,
+    "AI Impact Score": 8.58,
+    "Growth Rate (%)": 24.21
+  },
+  {
+    "Company": "Farmers Business Network",
+    "Valuation ($B)": 4.0,
+    "AI Impact Score": 3.8200000000000003,
+    "Growth Rate (%)": 102.89
+  },
+  {
+    "Company": "Branch",
+    "Valuation ($B)": 4.0,
+    "AI Impact Score": 8.1,
+    "Growth Rate (%)": 10.71
+  },
+  {
+    "Company": "Aurora Solar",
+    "Valuation ($B)": 4.0,
+    "AI Impact Score": 9.03,
+    "Growth Rate (%)": 32.51
+  },
+  {
+    "Company": "Webflow",
+    "Valuation ($B)": 4.0,
+    "AI Impact Score": 4.9,
+    "Growth Rate (%)": 86.82
+  },
+  {
+    "Company": "Yuga Labs",
+    "Valuation ($B)": 4.0,
+    "AI Impact Score": 9.19,
+    "Growth Rate (%)": 106.87
+  },
+  {
+    "Company": "Digit Insurance",
+    "Valuation ($B)": 4.0,
+    "AI Impact Score": 4.4,
+    "Growth Rate (%)": 101.27
+  },
+  {
+    "Company": "Abnormal Security",
+    "Valuation ($B)": 4.0,
+    "AI Impact Score": 9.68,
+    "Growth Rate (%)": 41.4
+  },
+  {
+    "Company": "Medlinker",
+    "Valuation ($B)": 3.92,
+    "AI Impact Score": 1.8,
+    "Growth Rate (%)": 109.71
+  },
+  {
+    "Company": "Intarcia Therapeutics",
+    "Valuation ($B)": 3.8,
+    "AI Impact Score": 7.18,
+    "Growth Rate (%)": 43.21
+  },
+  {
+    "Company": "StockX",
+    "Valuation ($B)": 3.8,
+    "AI Impact Score": 5.44,
+    "Growth Rate (%)": 55.56
+  },
+  {
+    "Company": "MessageBird",
+    "Valuation ($B)": 3.8,
+    "AI Impact Score": 4.49,
+    "Growth Rate (%)": 114.51
+  },
+  {
+    "Company": "Convoy",
+    "Valuation ($B)": 3.8,
+    "AI Impact Score": 6.69,
+    "Growth Rate (%)": 100.95
+  },
+  {
+    "Company": "Articulate",
+    "Valuation ($B)": 3.75,
+    "AI Impact Score": 7.33,
+    "Growth Rate (%)": 128.89
+  },
+  {
+    "Company": "Dutchie",
+    "Valuation ($B)": 3.75,
+    "AI Impact Score": 1.04,
+    "Growth Rate (%)": 102.07
+  },
+  {
+    "Company": "Cohesity",
+    "Valuation ($B)": 3.7,
+    "AI Impact Score": 2.5,
+    "Growth Rate (%)": 89.56
+  },
+  {
+    "Company": "Dataiku",
+    "Valuation ($B)": 3.7,
+    "AI Impact Score": 7.42,
+    "Growth Rate (%)": 23.11
+  },
+  {
+    "Company": "VAST Data",
+    "Valuation ($B)": 3.7,
+    "AI Impact Score": 7.0,
+    "Growth Rate (%)": 61.48
+  },
+  {
+    "Company": "GOAT",
+    "Valuation ($B)": 3.7,
+    "AI Impact Score": 9.69,
+    "Growth Rate (%)": 47.13
+  },
+  {
+    "Company": "Noom",
+    "Valuation ($B)": 3.7,
+    "AI Impact Score": 7.85,
+    "Growth Rate (%)": 44.16
+  },
+  {
+    "Company": "Redwood Materials",
+    "Valuation ($B)": 3.7,
+    "AI Impact Score": 9.56,
+    "Growth Rate (%)": 146.22
+  },
+  {
+    "Company": "Papaya Global",
+    "Valuation ($B)": 3.7,
+    "AI Impact Score": 7.32,
+    "Growth Rate (%)": 65.03
+  },
+  {
+    "Company": "Abogen",
+    "Valuation ($B)": 3.7,
+    "AI Impact Score": 3.68,
+    "Growth Rate (%)": 134.89
+  },
+  {
+    "Company": "Harness",
+    "Valuation ($B)": 3.7,
+    "AI Impact Score": 1.9500000000000002,
+    "Growth Rate (%)": 98.36
+  },
+  {
+    "Company": "Whatnot",
+    "Valuation ($B)": 3.7,
+    "AI Impact Score": 8.04,
+    "Growth Rate (%)": 121.27
+  },
+  {
+    "Company": "Autograph",
+    "Valuation ($B)": 3.66,
+    "AI Impact Score": 6.8,
+    "Growth Rate (%)": 80.37
+  },
+  {
+    "Company": "Relativity",
+    "Valuation ($B)": 3.6,
+    "AI Impact Score": 1.43,
+    "Growth Rate (%)": 90.77
+  },
+  {
+    "Company": "Whoop",
+    "Valuation ($B)": 3.6,
+    "AI Impact Score": 4.24,
+    "Growth Rate (%)": 78.95
+  },
+  {
+    "Company": "Applied Intuition",
+    "Valuation ($B)": 3.6,
+    "AI Impact Score": 9.61,
+    "Growth Rate (%)": 37.33
+  },
+  {
+    "Company": "Course Hero",
+    "Valuation ($B)": 3.6,
+    "AI Impact Score": 5.5,
+    "Growth Rate (%)": 111.14
+  },
+  {
+    "Company": "SpotOn",
+    "Valuation ($B)": 3.6,
+    "AI Impact Score": 4.89,
+    "Growth Rate (%)": 49.31
+  },
+  {
+    "Company": "Otto Bock HealthCare",
+    "Valuation ($B)": 3.52,
+    "AI Impact Score": 5.12,
+    "Growth Rate (%)": 13.4
+  },
+  {
+    "Company": "Indigo Ag",
+    "Valuation ($B)": 3.5,
+    "AI Impact Score": 2.88,
+    "Growth Rate (%)": 100.37
+  },
+  {
+    "Company": "HyalRoute",
+    "Valuation ($B)": 3.5,
+    "AI Impact Score": 4.32,
+    "Growth Rate (%)": 34.8
+  },
+  {
+    "Company": "Rec Room",
+    "Valuation ($B)": 3.5,
+    "AI Impact Score": 4.33,
+    "Growth Rate (%)": 141.66
+  },
+  {
+    "Company": "Commure",
+    "Valuation ($B)": 3.5,
+    "AI Impact Score": 1.47,
+    "Growth Rate (%)": 143.55
+  },
+  {
+    "Company": "Mirakl",
+    "Valuation ($B)": 3.5,
+    "AI Impact Score": 7.91,
+    "Growth Rate (%)": 138.08
+  },
+  {
+    "Company": "Tekion",
+    "Valuation ($B)": 3.5,
+    "AI Impact Score": 4.75,
+    "Growth Rate (%)": 61.82
+  },
+  {
+    "Company": "Celsius Network",
+    "Valuation ($B)": 3.5,
+    "AI Impact Score": 8.4,
+    "Growth Rate (%)": 12.16
+  },
+  {
+    "Company": "GoStudent",
+    "Valuation ($B)": 3.5,
+    "AI Impact Score": 8.65,
+    "Growth Rate (%)": 139.96
+  },
+  {
+    "Company": "Highspot",
+    "Valuation ($B)": 3.5,
+    "AI Impact Score": 2.91,
+    "Growth Rate (%)": 69.95
+  },
+  {
+    "Company": "Handshake",
+    "Valuation ($B)": 3.5,
+    "AI Impact Score": 6.92,
+    "Growth Rate (%)": 145.33
+  },
+  {
+    "Company": "ChargeBee Technologies",
+    "Valuation ($B)": 3.5,
+    "AI Impact Score": 5.25,
+    "Growth Rate (%)": 144.91
+  },
+  {
+    "Company": "Flock Safety",
+    "Valuation ($B)": 3.5,
+    "AI Impact Score": 8.92,
+    "Growth Rate (%)": 129.42
+  },
+  {
+    "Company": "Helion Energy",
+    "Valuation ($B)": 3.5,
+    "AI Impact Score": 2.94,
+    "Growth Rate (%)": 51.22
+  },
+  {
+    "Company": "Acronis",
+    "Valuation ($B)": 3.5,
+    "AI Impact Score": 7.1,
+    "Growth Rate (%)": 63.91
+  },
+  {
+    "Company": "Unacademy",
+    "Valuation ($B)": 3.44,
+    "AI Impact Score": 6.47,
+    "Growth Rate (%)": 129.16
+  },
+  {
+    "Company": "Odoo",
+    "Valuation ($B)": 3.43,
+    "AI Impact Score": 3.66,
+    "Growth Rate (%)": 54.37
+  },
+  {
+    "Company": "MoonPay",
+    "Valuation ($B)": 3.4,
+    "AI Impact Score": 2.23,
+    "Growth Rate (%)": 33.73
+  },
+  {
+    "Company": "Upstox",
+    "Valuation ($B)": 3.4,
+    "AI Impact Score": 6.86,
+    "Growth Rate (%)": 87.95
+  },
+  {
+    "Company": "Improbable",
+    "Valuation ($B)": 3.36,
+    "AI Impact Score": 7.65,
+    "Growth Rate (%)": 141.06
+  },
+  {
+    "Company": "Youxia Motors",
+    "Valuation ($B)": 3.35,
+    "AI Impact Score": 3.84,
+    "Growth Rate (%)": 107.44
+  },
+  {
+    "Company": "OwnBackup",
+    "Valuation ($B)": 3.35,
+    "AI Impact Score": 6.8,
+    "Growth Rate (%)": 89.81
+  },
+  {
+    "Company": "Starburst",
+    "Valuation ($B)": 3.35,
+    "AI Impact Score": 4.5600000000000005,
+    "Growth Rate (%)": 23.6
+  },
+  {
+    "Company": "Sila Nanotechnologies",
+    "Valuation ($B)": 3.3,
+    "AI Impact Score": 7.42,
+    "Growth Rate (%)": 96.1
+  },
+  {
+    "Company": "Scopely",
+    "Valuation ($B)": 3.3,
+    "AI Impact Score": 2.79,
+    "Growth Rate (%)": 148.61
+  },
+  {
+    "Company": "Komodo Health",
+    "Valuation ($B)": 3.3,
+    "AI Impact Score": 9.01,
+    "Growth Rate (%)": 29.61
+  },
+  {
+    "Company": "Kurly",
+    "Valuation ($B)": 3.3,
+    "AI Impact Score": 3.59,
+    "Growth Rate (%)": 82.57
+  },
+  {
+    "Company": "Cars24",
+    "Valuation ($B)": 3.3,
+    "AI Impact Score": 4.31,
+    "Growth Rate (%)": 132.83
+  },
+  {
+    "Company": "BlockDaemon",
+    "Valuation ($B)": 3.25,
+    "AI Impact Score": 1.52,
+    "Growth Rate (%)": 113.71
+  },
+  {
+    "Company": "Dadi Cinema",
+    "Valuation ($B)": 3.24,
+    "AI Impact Score": 2.0,
+    "Growth Rate (%)": 107.58
+  },
+  {
+    "Company": "Aiven",
+    "Valuation ($B)": 3.21,
+    "AI Impact Score": 5.64,
+    "Growth Rate (%)": 108.35
+  },
+  {
+    "Company": "Astera Labs",
+    "Valuation ($B)": 3.2,
+    "AI Impact Score": 3.41,
+    "Growth Rate (%)": 60.33
+  },
+  {
+    "Company": "Thumbtack",
+    "Valuation ($B)": 3.2,
+    "AI Impact Score": 8.52,
+    "Growth Rate (%)": 51.1
+  },
+  {
+    "Company": "Cedar",
+    "Valuation ($B)": 3.2,
+    "AI Impact Score": 1.13,
+    "Growth Rate (%)": 123.31
+  },
+  {
+    "Company": "Eruditus Executive Education",
+    "Valuation ($B)": 3.2,
+    "AI Impact Score": 4.41,
+    "Growth Rate (%)": 123.42
+  },
+  {
+    "Company": "Blockstream",
+    "Valuation ($B)": 3.2,
+    "AI Impact Score": 4.04,
+    "Growth Rate (%)": 131.39
+  },
+  {
+    "Company": "Innovaccer",
+    "Valuation ($B)": 3.2,
+    "AI Impact Score": 1.17,
+    "Growth Rate (%)": 137.85
+  },
+  {
+    "Company": "Ironclad",
+    "Valuation ($B)": 3.2,
+    "AI Impact Score": 2.12,
+    "Growth Rate (%)": 81.59
+  },
+  {
+    "Company": "Skims",
+    "Valuation ($B)": 3.2,
+    "AI Impact Score": 4.72,
+    "Growth Rate (%)": 80.21
+  },
+  {
+    "Company": "Eikon Therapeutics",
+    "Valuation ($B)": 3.2,
+    "AI Impact Score": 5.44,
+    "Growth Rate (%)": 121.76
+  },
+  {
+    "Company": "Retool",
+    "Valuation ($B)": 3.2,
+    "AI Impact Score": 4.64,
+    "Growth Rate (%)": 100.99
+  },
+  {
+    "Company": "Verkada",
+    "Valuation ($B)": 3.2,
+    "AI Impact Score": 5.78,
+    "Growth Rate (%)": 108.28
+  },
+  {
+    "Company": "PsiQuantum",
+    "Valuation ($B)": 3.15,
+    "AI Impact Score": 6.36,
+    "Growth Rate (%)": 121.41
+  },
+  {
+    "Company": "Udaan",
+    "Valuation ($B)": 3.1,
+    "AI Impact Score": 1.09,
+    "Growth Rate (%)": 134.6
+  },
+  {
+    "Company": "HighRadius",
+    "Valuation ($B)": 3.1,
+    "AI Impact Score": 5.18,
+    "Growth Rate (%)": 57.32
+  },
+  {
+    "Company": "Nuvemshop",
+    "Valuation ($B)": 3.1,
+    "AI Impact Score": 9.67,
+    "Growth Rate (%)": 62.58
+  },
+  {
+    "Company": "Yixia",
+    "Valuation ($B)": 3.0,
+    "AI Impact Score": 5.67,
+    "Growth Rate (%)": 23.16
+  },
+  {
+    "Company": "Traveloka",
+    "Valuation ($B)": 3.0,
+    "AI Impact Score": 7.1,
+    "Growth Rate (%)": 90.96
+  },
+  {
+    "Company": "SouChe Holdings",
+    "Valuation ($B)": 3.0,
+    "AI Impact Score": 3.81,
+    "Growth Rate (%)": 15.03
+  },
+  {
+    "Company": "BGL Group",
+    "Valuation ($B)": 3.0,
+    "AI Impact Score": 7.97,
+    "Growth Rate (%)": 75.18
+  },
+  {
+    "Company": "Circle",
+    "Valuation ($B)": 3.0,
+    "AI Impact Score": 7.96,
+    "Growth Rate (%)": 85.97
+  },
+  {
+    "Company": "Zuoyebang",
+    "Valuation ($B)": 3.0,
+    "AI Impact Score": 5.69,
+    "Growth Rate (%)": 50.12
+  },
+  {
+    "Company": "FlixMobility",
+    "Valuation ($B)": 3.0,
+    "AI Impact Score": 9.78,
+    "Growth Rate (%)": 92.72
+  },
+  {
+    "Company": "Wildlife Studios",
+    "Valuation ($B)": 3.0,
+    "AI Impact Score": 2.13,
+    "Growth Rate (%)": 14.27
+  },
+  {
+    "Company": "ApplyBoard",
+    "Valuation ($B)": 3.2,
+    "AI Impact Score": 1.15,
+    "Growth Rate (%)": 15.23
+  },
+  {
+    "Company": "Forter",
+    "Valuation ($B)": 3.0,
+    "AI Impact Score": 7.93,
+    "Growth Rate (%)": 125.16
+  },
+  {
+    "Company": "Calendly",
+    "Valuation ($B)": 3.0,
+    "AI Impact Score": 8.26,
+    "Growth Rate (%)": 60.43
+  },
+  {
+    "Company": "BlockFi",
+    "Valuation ($B)": 3.0,
+    "AI Impact Score": 2.08,
+    "Growth Rate (%)": 27.79
+  },
+  {
+    "Company": "ActiveCampaign",
+    "Valuation ($B)": 3.0,
+    "AI Impact Score": 3.39,
+    "Growth Rate (%)": 83.11
+  },
+  {
+    "Company": "CMR Surgical",
+    "Valuation ($B)": 3.0,
+    "AI Impact Score": 1.16,
+    "Growth Rate (%)": 117.8
+  },
+  {
+    "Company": "Lucid Software",
+    "Valuation ($B)": 3.0,
+    "AI Impact Score": 3.64,
+    "Growth Rate (%)": 40.21
+  },
+  {
+    "Company": "Age of Learning",
+    "Valuation ($B)": 3.0,
+    "AI Impact Score": 7.96,
+    "Growth Rate (%)": 97.2
+  },
+  {
+    "Company": "Carbon Health",
+    "Valuation ($B)": 3.0,
+    "AI Impact Score": 5.66,
+    "Growth Rate (%)": 21.95
+  },
+  {
+    "Company": "Contentful",
+    "Valuation ($B)": 3.0,
+    "AI Impact Score": 4.13,
+    "Growth Rate (%)": 17.24
+  },
+  {
+    "Company": "LaunchDarkly",
+    "Valuation ($B)": 3.0,
+    "AI Impact Score": 4.35,
+    "Growth Rate (%)": 84.39
+  },
+  {
+    "Company": "Seismic",
+    "Valuation ($B)": 3.0,
+    "AI Impact Score": 1.01,
+    "Growth Rate (%)": 85.69
+  },
+  {
+    "Company": "Sky Mavis",
+    "Valuation ($B)": 3.0,
+    "AI Impact Score": 3.7,
+    "Growth Rate (%)": 99.24
+  },
+  {
+    "Company": "Outschool",
+    "Valuation ($B)": 3.0,
+    "AI Impact Score": 6.82,
+    "Growth Rate (%)": 111.65
+  },
+  {
+    "Company": "TradingView",
+    "Valuation ($B)": 3.0,
+    "AI Impact Score": 9.77,
+    "Growth Rate (%)": 146.62
+  },
+  {
+    "Company": "Groww",
+    "Valuation ($B)": 3.0,
+    "AI Impact Score": 8.62,
+    "Growth Rate (%)": 82.28
+  },
+  {
+    "Company": "Podium",
+    "Valuation ($B)": 3.0,
+    "AI Impact Score": 1.21,
+    "Growth Rate (%)": 55.21
+  },
+  {
+    "Company": "Via",
+    "Valuation ($B)": 3.5,
+    "AI Impact Score": 9.09,
+    "Growth Rate (%)": 121.33
+  },
+  {
+    "Company": "Anchorage Digital",
+    "Valuation ($B)": 3.0,
+    "AI Impact Score": 8.05,
+    "Growth Rate (%)": 47.92
+  },
+  {
+    "Company": "Inxeption",
+    "Valuation ($B)": 3.0,
+    "AI Impact Score": 8.02,
+    "Growth Rate (%)": 71.46
+  },
+  {
+    "Company": "Lattice",
+    "Valuation ($B)": 3.0,
+    "AI Impact Score": 5.12,
+    "Growth Rate (%)": 20.98
+  },
+  {
+    "Company": "Flutterwave",
+    "Valuation ($B)": 3.0,
+    "AI Impact Score": 4.58,
+    "Growth Rate (%)": 13.55
+  },
+  {
+    "Company": "Amber Group",
+    "Valuation ($B)": 3.0,
+    "AI Impact Score": 3.73,
+    "Growth Rate (%)": 144.77
+  },
+  {
+    "Company": "Cross River Bank",
+    "Valuation ($B)": 3.0,
+    "AI Impact Score": 1.5899999999999999,
+    "Growth Rate (%)": 127.04
+  },
+  {
+    "Company": "Remote",
+    "Valuation ($B)": 3.0,
+    "AI Impact Score": 3.05,
+    "Growth Rate (%)": 107.44
+  },
+  {
+    "Company": "Sentry",
+    "Valuation ($B)": 3.0,
+    "AI Impact Score": 3.22,
+    "Growth Rate (%)": 67.25
+  },
+  {
+    "Company": "Kraken",
+    "Valuation ($B)": 2.92,
+    "AI Impact Score": 5.36,
+    "Growth Rate (%)": 34.26
+  },
+  {
+    "Company": "Workrise",
+    "Valuation ($B)": 2.9,
+    "AI Impact Score": 7.73,
+    "Growth Rate (%)": 31.9
+  },
+  {
+    "Company": "Loft",
+    "Valuation ($B)": 2.9,
+    "AI Impact Score": 5.26,
+    "Growth Rate (%)": 45.03
+  },
+  {
+    "Company": "BharatPe",
+    "Valuation ($B)": 2.85,
+    "AI Impact Score": 1.52,
+    "Growth Rate (%)": 86.89
+  },
+  {
+    "Company": "Gokin Solar",
+    "Valuation ($B)": 2.88,
+    "AI Impact Score": 9.62,
+    "Growth Rate (%)": 110.04
+  },
+  {
+    "Company": "DriveWealth",
+    "Valuation ($B)": 2.85,
+    "AI Impact Score": 9.48,
+    "Growth Rate (%)": 102.43
+  },
+  {
+    "Company": "Alan",
+    "Valuation ($B)": 2.85,
+    "AI Impact Score": 8.07,
+    "Growth Rate (%)": 49.19
+  },
+  {
+    "Company": "Meicai",
+    "Valuation ($B)": 2.8,
+    "AI Impact Score": 9.92,
+    "Growth Rate (%)": 143.68
+  },
+  {
+    "Company": "Zipline",
+    "Valuation ($B)": 2.8,
+    "AI Impact Score": 5.9,
+    "Growth Rate (%)": 113.31
+  },
+  {
+    "Company": "Nutrabolt",
+    "Valuation ($B)": 2.79,
+    "AI Impact Score": 9.66,
+    "Growth Rate (%)": 87.61
+  },
+  {
+    "Company": "Graphcore",
+    "Valuation ($B)": 2.77,
+    "AI Impact Score": 1.6800000000000002,
+    "Growth Rate (%)": 95.64
+  },
+  {
+    "Company": "Illumio",
+    "Valuation ($B)": 2.75,
+    "AI Impact Score": 4.29,
+    "Growth Rate (%)": 68.74
+  },
+  {
+    "Company": "MasterClass",
+    "Valuation ($B)": 2.75,
+    "AI Impact Score": 3.03,
+    "Growth Rate (%)": 44.68
+  },
+  {
+    "Company": "Dream Games",
+    "Valuation ($B)": 2.75,
+    "AI Impact Score": 2.76,
+    "Growth Rate (%)": 59.84
+  },
+  {
+    "Company": "Transmit Security",
+    "Valuation ($B)": 2.74,
+    "AI Impact Score": 2.27,
+    "Growth Rate (%)": 116.1
+  },
+  {
+    "Company": "Hozon Auto",
+    "Valuation ($B)": 3.95,
+    "AI Impact Score": 6.6,
+    "Growth Rate (%)": 12.02
+  },
+  {
+    "Company": "Tradeshift",
+    "Valuation ($B)": 2.7,
+    "AI Impact Score": 8.03,
+    "Growth Rate (%)": 26.25
+  },
+  {
+    "Company": "Nextiva",
+    "Valuation ($B)": 2.7,
+    "AI Impact Score": 6.2,
+    "Growth Rate (%)": 16.44
+  },
+  {
+    "Company": "Tridge",
+    "Valuation ($B)": 2.7,
+    "AI Impact Score": 2.32,
+    "Growth Rate (%)": 15.7
+  },
+  {
+    "Company": "o9 Solutions",
+    "Valuation ($B)": 2.7,
+    "AI Impact Score": 8.3,
+    "Growth Rate (%)": 129.76
+  },
+  {
+    "Company": "Thought Machine",
+    "Valuation ($B)": 2.7,
+    "AI Impact Score": 6.72,
+    "Growth Rate (%)": 108.51
+  },
+  {
+    "Company": "Starling Bank",
+    "Valuation ($B)": 2.69,
+    "AI Impact Score": 4.49,
+    "Growth Rate (%)": 76.38
+  },
+  {
+    "Company": "BackBase",
+    "Valuation ($B)": 2.66,
+    "AI Impact Score": 7.07,
+    "Growth Rate (%)": 23.7
+  },
+  {
+    "Company": "ManoMano",
+    "Valuation ($B)": 2.6,
+    "AI Impact Score": 3.34,
+    "Growth Rate (%)": 78.83
+  },
+  {
+    "Company": "Sourcegraph",
+    "Valuation ($B)": 2.62,
+    "AI Impact Score": 4.11,
+    "Growth Rate (%)": 76.29
+  },
+  {
+    "Company": "Pendo",
+    "Valuation ($B)": 2.6,
+    "AI Impact Score": 9.26,
+    "Growth Rate (%)": 34.25
+  },
+  {
+    "Company": "Plume",
+    "Valuation ($B)": 2.6,
+    "AI Impact Score": 3.61,
+    "Growth Rate (%)": 70.74
+  },
+  {
+    "Company": "Moglix",
+    "Valuation ($B)": 2.6,
+    "AI Impact Score": 5.23,
+    "Growth Rate (%)": 65.79
+  },
+  {
+    "Company": "Axonius",
+    "Valuation ($B)": 2.6,
+    "AI Impact Score": 9.01,
+    "Growth Rate (%)": 96.22
+  },
+  {
+    "Company": "Xinchao Media",
+    "Valuation ($B)": 2.0,
+    "AI Impact Score": 7.37,
+    "Growth Rate (%)": 98.91
+  },
+  {
+    "Company": "JumpCloud",
+    "Valuation ($B)": 2.62,
+    "AI Impact Score": 1.56,
+    "Growth Rate (%)": 16.34
+  },
+  {
+    "Company": "Unico",
+    "Valuation ($B)": 2.6,
+    "AI Impact Score": 2.33,
+    "Growth Rate (%)": 62.45
+  },
+  {
+    "Company": "Oura",
+    "Valuation ($B)": 2.55,
+    "AI Impact Score": 1.07,
+    "Growth Rate (%)": 97.62
+  },
+  {
+    "Company": "Eat Just",
+    "Valuation ($B)": 2.59,
+    "AI Impact Score": 6.68,
+    "Growth Rate (%)": 80.44
+  },
+  {
+    "Company": "Cribl",
+    "Valuation ($B)": 2.5,
+    "AI Impact Score": 5.03,
+    "Growth Rate (%)": 129.91
+  },
+  {
+    "Company": "Jetti Resources",
+    "Valuation ($B)": 2.5,
+    "AI Impact Score": 2.21,
+    "Growth Rate (%)": 102.22
+  },
+  {
+    "Company": "Vista Global",
+    "Valuation ($B)": 2.5,
+    "AI Impact Score": 9.62,
+    "Growth Rate (%)": 32.81
+  },
+  {
+    "Company": "BYTON",
+    "Valuation ($B)": 2.5,
+    "AI Impact Score": 5.77,
+    "Growth Rate (%)": 19.88
+  },
+  {
+    "Company": "Side",
+    "Valuation ($B)": 2.5,
+    "AI Impact Score": 3.18,
+    "Growth Rate (%)": 99.94
+  },
+  {
+    "Company": "Infra.Market",
+    "Valuation ($B)": 2.5,
+    "AI Impact Score": 5.51,
+    "Growth Rate (%)": 13.71
+  },
+  {
+    "Company": "Varo Bank",
+    "Valuation ($B)": 2.5,
+    "AI Impact Score": 7.12,
+    "Growth Rate (%)": 92.01
+  },
+  {
+    "Company": "Cato Networks",
+    "Valuation ($B)": 2.5,
+    "AI Impact Score": 1.69,
+    "Growth Rate (%)": 141.63
+  },
+  {
+    "Company": "Aura",
+    "Valuation ($B)": 2.5,
+    "AI Impact Score": 3.47,
+    "Growth Rate (%)": 90.57
+  },
+  {
+    "Company": "Vercel",
+    "Valuation ($B)": 2.5,
+    "AI Impact Score": 8.26,
+    "Growth Rate (%)": 64.34
+  },
+  {
+    "Company": "Sysdig",
+    "Valuation ($B)": 2.5,
+    "AI Impact Score": 5.14,
+    "Growth Rate (%)": 100.06
+  },
+  {
+    "Company": "Zetwerk",
+    "Valuation ($B)": 2.68,
+    "AI Impact Score": 5.92,
+    "Growth Rate (%)": 74.16
+  },
+  {
+    "Company": "Uniphore",
+    "Valuation ($B)": 2.5,
+    "AI Impact Score": 4.9,
+    "Growth Rate (%)": 86.39
+  },
+  {
+    "Company": "Somatus",
+    "Valuation ($B)": 2.5,
+    "AI Impact Score": 1.4,
+    "Growth Rate (%)": 141.81
+  },
+  {
+    "Company": "Immutable",
+    "Valuation ($B)": 2.5,
+    "AI Impact Score": 2.49,
+    "Growth Rate (%)": 64.05
+  },
+  {
+    "Company": "A24 Films",
+    "Valuation ($B)": 2.5,
+    "AI Impact Score": 5.01,
+    "Growth Rate (%)": 144.57
+  },
+  {
+    "Company": "SiFive",
+    "Valuation ($B)": 2.5,
+    "AI Impact Score": 2.88,
+    "Growth Rate (%)": 136.75
+  },
+  {
+    "Company": "Games24x7",
+    "Valuation ($B)": 2.5,
+    "AI Impact Score": 1.45,
+    "Growth Rate (%)": 37.41
+  },
+  {
+    "Company": "Fetch Rewards",
+    "Valuation ($B)": 2.5,
+    "AI Impact Score": 8.59,
+    "Growth Rate (%)": 19.71
+  },
+  {
+    "Company": "Coda Payments",
+    "Valuation ($B)": 2.5,
+    "AI Impact Score": 9.83,
+    "Growth Rate (%)": 24.11
+  },
+  {
+    "Company": "DriveNets",
+    "Valuation ($B)": 2.5,
+    "AI Impact Score": 8.14,
+    "Growth Rate (%)": 12.55
+  },
+  {
+    "Company": "Hibob",
+    "Valuation ($B)": 2.45,
+    "AI Impact Score": 8.68,
+    "Growth Rate (%)": 23.22
+  },
+  {
+    "Company": "Uala",
+    "Valuation ($B)": 2.45,
+    "AI Impact Score": 3.18,
+    "Growth Rate (%)": 105.62
+  },
+  {
+    "Company": "Mobile Premier League",
+    "Valuation ($B)": 2.45,
+    "AI Impact Score": 9.65,
+    "Growth Rate (%)": 19.97
+  },
+  {
+    "Company": "Cybereason",
+    "Valuation ($B)": 2.44,
+    "AI Impact Score": 2.77,
+    "Growth Rate (%)": 54.66
+  },
+  {
+    "Company": "Cgtz",
+    "Valuation ($B)": 2.41,
+    "AI Impact Score": 9.56,
+    "Growth Rate (%)": 128.28
+  },
+  {
+    "Company": "Star Charge",
+    "Valuation ($B)": 2.41,
+    "AI Impact Score": 9.95,
+    "Growth Rate (%)": 13.26
+  },
+  {
+    "Company": "EquipmentShare",
+    "Valuation ($B)": 2.41,
+    "AI Impact Score": 7.41,
+    "Growth Rate (%)": 124.03
+  },
+  {
+    "Company": "Carbon",
+    "Valuation ($B)": 2.4,
+    "AI Impact Score": 9.83,
+    "Growth Rate (%)": 49.46
+  },
+  {
+    "Company": "Rokt",
+    "Valuation ($B)": 2.4,
+    "AI Impact Score": 6.13,
+    "Growth Rate (%)": 26.54
+  },
+  {
+    "Company": "PolicyBazaar",
+    "Valuation ($B)": 2.4,
+    "AI Impact Score": 3.34,
+    "Growth Rate (%)": 107.54
+  },
+  {
+    "Company": "Paxos",
+    "Valuation ($B)": 2.4,
+    "AI Impact Score": 4.93,
+    "Growth Rate (%)": 98.05
+  },
+  {
+    "Company": "Exabeam",
+    "Valuation ($B)": 2.4,
+    "AI Impact Score": 6.34,
+    "Growth Rate (%)": 132.85
+  },
+  {
+    "Company": "BitSight Technologies",
+    "Valuation ($B)": 2.4,
+    "AI Impact Score": 1.6600000000000001,
+    "Growth Rate (%)": 112.91
+  },
+  {
+    "Company": "Trumid",
+    "Valuation ($B)": 2.4,
+    "AI Impact Score": 6.6,
+    "Growth Rate (%)": 122.49
+  },
+  {
+    "Company": "ABL Space Systems",
+    "Valuation ($B)": 2.4,
+    "AI Impact Score": 9.83,
+    "Growth Rate (%)": 49.48
+  },
+  {
+    "Company": "HoneyBook",
+    "Valuation ($B)": 2.4,
+    "AI Impact Score": 2.71,
+    "Growth Rate (%)": 34.84
+  },
+  {
+    "Company": "Beta Technologies",
+    "Valuation ($B)": 2.4,
+    "AI Impact Score": 8.13,
+    "Growth Rate (%)": 115.09
+  },
+  {
+    "Company": "Project44",
+    "Valuation ($B)": 2.62,
+    "AI Impact Score": 9.17,
+    "Growth Rate (%)": 122.96
+  },
+  {
+    "Company": "Freenome",
+    "Valuation ($B)": 2.62,
+    "AI Impact Score": 9.49,
+    "Growth Rate (%)": 148.67
+  },
+  {
+    "Company": "ManyPets",
+    "Valuation ($B)": 2.35,
+    "AI Impact Score": 9.64,
+    "Growth Rate (%)": 67.77
+  },
+  {
+    "Company": "Jobandtalent",
+    "Valuation ($B)": 2.35,
+    "AI Impact Score": 5.69,
+    "Growth Rate (%)": 62.08
+  },
+  {
+    "Company": "WEMAKEPRICE",
+    "Valuation ($B)": 2.34,
+    "AI Impact Score": 9.8,
+    "Growth Rate (%)": 118.7
+  },
+  {
+    "Company": "Biren Technology",
+    "Valuation ($B)": 2.32,
+    "AI Impact Score": 7.82,
+    "Growth Rate (%)": 57.71
+  },
+  {
+    "Company": "Voodoo",
+    "Valuation ($B)": 2.31,
+    "AI Impact Score": 2.46,
+    "Growth Rate (%)": 140.31
+  },
+  {
+    "Company": "Shield AI",
+    "Valuation ($B)": 2.3,
+    "AI Impact Score": 5.29,
+    "Growth Rate (%)": 130.18
+  },
+  {
+    "Company": "Uptake",
+    "Valuation ($B)": 2.3,
+    "AI Impact Score": 7.46,
+    "Growth Rate (%)": 70.06
+  },
+  {
+    "Company": "Motive",
+    "Valuation ($B)": 2.85,
+    "AI Impact Score": 3.23,
+    "Growth Rate (%)": 115.12
+  },
+  {
+    "Company": "Greenlight",
+    "Valuation ($B)": 2.3,
+    "AI Impact Score": 6.77,
+    "Growth Rate (%)": 115.64
+  },
+  {
+    "Company": "Bowery Farming",
+    "Valuation ($B)": 2.3,
+    "AI Impact Score": 7.0,
+    "Growth Rate (%)": 24.44
+  },
+  {
+    "Company": "MoMo",
+    "Valuation ($B)": 2.27,
+    "AI Impact Score": 2.46,
+    "Growth Rate (%)": 136.36
+  },
+  {
+    "Company": "Zume",
+    "Valuation ($B)": 2.25,
+    "AI Impact Score": 6.09,
+    "Growth Rate (%)": 80.74
+  },
+  {
+    "Company": "Algolia",
+    "Valuation ($B)": 2.25,
+    "AI Impact Score": 7.94,
+    "Growth Rate (%)": 125.7
+  },
+  {
+    "Company": "Pattern",
+    "Valuation ($B)": 2.25,
+    "AI Impact Score": 5.49,
+    "Growth Rate (%)": 54.81
+  },
+  {
+    "Company": "Newfront Insurance",
+    "Valuation ($B)": 2.2,
+    "AI Impact Score": 1.11,
+    "Growth Rate (%)": 135.37
+  },
+  {
+    "Company": "NuCom Group",
+    "Valuation ($B)": 2.2,
+    "AI Impact Score": 1.08,
+    "Growth Rate (%)": 64.49
+  },
+  {
+    "Company": "Skydio",
+    "Valuation ($B)": 2.2,
+    "AI Impact Score": 4.21,
+    "Growth Rate (%)": 11.52
+  },
+  {
+    "Company": "MUSINSA",
+    "Valuation ($B)": 2.2,
+    "AI Impact Score": 9.34,
+    "Growth Rate (%)": 136.75
+  },
+  {
+    "Company": "Current",
+    "Valuation ($B)": 2.2,
+    "AI Impact Score": 3.06,
+    "Growth Rate (%)": 22.78
+  },
+  {
+    "Company": "Bitso",
+    "Valuation ($B)": 2.2,
+    "AI Impact Score": 6.71,
+    "Growth Rate (%)": 54.7
+  },
+  {
+    "Company": "Gympass",
+    "Valuation ($B)": 2.2,
+    "AI Impact Score": 3.0,
+    "Growth Rate (%)": 143.01
+  },
+  {
+    "Company": "Dialpad",
+    "Valuation ($B)": 2.2,
+    "AI Impact Score": 3.9,
+    "Growth Rate (%)": 143.09
+  },
+  {
+    "Company": "G7 Networks",
+    "Valuation ($B)": 2.2,
+    "AI Impact Score": 8.63,
+    "Growth Rate (%)": 90.28
+  },
+  {
+    "Company": "BloomReach",
+    "Valuation ($B)": 2.2,
+    "AI Impact Score": 7.5600000000000005,
+    "Growth Rate (%)": 98.46
+  },
+  {
+    "Company": "Motif FoodWorks",
+    "Valuation ($B)": 2.2,
+    "AI Impact Score": 1.8599999999999999,
+    "Growth Rate (%)": 72.78
+  },
+  {
+    "Company": "Huaqin Telecom Technology",
+    "Valuation ($B)": 2.19,
+    "AI Impact Score": 4.86,
+    "Growth Rate (%)": 51.05
+  },
+  {
+    "Company": "Accelerant",
+    "Valuation ($B)": 2.19,
+    "AI Impact Score": 1.26,
+    "Growth Rate (%)": 56.01
+  },
+  {
+    "Company": "YITU Technology",
+    "Valuation ($B)": 2.17,
+    "AI Impact Score": 5.33,
+    "Growth Rate (%)": 104.15
+  },
+  {
+    "Company": "Addepar",
+    "Valuation ($B)": 2.17,
+    "AI Impact Score": 6.96,
+    "Growth Rate (%)": 115.33
+  },
+  {
+    "Company": "Qualia",
+    "Valuation ($B)": 2.17,
+    "AI Impact Score": 2.07,
+    "Growth Rate (%)": 120.82
+  },
+  {
+    "Company": "Neo4j",
+    "Valuation ($B)": 2.0,
+    "AI Impact Score": 3.6,
+    "Growth Rate (%)": 120.55
+  },
+  {
+    "Company": "CloudWalk",
+    "Valuation ($B)": 2.15,
+    "AI Impact Score": 4.58,
+    "Growth Rate (%)": 22.77
+  },
+  {
+    "Company": "CoinDCX",
+    "Valuation ($B)": 2.15,
+    "AI Impact Score": 9.28,
+    "Growth Rate (%)": 79.22
+  },
+  {
+    "Company": "FirstCry",
+    "Valuation ($B)": 2.1,
+    "AI Impact Score": 9.94,
+    "Growth Rate (%)": 18.06
+  },
+  {
+    "Company": "Eightfold.ai",
+    "Valuation ($B)": 2.1,
+    "AI Impact Score": 1.4,
+    "Growth Rate (%)": 86.93
+  },
+  {
+    "Company": "Urban Company",
+    "Valuation ($B)": 2.1,
+    "AI Impact Score": 7.85,
+    "Growth Rate (%)": 71.81
+  },
+  {
+    "Company": "ReCharge",
+    "Valuation ($B)": 2.1,
+    "AI Impact Score": 4.35,
+    "Growth Rate (%)": 134.28
+  },
+  {
+    "Company": "Moveworks",
+    "Valuation ($B)": 2.1,
+    "AI Impact Score": 4.53,
+    "Growth Rate (%)": 59.13
+  },
+  {
+    "Company": "Medable",
+    "Valuation ($B)": 2.1,
+    "AI Impact Score": 7.79,
+    "Growth Rate (%)": 26.39
+  },
+  {
+    "Company": "GoCardless",
+    "Valuation ($B)": 2.1,
+    "AI Impact Score": 9.27,
+    "Growth Rate (%)": 30.02
+  },
+  {
+    "Company": "Aledade",
+    "Valuation ($B)": 2.1,
+    "AI Impact Score": 9.56,
+    "Growth Rate (%)": 116.61
+  },
+  {
+    "Company": "Forto",
+    "Valuation ($B)": 2.1,
+    "AI Impact Score": 6.19,
+    "Growth Rate (%)": 96.55
+  },
+  {
+    "Company": "Jeeves",
+    "Valuation ($B)": 2.1,
+    "AI Impact Score": 4.21,
+    "Growth Rate (%)": 24.16
+  },
+  {
+    "Company": "Viva Wallet",
+    "Valuation ($B)": 2.05,
+    "AI Impact Score": 8.09,
+    "Growth Rate (%)": 21.77
+  },
+  {
+    "Company": "Babel Finance",
+    "Valuation ($B)": 2.0,
+    "AI Impact Score": 3.26,
+    "Growth Rate (%)": 108.14
+  },
+  {
+    "Company": "Trendy Group International",
+    "Valuation ($B)": 2.0,
+    "AI Impact Score": 6.08,
+    "Growth Rate (%)": 20.19
+  },
+  {
+    "Company": "GrubMarket",
+    "Valuation ($B)": 2.0,
+    "AI Impact Score": 4.23,
+    "Growth Rate (%)": 125.06
+  },
+  {
+    "Company": "GO1",
+    "Valuation ($B)": 2.0,
+    "AI Impact Score": 6.91,
+    "Growth Rate (%)": 108.87
+  },
+  {
+    "Company": "Drata",
+    "Valuation ($B)": 2.0,
+    "AI Impact Score": 3.16,
+    "Growth Rate (%)": 21.39
+  },
+  {
+    "Company": "Mysten Labs",
+    "Valuation ($B)": 2.0,
+    "AI Impact Score": 2.7199999999999998,
+    "Growth Rate (%)": 21.88
+  },
+  {
+    "Company": "Avant",
+    "Valuation ($B)": 2.0,
+    "AI Impact Score": 9.26,
+    "Growth Rate (%)": 148.13
+  },
+  {
+    "Company": "Tubatu.com",
+    "Valuation ($B)": 2.0,
+    "AI Impact Score": 1.92,
+    "Growth Rate (%)": 62.4
+  },
+  {
+    "Company": "BlaBlaCar",
+    "Valuation ($B)": 2.0,
+    "AI Impact Score": 5.55,
+    "Growth Rate (%)": 61.89
+  },
+  {
+    "Company": "HuiMin",
+    "Valuation ($B)": 2.0,
+    "AI Impact Score": 2.99,
+    "Growth Rate (%)": 123.79
+  },
+  {
+    "Company": "Quora",
+    "Valuation ($B)": 2.0,
+    "AI Impact Score": 1.35,
+    "Growth Rate (%)": 142.61
+  },
+  {
+    "Company": "Preferred Networks",
+    "Valuation ($B)": 2.0,
+    "AI Impact Score": 1.32,
+    "Growth Rate (%)": 148.04
+  },
+  {
+    "Company": "Formlabs",
+    "Valuation ($B)": 2.0,
+    "AI Impact Score": 2.58,
+    "Growth Rate (%)": 115.47
+  },
+  {
+    "Company": "4Paradigm",
+    "Valuation ($B)": 2.0,
+    "AI Impact Score": 8.8,
+    "Growth Rate (%)": 62.68
+  },
+  {
+    "Company": "Calm",
+    "Valuation ($B)": 2.0,
+    "AI Impact Score": 3.54,
+    "Growth Rate (%)": 21.69
+  },
+  {
+    "Company": "Kaseya",
+    "Valuation ($B)": 2.0,
+    "AI Impact Score": 9.55,
+    "Growth Rate (%)": 118.8
+  },
+  {
+    "Company": "Mafengwo",
+    "Valuation ($B)": 2.0,
+    "AI Impact Score": 6.23,
+    "Growth Rate (%)": 88.18
+  },
+  {
+    "Company": "Druva",
+    "Valuation ($B)": 2.0,
+    "AI Impact Score": 4.93,
+    "Growth Rate (%)": 69.39
+  },
+  {
+    "Company": "Kujiale",
+    "Valuation ($B)": 2.0,
+    "AI Impact Score": 6.22,
+    "Growth Rate (%)": 136.89
+  },
+  {
+    "Company": "AppsFlyer",
+    "Valuation ($B)": 2.0,
+    "AI Impact Score": 5.65,
+    "Growth Rate (%)": 25.57
+  },
+  {
+    "Company": "Keep",
+    "Valuation ($B)": 2.0,
+    "AI Impact Score": 7.83,
+    "Growth Rate (%)": 78.97
+  },
+  {
+    "Company": "Redis Labs",
+    "Valuation ($B)": 2.0,
+    "AI Impact Score": 3.54,
+    "Growth Rate (%)": 11.59
+  },
+  {
+    "Company": "Xingyun Group",
+    "Valuation ($B)": 2.0,
+    "AI Impact Score": 4.18,
+    "Growth Rate (%)": 75.61
+  },
+  {
+    "Company": "Unqork",
+    "Valuation ($B)": 2.0,
+    "AI Impact Score": 9.05,
+    "Growth Rate (%)": 17.88
+  },
+  {
+    "Company": "Virta Health",
+    "Valuation ($B)": 2.0,
+    "AI Impact Score": 9.52,
+    "Growth Rate (%)": 26.63
+  },
+  {
+    "Company": "ISN",
+    "Valuation ($B)": 2.0,
+    "AI Impact Score": 9.03,
+    "Growth Rate (%)": 26.45
+  },
+  {
+    "Company": "Earnix",
+    "Valuation ($B)": 2.0,
+    "AI Impact Score": 4.78,
+    "Growth Rate (%)": 100.89
+  },
+  {
+    "Company": "Guoquan Shihui",
+    "Valuation ($B)": 2.0,
+    "AI Impact Score": 8.02,
+    "Growth Rate (%)": 114.45
+  },
+  {
+    "Company": "Clearco",
+    "Valuation ($B)": 2.0,
+    "AI Impact Score": 5.29,
+    "Growth Rate (%)": 91.67
+  },
+  {
+    "Company": "Hive",
+    "Valuation ($B)": 2.0,
+    "AI Impact Score": 5.48,
+    "Growth Rate (%)": 144.7
+  },
+  {
+    "Company": "KRY",
+    "Valuation ($B)": 2.0,
+    "AI Impact Score": 2.84,
+    "Growth Rate (%)": 62.48
+  },
+  {
+    "Company": "Kajabi",
+    "Valuation ($B)": 2.0,
+    "AI Impact Score": 6.32,
+    "Growth Rate (%)": 50.0
+  },
+  {
+    "Company": "Ethos",
+    "Valuation ($B)": 2.7,
+    "AI Impact Score": 2.68,
+    "Growth Rate (%)": 131.6
+  },
+  {
+    "Company": "PayFit",
+    "Valuation ($B)": 2.1,
+    "AI Impact Score": 3.98,
+    "Growth Rate (%)": 41.3
+  },
+  {
+    "Company": "Beisen",
+    "Valuation ($B)": 2.0,
+    "AI Impact Score": 8.7,
+    "Growth Rate (%)": 144.85
+  },
+  {
+    "Company": "Pipe",
+    "Valuation ($B)": 2.0,
+    "AI Impact Score": 2.86,
+    "Growth Rate (%)": 11.7
+  },
+  {
+    "Company": "Iterable",
+    "Valuation ($B)": 2.0,
+    "AI Impact Score": 1.6400000000000001,
+    "Growth Rate (%)": 145.78
+  },
+  {
+    "Company": "Bunq",
+    "Valuation ($B)": 2.0,
+    "AI Impact Score": 1.62,
+    "Growth Rate (%)": 16.04
+  },
+  {
+    "Company": "Clip",
+    "Valuation ($B)": 2.0,
+    "AI Impact Score": 9.47,
+    "Growth Rate (%)": 134.76
+  },
+  {
+    "Company": "Loggi",
+    "Valuation ($B)": 2.0,
+    "AI Impact Score": 5.5600000000000005,
+    "Growth Rate (%)": 83.88
+  },
+  {
+    "Company": "MURAL",
+    "Valuation ($B)": 2.0,
+    "AI Impact Score": 4.68,
+    "Growth Rate (%)": 149.02
+  },
+  {
+    "Company": "OCSiAl",
+    "Valuation ($B)": 2.0,
+    "AI Impact Score": 8.3,
+    "Growth Rate (%)": 20.33
+  },
+  {
+    "Company": "XtalPi",
+    "Valuation ($B)": 2.0,
+    "AI Impact Score": 8.52,
+    "Growth Rate (%)": 87.54
+  },
+  {
+    "Company": "Divvy Homes",
+    "Valuation ($B)": 2.0,
+    "AI Impact Score": 3.99,
+    "Growth Rate (%)": 145.7
+  },
+  {
+    "Company": "Apeel Sciences",
+    "Valuation ($B)": 2.0,
+    "AI Impact Score": 7.24,
+    "Growth Rate (%)": 83.23
+  },
+  {
+    "Company": "Opay",
+    "Valuation ($B)": 2.0,
+    "AI Impact Score": 7.94,
+    "Growth Rate (%)": 98.12
+  },
+  {
+    "Company": "Aviatrix",
+    "Valuation ($B)": 2.0,
+    "AI Impact Score": 6.89,
+    "Growth Rate (%)": 107.4
+  },
+  {
+    "Company": "SmartNews",
+    "Valuation ($B)": 2.0,
+    "AI Impact Score": 2.36,
+    "Growth Rate (%)": 73.64
+  },
+  {
+    "Company": "Misfits Market",
+    "Valuation ($B)": 2.0,
+    "AI Impact Score": 8.88,
+    "Growth Rate (%)": 97.86
+  },
+  {
+    "Company": "Spring Health",
+    "Valuation ($B)": 2.0,
+    "AI Impact Score": 5.85,
+    "Growth Rate (%)": 91.8
+  },
+  {
+    "Company": "Black Sesame Technologies",
+    "Valuation ($B)": 2.0,
+    "AI Impact Score": 3.54,
+    "Growth Rate (%)": 136.16
+  },
+  {
+    "Company": "Advance Intelligence Group",
+    "Valuation ($B)": 2.0,
+    "AI Impact Score": 4.83,
+    "Growth Rate (%)": 16.36
+  },
+  {
+    "Company": "Modern Treasury",
+    "Valuation ($B)": 2.0,
+    "AI Impact Score": 1.34,
+    "Growth Rate (%)": 49.33
+  },
+  {
+    "Company": "Magic Leap",
+    "Valuation ($B)": 2.0,
+    "AI Impact Score": 2.15,
+    "Growth Rate (%)": 143.06
+  },
+  {
+    "Company": "Tier",
+    "Valuation ($B)": 2.0,
+    "AI Impact Score": 7.89,
+    "Growth Rate (%)": 134.64
+  },
+  {
+    "Company": "ClickHouse",
+    "Valuation ($B)": 2.0,
+    "AI Impact Score": 1.0,
+    "Growth Rate (%)": 73.79
+  },
+  {
+    "Company": "Everlaw",
+    "Valuation ($B)": 2.0,
+    "AI Impact Score": 4.75,
+    "Growth Rate (%)": 96.82
+  },
+  {
+    "Company": "Zilch",
+    "Valuation ($B)": 2.0,
+    "AI Impact Score": 5.7,
+    "Growth Rate (%)": 48.83
+  },
+  {
+    "Company": "VerbIT",
+    "Valuation ($B)": 2.0,
+    "AI Impact Score": 1.49,
+    "Growth Rate (%)": 36.34
+  },
+  {
+    "Company": "StarkWare",
+    "Valuation ($B)": 8.0,
+    "AI Impact Score": 9.76,
+    "Growth Rate (%)": 74.92
+  },
+  {
+    "Company": "Netlify",
+    "Valuation ($B)": 2.0,
+    "AI Impact Score": 3.04,
+    "Growth Rate (%)": 59.47
+  },
+  {
+    "Company": "SWORD Health",
+    "Valuation ($B)": 2.0,
+    "AI Impact Score": 3.74,
+    "Growth Rate (%)": 91.71
+  },
+  {
+    "Company": "LTK",
+    "Valuation ($B)": 2.0,
+    "AI Impact Score": 3.74,
+    "Growth Rate (%)": 20.88
+  },
+  {
+    "Company": "Trax",
+    "Valuation ($B)": 2.0,
+    "AI Impact Score": 3.07,
+    "Growth Rate (%)": 146.42
+  },
+  {
+    "Company": "Exotec",
+    "Valuation ($B)": 2.0,
+    "AI Impact Score": 1.01,
+    "Growth Rate (%)": 148.07
+  },
+  {
+    "Company": "Dremio",
+    "Valuation ($B)": 2.0,
+    "AI Impact Score": 7.5600000000000005,
+    "Growth Rate (%)": 107.74
+  },
+  {
+    "Company": "Akulaku",
+    "Valuation ($B)": 2.0,
+    "AI Impact Score": 9.7,
+    "Growth Rate (%)": 85.05
+  },
+  {
+    "Company": "Cloudinary",
+    "Valuation ($B)": 2.0,
+    "AI Impact Score": 3.02,
+    "Growth Rate (%)": 53.33
+  },
+  {
+    "Company": "Lunar",
+    "Valuation ($B)": 2.0,
+    "AI Impact Score": 6.97,
+    "Growth Rate (%)": 123.93
+  },
+  {
+    "Company": "UpGrad",
+    "Valuation ($B)": 2.25,
+    "AI Impact Score": 7.68,
+    "Growth Rate (%)": 105.86
+  },
+  {
+    "Company": "Salsify",
+    "Valuation ($B)": 2.0,
+    "AI Impact Score": 8.64,
+    "Growth Rate (%)": 32.77
+  },
+  {
+    "Company": "CertiK",
+    "Valuation ($B)": 2.0,
+    "AI Impact Score": 4.8,
+    "Growth Rate (%)": 137.53
+  },
+  {
+    "Company": "ROX Motor",
+    "Valuation ($B)": 2.0,
+    "AI Impact Score": 3.73,
+    "Growth Rate (%)": 125.16
+  },
+  {
+    "Company": "Hugging Face",
+    "Valuation ($B)": 2.0,
+    "AI Impact Score": 3.93,
+    "Growth Rate (%)": 142.97
+  },
+  {
+    "Company": "Devo Technology",
+    "Valuation ($B)": 2.0,
+    "AI Impact Score": 7.41,
+    "Growth Rate (%)": 111.6
+  },
+  {
+    "Company": "ShiftKey",
+    "Valuation ($B)": 2.0,
+    "AI Impact Score": 8.35,
+    "Growth Rate (%)": 95.88
+  },
+  {
+    "Company": "Rimac Automobili",
+    "Valuation ($B)": 2.0,
+    "AI Impact Score": 2.63,
+    "Growth Rate (%)": 68.55
+  },
+  {
+    "Company": "Geek+",
+    "Valuation ($B)": 2.0,
+    "AI Impact Score": 4.34,
+    "Growth Rate (%)": 140.58
+  },
+  {
+    "Company": "21.co",
+    "Valuation ($B)": 2.0,
+    "AI Impact Score": 9.12,
+    "Growth Rate (%)": 131.25
+  },
+  {
+    "Company": "Solugen",
+    "Valuation ($B)": 2.0,
+    "AI Impact Score": 8.26,
+    "Growth Rate (%)": 16.33
+  },
+  {
+    "Company": "ZigBang",
+    "Valuation ($B)": 1.9300000000000002,
+    "AI Impact Score": 9.86,
+    "Growth Rate (%)": 13.69
+  },
+  {
+    "Company": "Ankorstore",
+    "Valuation ($B)": 1.98,
+    "AI Impact Score": 7.79,
+    "Growth Rate (%)": 62.7
+  },
+  {
+    "Company": "InVision",
+    "Valuation ($B)": 1.9,
+    "AI Impact Score": 4.54,
+    "Growth Rate (%)": 123.48
+  },
+  {
+    "Company": "eDaili",
+    "Valuation ($B)": 1.9,
+    "AI Impact Score": 6.32,
+    "Growth Rate (%)": 148.22
+  },
+  {
+    "Company": "MX",
+    "Valuation ($B)": 1.9,
+    "AI Impact Score": 6.95,
+    "Growth Rate (%)": 31.06
+  },
+  {
+    "Company": "CoinSwitch Kuber",
+    "Valuation ($B)": 1.9,
+    "AI Impact Score": 1.71,
+    "Growth Rate (%)": 93.18
+  },
+  {
+    "Company": "Acorns",
+    "Valuation ($B)": 1.9,
+    "AI Impact Score": 5.9,
+    "Growth Rate (%)": 63.32
+  },
+  {
+    "Company": "Fever Labs",
+    "Valuation ($B)": 1.96,
+    "AI Impact Score": 7.38,
+    "Growth Rate (%)": 145.79
+  },
+  {
+    "Company": "Roofstock",
+    "Valuation ($B)": 1.94,
+    "AI Impact Score": 2.51,
+    "Growth Rate (%)": 127.9
+  },
+  {
+    "Company": "thatgamecompany",
+    "Valuation ($B)": 1.94,
+    "AI Impact Score": 8.03,
+    "Growth Rate (%)": 127.37
+  },
+  {
+    "Company": "ConcertAI",
+    "Valuation ($B)": 1.9,
+    "AI Impact Score": 6.25,
+    "Growth Rate (%)": 75.62
+  },
+  {
+    "Company": "Material Bank",
+    "Valuation ($B)": 1.9,
+    "AI Impact Score": 9.57,
+    "Growth Rate (%)": 68.07
+  },
+  {
+    "Company": "Volocopter",
+    "Valuation ($B)": 1.87,
+    "AI Impact Score": 1.38,
+    "Growth Rate (%)": 48.28
+  },
+  {
+    "Company": "ENOVATE",
+    "Valuation ($B)": 1.85,
+    "AI Impact Score": 3.39,
+    "Growth Rate (%)": 17.89
+  },
+  {
+    "Company": "MEGAZONE",
+    "Valuation ($B)": 1.83,
+    "AI Impact Score": 6.41,
+    "Growth Rate (%)": 131.06
+  },
+  {
+    "Company": "CFGI",
+    "Valuation ($B)": 1.85,
+    "AI Impact Score": 3.67,
+    "Growth Rate (%)": 123.81
+  },
+  {
+    "Company": "ZocDoc",
+    "Valuation ($B)": 1.8,
+    "AI Impact Score": 7.43,
+    "Growth Rate (%)": 149.96
+  },
+  {
+    "Company": "Scroll",
+    "Valuation ($B)": 1.8,
+    "AI Impact Score": 7.83,
+    "Growth Rate (%)": 149.53
+  },
+  {
+    "Company": "Diamond Foundry",
+    "Valuation ($B)": 1.8,
+    "AI Impact Score": 1.92,
+    "Growth Rate (%)": 87.76
+  },
+  {
+    "Company": "FullStory",
+    "Valuation ($B)": 1.8,
+    "AI Impact Score": 5.62,
+    "Growth Rate (%)": 117.66
+  },
+  {
+    "Company": "Lightricks",
+    "Valuation ($B)": 1.8,
+    "AI Impact Score": 5.58,
+    "Growth Rate (%)": 142.27
+  },
+  {
+    "Company": "Opentrons",
+    "Valuation ($B)": 1.8,
+    "AI Impact Score": 4.32,
+    "Growth Rate (%)": 128.95
+  },
+  {
+    "Company": "Kindbody",
+    "Valuation ($B)": 1.8,
+    "AI Impact Score": 9.4,
+    "Growth Rate (%)": 44.63
+  },
+  {
+    "Company": "Slice",
+    "Valuation ($B)": 1.8,
+    "AI Impact Score": 8.45,
+    "Growth Rate (%)": 73.08
+  },
+  {
+    "Company": "Cambrian BioPharma",
+    "Valuation ($B)": 1.79,
+    "AI Impact Score": 7.27,
+    "Growth Rate (%)": 28.08
+  },
+  {
+    "Company": "AIWAYS",
+    "Valuation ($B)": 1.78,
+    "AI Impact Score": 7.43,
+    "Growth Rate (%)": 143.57
+  },
+  {
+    "Company": "Trulioo",
+    "Valuation ($B)": 1.75,
+    "AI Impact Score": 5.16,
+    "Growth Rate (%)": 94.86
+  },
+  {
+    "Company": "Spinny",
+    "Valuation ($B)": 1.75,
+    "AI Impact Score": 9.29,
+    "Growth Rate (%)": 42.01
+  },
+  {
+    "Company": "Crusoe",
+    "Valuation ($B)": 1.75,
+    "AI Impact Score": 7.25,
+    "Growth Rate (%)": 104.04
+  },
+  {
+    "Company": "Orca Security",
+    "Valuation ($B)": 1.8,
+    "AI Impact Score": 7.5600000000000005,
+    "Growth Rate (%)": 96.54
+  },
+  {
+    "Company": "Apus Group",
+    "Valuation ($B)": 1.73,
+    "AI Impact Score": 8.76,
+    "Growth Rate (%)": 60.14
+  },
+  {
+    "Company": "AlphaSense",
+    "Valuation ($B)": 1.7000000000000002,
+    "AI Impact Score": 3.47,
+    "Growth Rate (%)": 25.9
+  },
+  {
+    "Company": "Harry's",
+    "Valuation ($B)": 1.7000000000000002,
+    "AI Impact Score": 8.26,
+    "Growth Rate (%)": 104.02
+  },
+  {
+    "Company": "PAX",
+    "Valuation ($B)": 1.7000000000000002,
+    "AI Impact Score": 2.76,
+    "Growth Rate (%)": 82.84
+  },
+  {
+    "Company": "DispatchHealth",
+    "Valuation ($B)": 1.7000000000000002,
+    "AI Impact Score": 4.11,
+    "Growth Rate (%)": 118.12
+  },
+  {
+    "Company": "Pax8",
+    "Valuation ($B)": 1.7000000000000002,
+    "AI Impact Score": 4.02,
+    "Growth Rate (%)": 82.82
+  },
+  {
+    "Company": "Multiverse",
+    "Valuation ($B)": 1.7000000000000002,
+    "AI Impact Score": 9.81,
+    "Growth Rate (%)": 129.31
+  },
+  {
+    "Company": "Front",
+    "Valuation ($B)": 1.7000000000000002,
+    "AI Impact Score": 8.71,
+    "Growth Rate (%)": 87.27
+  },
+  {
+    "Company": "Redesign Health",
+    "Valuation ($B)": 1.7000000000000002,
+    "AI Impact Score": 7.31,
+    "Growth Rate (%)": 88.53
+  },
+  {
+    "Company": "Tessera Therapeutics",
+    "Valuation ($B)": 1.69,
+    "AI Impact Score": 7.54,
+    "Growth Rate (%)": 132.73
+  },
+  {
+    "Company": "Uniswap",
+    "Valuation ($B)": 1.6600000000000001,
+    "AI Impact Score": 6.06,
+    "Growth Rate (%)": 66.49
+  },
+  {
+    "Company": "FinAccel",
+    "Valuation ($B)": 1.6600000000000001,
+    "AI Impact Score": 9.52,
+    "Growth Rate (%)": 28.76
+  },
+  {
+    "Company": "Unite Us",
+    "Valuation ($B)": 1.6,
+    "AI Impact Score": 5.47,
+    "Growth Rate (%)": 14.03
+  },
+  {
+    "Company": "CircleCI",
+    "Valuation ($B)": 1.7000000000000002,
+    "AI Impact Score": 4.42,
+    "Growth Rate (%)": 115.72
+  },
+  {
+    "Company": "Wave",
+    "Valuation ($B)": 1.7000000000000002,
+    "AI Impact Score": 2.47,
+    "Growth Rate (%)": 96.84
+  },
+  {
+    "Company": "Vestiaire Collective",
+    "Valuation ($B)": 1.7000000000000002,
+    "AI Impact Score": 8.08,
+    "Growth Rate (%)": 108.57
+  },
+  {
+    "Company": "Dragos",
+    "Valuation ($B)": 1.7000000000000002,
+    "AI Impact Score": 7.61,
+    "Growth Rate (%)": 39.81
+  },
+  {
+    "Company": "Reltio",
+    "Valuation ($B)": 1.7000000000000002,
+    "AI Impact Score": 4.46,
+    "Growth Rate (%)": 29.09
+  },
+  {
+    "Company": "H2O.ai",
+    "Valuation ($B)": 1.7000000000000002,
+    "AI Impact Score": 1.23,
+    "Growth Rate (%)": 12.04
+  },
+  {
+    "Company": "ZenBusiness",
+    "Valuation ($B)": 1.7000000000000002,
+    "AI Impact Score": 8.55,
+    "Growth Rate (%)": 59.08
+  },
+  {
+    "Company": "Carsome",
+    "Valuation ($B)": 1.7000000000000002,
+    "AI Impact Score": 1.1,
+    "Growth Rate (%)": 92.59
+  },
+  {
+    "Company": "Productboard",
+    "Valuation ($B)": 1.73,
+    "AI Impact Score": 7.33,
+    "Growth Rate (%)": 64.91
+  },
+  {
+    "Company": "Spotter",
+    "Valuation ($B)": 1.7000000000000002,
+    "AI Impact Score": 9.73,
+    "Growth Rate (%)": 71.25
+  },
+  {
+    "Company": "Optimism",
+    "Valuation ($B)": 1.65,
+    "AI Impact Score": 4.94,
+    "Growth Rate (%)": 136.58
+  },
+  {
+    "Company": "Incredible Health",
+    "Valuation ($B)": 1.65,
+    "AI Impact Score": 3.11,
+    "Growth Rate (%)": 58.76
+  },
+  {
+    "Company": "Jusfoun Big Data",
+    "Valuation ($B)": 1.62,
+    "AI Impact Score": 7.34,
+    "Growth Rate (%)": 81.96
+  },
+  {
+    "Company": "Transcarent",
+    "Valuation ($B)": 1.62,
+    "AI Impact Score": 8.35,
+    "Growth Rate (%)": 119.71
+  },
+  {
+    "Company": "DealShare",
+    "Valuation ($B)": 1.7000000000000002,
+    "AI Impact Score": 5.92,
+    "Growth Rate (%)": 65.52
+  },
+  {
+    "Company": "Zhubajie",
+    "Valuation ($B)": 1.6099999999999999,
+    "AI Impact Score": 9.7,
+    "Growth Rate (%)": 97.09
+  },
+  {
+    "Company": "solarisBank",
+    "Valuation ($B)": 1.65,
+    "AI Impact Score": 1.47,
+    "Growth Rate (%)": 130.73
+  },
+  {
+    "Company": "DataStax",
+    "Valuation ($B)": 1.6,
+    "AI Impact Score": 5.54,
+    "Growth Rate (%)": 142.93
+  },
+  {
+    "Company": "Infinidat",
+    "Valuation ($B)": 1.6,
+    "AI Impact Score": 7.47,
+    "Growth Rate (%)": 30.59
+  },
+  {
+    "Company": "Afiniti",
+    "Valuation ($B)": 1.6,
+    "AI Impact Score": 8.76,
+    "Growth Rate (%)": 139.72
+  },
+  {
+    "Company": "Cao Cao Mobility",
+    "Valuation ($B)": 1.6,
+    "AI Impact Score": 2.61,
+    "Growth Rate (%)": 78.9
+  },
+  {
+    "Company": "Clari",
+    "Valuation ($B)": 2.6,
+    "AI Impact Score": 8.2,
+    "Growth Rate (%)": 46.15
+  },
+  {
+    "Company": "Tonal",
+    "Valuation ($B)": 1.6,
+    "AI Impact Score": 5.97,
+    "Growth Rate (%)": 74.28
+  },
+  {
+    "Company": "Clio",
+    "Valuation ($B)": 1.6,
+    "AI Impact Score": 4.57,
+    "Growth Rate (%)": 147.2
+  },
+  {
+    "Company": "SafetyCulture",
+    "Valuation ($B)": 1.6,
+    "AI Impact Score": 2.19,
+    "Growth Rate (%)": 78.97
+  },
+  {
+    "Company": "Monte Carlo",
+    "Valuation ($B)": 1.6,
+    "AI Impact Score": 8.79,
+    "Growth Rate (%)": 56.03
+  },
+  {
+    "Company": "Cresta",
+    "Valuation ($B)": 1.6,
+    "AI Impact Score": 2.42,
+    "Growth Rate (%)": 98.68
+  },
+  {
+    "Company": "Extend",
+    "Valuation ($B)": 1.3599999999999999,
+    "AI Impact Score": 3.79,
+    "Growth Rate (%)": 43.62
+  },
+  {
+    "Company": "Generate Biomedicines",
+    "Valuation ($B)": 1.3599999999999999,
+    "AI Impact Score": 3.61,
+    "Growth Rate (%)": 20.62
+  },
+  {
+    "Company": "Cognite",
+    "Valuation ($B)": 1.5,
+    "AI Impact Score": 8.84,
+    "Growth Rate (%)": 28.04
+  },
+  {
+    "Company": "ASAPP",
+    "Valuation ($B)": 1.6,
+    "AI Impact Score": 7.05,
+    "Growth Rate (%)": 27.93
+  },
+  {
+    "Company": "SmartHR",
+    "Valuation ($B)": 1.6,
+    "AI Impact Score": 8.17,
+    "Growth Rate (%)": 31.27
+  },
+  {
+    "Company": "Mercury",
+    "Valuation ($B)": 1.6,
+    "AI Impact Score": 3.25,
+    "Growth Rate (%)": 29.44
+  },
+  {
+    "Company": "HomeLight",
+    "Valuation ($B)": 1.7000000000000002,
+    "AI Impact Score": 6.62,
+    "Growth Rate (%)": 99.72
+  },
+  {
+    "Company": "Truepill",
+    "Valuation ($B)": 1.6,
+    "AI Impact Score": 6.15,
+    "Growth Rate (%)": 35.46
+  },
+  {
+    "Company": "ezCater",
+    "Valuation ($B)": 1.6,
+    "AI Impact Score": 8.5,
+    "Growth Rate (%)": 58.39
+  },
+  {
+    "Company": "Wayflyer",
+    "Valuation ($B)": 1.6,
+    "AI Impact Score": 9.15,
+    "Growth Rate (%)": 135.55
+  },
+  {
+    "Company": "Capitolis",
+    "Valuation ($B)": 1.6,
+    "AI Impact Score": 1.11,
+    "Growth Rate (%)": 76.35
+  },
+  {
+    "Company": "Nord Security",
+    "Valuation ($B)": 1.6,
+    "AI Impact Score": 7.07,
+    "Growth Rate (%)": 103.46
+  },
+  {
+    "Company": "Vanta",
+    "Valuation ($B)": 1.6,
+    "AI Impact Score": 1.47,
+    "Growth Rate (%)": 34.12
+  },
+  {
+    "Company": "Magic Eden",
+    "Valuation ($B)": 1.6,
+    "AI Impact Score": 5.94,
+    "Growth Rate (%)": 36.92
+  },
+  {
+    "Company": "Pave",
+    "Valuation ($B)": 1.6,
+    "AI Impact Score": 3.59,
+    "Growth Rate (%)": 15.72
+  },
+  {
+    "Company": "Promasidor Holdings",
+    "Valuation ($B)": 1.5899999999999999,
+    "AI Impact Score": 3.76,
+    "Growth Rate (%)": 33.65
+  },
+  {
+    "Company": "GalaxySpace",
+    "Valuation ($B)": 1.58,
+    "AI Impact Score": 4.18,
+    "Growth Rate (%)": 49.0
+  },
+  {
+    "Company": "Icon",
+    "Valuation ($B)": 1.57,
+    "AI Impact Score": 6.59,
+    "Growth Rate (%)": 34.78
+  },
+  {
+    "Company": "Fresh Life Style Supply Chain Management",
+    "Valuation ($B)": 1.57,
+    "AI Impact Score": 4.01,
+    "Growth Rate (%)": 22.42
+  },
+  {
+    "Company": "Alloy",
+    "Valuation ($B)": 1.55,
+    "AI Impact Score": 7.59,
+    "Growth Rate (%)": 26.89
+  },
+  {
+    "Company": "Baiwang",
+    "Valuation ($B)": 1.55,
+    "AI Impact Score": 4.64,
+    "Growth Rate (%)": 74.51
+  },
+  {
+    "Company": "Iluvatar CoreX",
+    "Valuation ($B)": 1.55,
+    "AI Impact Score": 1.62,
+    "Growth Rate (%)": 38.89
+  },
+  {
+    "Company": "Wenheyou",
+    "Valuation ($B)": 1.55,
+    "AI Impact Score": 8.05,
+    "Growth Rate (%)": 61.0
+  },
+  {
+    "Company": "Kitopi",
+    "Valuation ($B)": 1.55,
+    "AI Impact Score": 3.5700000000000003,
+    "Growth Rate (%)": 80.48
+  },
+  {
+    "Company": "Loom",
+    "Valuation ($B)": 1.53,
+    "AI Impact Score": 4.89,
+    "Growth Rate (%)": 106.66
+  },
+  {
+    "Company": "Ximalaya FM",
+    "Valuation ($B)": 1.52,
+    "AI Impact Score": 7.17,
+    "Growth Rate (%)": 15.5
+  },
+  {
+    "Company": "Carzone",
+    "Valuation ($B)": 1.52,
+    "AI Impact Score": 3.99,
+    "Growth Rate (%)": 121.92
+  },
+  {
+    "Company": "OpenWeb",
+    "Valuation ($B)": 1.5,
+    "AI Impact Score": 1.51,
+    "Growth Rate (%)": 97.91
+  },
+  {
+    "Company": "bolttech",
+    "Valuation ($B)": 1.5,
+    "AI Impact Score": 4.37,
+    "Growth Rate (%)": 21.45
+  },
+  {
+    "Company": "First Mode",
+    "Valuation ($B)": 1.5,
+    "AI Impact Score": 9.5,
+    "Growth Rate (%)": 132.3
+  },
+  {
+    "Company": "Bilt Rewards",
+    "Valuation ($B)": 1.5,
+    "AI Impact Score": 6.78,
+    "Growth Rate (%)": 138.92
+  },
+  {
+    "Company": "Mu Sigma",
+    "Valuation ($B)": 1.5,
+    "AI Impact Score": 7.04,
+    "Growth Rate (%)": 18.55
+  },
+  {
+    "Company": "Kushki",
+    "Valuation ($B)": 1.5,
+    "AI Impact Score": 6.69,
+    "Growth Rate (%)": 48.76
+  },
+  {
+    "Company": "Jasper",
+    "Valuation ($B)": 1.5,
+    "AI Impact Score": 2.79,
+    "Growth Rate (%)": 122.87
+  },
+  {
+    "Company": "Orna Therapeutics",
+    "Valuation ($B)": 1.5,
+    "AI Impact Score": 4.77,
+    "Growth Rate (%)": 114.76
+  },
+  {
+    "Company": "TuJia",
+    "Valuation ($B)": 1.5,
+    "AI Impact Score": 7.76,
+    "Growth Rate (%)": 35.83
+  },
+  {
+    "Company": "Mofang Living",
+    "Valuation ($B)": 1.5,
+    "AI Impact Score": 1.9100000000000001,
+    "Growth Rate (%)": 39.31
+  },
+  {
+    "Company": "Gett",
+    "Valuation ($B)": 1.5,
+    "AI Impact Score": 3.5,
+    "Growth Rate (%)": 61.87
+  },
+  {
+    "Company": "DT Dream",
+    "Valuation ($B)": 1.5,
+    "AI Impact Score": 3.49,
+    "Growth Rate (%)": 77.83
+  },
+  {
+    "Company": "Changingedu",
+    "Valuation ($B)": 1.5,
+    "AI Impact Score": 4.89,
+    "Growth Rate (%)": 96.56
+  },
+  {
+    "Company": "XiaoZhu",
+    "Valuation ($B)": 1.5,
+    "AI Impact Score": 9.82,
+    "Growth Rate (%)": 61.65
+  },
+  {
+    "Company": "JOLLY Information Technology",
+    "Valuation ($B)": 1.5,
+    "AI Impact Score": 1.6099999999999999,
+    "Growth Rate (%)": 74.75
+  },
+  {
+    "Company": "Yijiupi",
+    "Valuation ($B)": 1.5,
+    "AI Impact Score": 5.67,
+    "Growth Rate (%)": 114.65
+  },
+  {
+    "Company": "Cambridge Mobile Telematics",
+    "Valuation ($B)": 1.5,
+    "AI Impact Score": 2.61,
+    "Growth Rate (%)": 15.14
+  },
+  {
+    "Company": "Collective Health",
+    "Valuation ($B)": 1.5,
+    "AI Impact Score": 9.74,
+    "Growth Rate (%)": 45.34
+  },
+  {
+    "Company": "Strava",
+    "Valuation ($B)": 1.5,
+    "AI Impact Score": 2.02,
+    "Growth Rate (%)": 109.87
+  },
+  {
+    "Company": "Zenoti",
+    "Valuation ($B)": 1.5,
+    "AI Impact Score": 4.63,
+    "Growth Rate (%)": 135.33
+  },
+  {
+    "Company": "K Health",
+    "Valuation ($B)": 1.5,
+    "AI Impact Score": 7.64,
+    "Growth Rate (%)": 81.63
+  },
+  {
+    "Company": "Uplight",
+    "Valuation ($B)": 1.5,
+    "AI Impact Score": 7.34,
+    "Growth Rate (%)": 84.5
+  },
+  {
+    "Company": "ID.me",
+    "Valuation ($B)": 1.5,
+    "AI Impact Score": 4.8,
+    "Growth Rate (%)": 25.0
+  },
+  {
+    "Company": "Snapdocs",
+    "Valuation ($B)": 1.5,
+    "AI Impact Score": 4.12,
+    "Growth Rate (%)": 72.64
+  },
+  {
+    "Company": "Chipper Cash",
+    "Valuation ($B)": 2.0,
+    "AI Impact Score": 4.58,
+    "Growth Rate (%)": 84.57
+  },
+  {
+    "Company": "Ledger",
+    "Valuation ($B)": 1.5,
+    "AI Impact Score": 3.38,
+    "Growth Rate (%)": 43.95
+  },
+  {
+    "Company": "Next Silicon",
+    "Valuation ($B)": 1.5,
+    "AI Impact Score": 2.85,
+    "Growth Rate (%)": 47.69
+  },
+  {
+    "Company": "YunQuNa",
+    "Valuation ($B)": 1.5,
+    "AI Impact Score": 5.35,
+    "Growth Rate (%)": 62.82
+  },
+  {
+    "Company": "impact.com",
+    "Valuation ($B)": 1.5,
+    "AI Impact Score": 3.42,
+    "Growth Rate (%)": 12.81
+  },
+  {
+    "Company": "SmartRecruiters",
+    "Valuation ($B)": 1.5,
+    "AI Impact Score": 3.59,
+    "Growth Rate (%)": 55.09
+  },
+  {
+    "Company": "NotCo",
+    "Valuation ($B)": 1.5,
+    "AI Impact Score": 6.91,
+    "Growth Rate (%)": 39.6
+  },
+  {
+    "Company": "Culture Amp",
+    "Valuation ($B)": 1.5,
+    "AI Impact Score": 9.72,
+    "Growth Rate (%)": 55.85
+  },
+  {
+    "Company": "TaxBit",
+    "Valuation ($B)": 1.5,
+    "AI Impact Score": 6.43,
+    "Growth Rate (%)": 26.77
+  },
+  {
+    "Company": "Pacaso",
+    "Valuation ($B)": 1.5,
+    "AI Impact Score": 1.69,
+    "Growth Rate (%)": 134.67
+  },
+  {
+    "Company": "1047 Games",
+    "Valuation ($B)": 1.5,
+    "AI Impact Score": 1.6800000000000002,
+    "Growth Rate (%)": 93.1
+  },
+  {
+    "Company": "Matillion",
+    "Valuation ($B)": 1.5,
+    "AI Impact Score": 9.56,
+    "Growth Rate (%)": 105.07
+  },
+  {
+    "Company": "Persona",
+    "Valuation ($B)": 1.5,
+    "AI Impact Score": 3.68,
+    "Growth Rate (%)": 120.48
+  },
+  {
+    "Company": "Ascend Money",
+    "Valuation ($B)": 1.5,
+    "AI Impact Score": 1.83,
+    "Growth Rate (%)": 79.78
+  },
+  {
+    "Company": "Andela",
+    "Valuation ($B)": 1.5,
+    "AI Impact Score": 6.39,
+    "Growth Rate (%)": 22.17
+  },
+  {
+    "Company": "Built",
+    "Valuation ($B)": 1.5,
+    "AI Impact Score": 6.61,
+    "Growth Rate (%)": 85.19
+  },
+  {
+    "Company": "CoinList",
+    "Valuation ($B)": 1.5,
+    "AI Impact Score": 6.84,
+    "Growth Rate (%)": 92.16
+  },
+  {
+    "Company": "Lusha",
+    "Valuation ($B)": 1.5,
+    "AI Impact Score": 3.41,
+    "Growth Rate (%)": 114.36
+  },
+  {
+    "Company": "CureFit",
+    "Valuation ($B)": 1.5,
+    "AI Impact Score": 1.1400000000000001,
+    "Growth Rate (%)": 70.43
+  },
+  {
+    "Company": "Olist",
+    "Valuation ($B)": 1.5,
+    "AI Impact Score": 9.69,
+    "Growth Rate (%)": 27.86
+  },
+  {
+    "Company": "Paradox",
+    "Valuation ($B)": 1.5,
+    "AI Impact Score": 3.26,
+    "Growth Rate (%)": 49.73
+  },
+  {
+    "Company": "Airbyte",
+    "Valuation ($B)": 1.5,
+    "AI Impact Score": 7.08,
+    "Growth Rate (%)": 60.83
+  },
+  {
+    "Company": "StoreDot",
+    "Valuation ($B)": 1.5,
+    "AI Impact Score": 7.36,
+    "Growth Rate (%)": 100.43
+  },
+  {
+    "Company": "Il Makiage",
+    "Valuation ($B)": 1.5,
+    "AI Impact Score": 6.49,
+    "Growth Rate (%)": 89.91
+  },
+  {
+    "Company": "Spendesk",
+    "Valuation ($B)": 1.5,
+    "AI Impact Score": 3.8200000000000003,
+    "Growth Rate (%)": 59.85
+  },
+  {
+    "Company": "Veriff",
+    "Valuation ($B)": 1.5,
+    "AI Impact Score": 3.44,
+    "Growth Rate (%)": 148.11
+  },
+  {
+    "Company": "Athelas",
+    "Valuation ($B)": 1.5,
+    "AI Impact Score": 6.38,
+    "Growth Rate (%)": 94.81
+  },
+  {
+    "Company": "ElasticRun",
+    "Valuation ($B)": 1.5,
+    "AI Impact Score": 8.79,
+    "Growth Rate (%)": 43.21
+  },
+  {
+    "Company": "Veho",
+    "Valuation ($B)": 1.5,
+    "AI Impact Score": 9.52,
+    "Growth Rate (%)": 24.25
+  },
+  {
+    "Company": "Temporales",
+    "Valuation ($B)": 1.5,
+    "AI Impact Score": 1.9500000000000002,
+    "Growth Rate (%)": 31.4
+  },
+  {
+    "Company": "Fabric",
+    "Valuation ($B)": 1.5,
+    "AI Impact Score": 2.39,
+    "Growth Rate (%)": 44.43
+  },
+  {
+    "Company": "Zeta",
+    "Valuation ($B)": 1.5,
+    "AI Impact Score": 9.5,
+    "Growth Rate (%)": 32.5
+  },
+  {
+    "Company": "Boba",
+    "Valuation ($B)": 1.5,
+    "AI Impact Score": 7.63,
+    "Growth Rate (%)": 36.12
+  },
+  {
+    "Company": "Upside",
+    "Valuation ($B)": 1.5,
+    "AI Impact Score": 8.95,
+    "Growth Rate (%)": 49.91
+  },
+  {
+    "Company": "Mashgin",
+    "Valuation ($B)": 1.5,
+    "AI Impact Score": 2.8200000000000003,
+    "Growth Rate (%)": 34.27
+  },
+  {
+    "Company": "Dock",
+    "Valuation ($B)": 1.5,
+    "AI Impact Score": 6.29,
+    "Growth Rate (%)": 135.55
+  },
+  {
+    "Company": "Prometheus",
+    "Valuation ($B)": 1.5,
+    "AI Impact Score": 7.31,
+    "Growth Rate (%)": 21.23
+  },
+  {
+    "Company": "5ire",
+    "Valuation ($B)": 1.5,
+    "AI Impact Score": 7.12,
+    "Growth Rate (%)": 83.43
+  },
+  {
+    "Company": "Yipin Shengxian",
+    "Valuation ($B)": 1.49,
+    "AI Impact Score": 4.67,
+    "Growth Rate (%)": 67.46
+  },
+  {
+    "Company": "Bordrin Motors",
+    "Valuation ($B)": 1.48,
+    "AI Impact Score": 1.1400000000000001,
+    "Growth Rate (%)": 147.53
+  },
+  {
+    "Company": "Arcadia",
+    "Valuation ($B)": 1.48,
+    "AI Impact Score": 6.25,
+    "Growth Rate (%)": 25.69
+  },
+  {
+    "Company": "VTS",
+    "Valuation ($B)": 1.47,
+    "AI Impact Score": 3.2800000000000002,
+    "Growth Rate (%)": 65.7
+  },
+  {
+    "Company": "Shukun Technology",
+    "Valuation ($B)": 1.46,
+    "AI Impact Score": 5.05,
+    "Growth Rate (%)": 145.73
+  },
+  {
+    "Company": "Huasun",
+    "Valuation ($B)": 1.46,
+    "AI Impact Score": 9.62,
+    "Growth Rate (%)": 131.17
+  },
+  {
+    "Company": "Coocaa",
+    "Valuation ($B)": 1.45,
+    "AI Impact Score": 4.59,
+    "Growth Rate (%)": 124.39
+  },
+  {
+    "Company": "Juma Peisong",
+    "Valuation ($B)": 1.45,
+    "AI Impact Score": 8.56,
+    "Growth Rate (%)": 46.11
+  },
+  {
+    "Company": "Ouyeel",
+    "Valuation ($B)": 1.45,
+    "AI Impact Score": 2.7,
+    "Growth Rate (%)": 33.92
+  },
+  {
+    "Company": "Gymshark",
+    "Valuation ($B)": 1.45,
+    "AI Impact Score": 7.05,
+    "Growth Rate (%)": 103.61
+  },
+  {
+    "Company": "M1",
+    "Valuation ($B)": 1.45,
+    "AI Impact Score": 9.79,
+    "Growth Rate (%)": 140.11
+  },
+  {
+    "Company": "Aleo",
+    "Valuation ($B)": 1.45,
+    "AI Impact Score": 1.92,
+    "Growth Rate (%)": 87.95
+  },
+  {
+    "Company": "Einride",
+    "Valuation ($B)": 1.44,
+    "AI Impact Score": 1.07,
+    "Growth Rate (%)": 90.03
+  },
+  {
+    "Company": "Justworks",
+    "Valuation ($B)": 1.43,
+    "AI Impact Score": 4.9,
+    "Growth Rate (%)": 49.2
+  },
+  {
+    "Company": "Valgen Medtech",
+    "Valuation ($B)": 1.43,
+    "AI Impact Score": 1.83,
+    "Growth Rate (%)": 117.73
+  },
+  {
+    "Company": "SonderMind",
+    "Valuation ($B)": 1.42,
+    "AI Impact Score": 7.74,
+    "Growth Rate (%)": 36.19
+  },
+  {
+    "Company": "Amagi",
+    "Valuation ($B)": 1.4,
+    "AI Impact Score": 9.23,
+    "Growth Rate (%)": 55.32
+  },
+  {
+    "Company": "Papa",
+    "Valuation ($B)": 1.4,
+    "AI Impact Score": 4.91,
+    "Growth Rate (%)": 69.56
+  },
+  {
+    "Company": "Figment",
+    "Valuation ($B)": 1.4,
+    "AI Impact Score": 3.33,
+    "Growth Rate (%)": 81.07
+  },
+  {
+    "Company": "Envoy",
+    "Valuation ($B)": 1.4,
+    "AI Impact Score": 4.91,
+    "Growth Rate (%)": 43.94
+  },
+  {
+    "Company": "Deliverect",
+    "Valuation ($B)": 1.4,
+    "AI Impact Score": 7.51,
+    "Growth Rate (%)": 26.08
+  },
+  {
+    "Company": "SparkCognition",
+    "Valuation ($B)": 1.4,
+    "AI Impact Score": 1.08,
+    "Growth Rate (%)": 95.49
+  },
+  {
+    "Company": "Liquidity",
+    "Valuation ($B)": 1.4,
+    "AI Impact Score": 6.31,
+    "Growth Rate (%)": 50.41
+  },
+  {
+    "Company": "Firebolt",
+    "Valuation ($B)": 1.4,
+    "AI Impact Score": 6.52,
+    "Growth Rate (%)": 91.37
+  },
+  {
+    "Company": "Koudai",
+    "Valuation ($B)": 1.4,
+    "AI Impact Score": 6.74,
+    "Growth Rate (%)": 31.61
+  },
+  {
+    "Company": "Symphony",
+    "Valuation ($B)": 1.4,
+    "AI Impact Score": 3.18,
+    "Growth Rate (%)": 77.36
+  },
+  {
+    "Company": "Yidian Zixun",
+    "Valuation ($B)": 1.4,
+    "AI Impact Score": 7.43,
+    "Growth Rate (%)": 84.56
+  },
+  {
+    "Company": "Cabify",
+    "Valuation ($B)": 1.4,
+    "AI Impact Score": 1.82,
+    "Growth Rate (%)": 17.26
+  },
+  {
+    "Company": "Hive Box",
+    "Valuation ($B)": 1.4,
+    "AI Impact Score": 2.79,
+    "Growth Rate (%)": 57.12
+  },
+  {
+    "Company": "Away",
+    "Valuation ($B)": 1.4,
+    "AI Impact Score": 8.9,
+    "Growth Rate (%)": 28.82
+  },
+  {
+    "Company": "Kong",
+    "Valuation ($B)": 1.4,
+    "AI Impact Score": 7.65,
+    "Growth Rate (%)": 18.87
+  },
+  {
+    "Company": "Epidemic Sound",
+    "Valuation ($B)": 1.4,
+    "AI Impact Score": 1.12,
+    "Growth Rate (%)": 148.59
+  },
+  {
+    "Company": "Yotpo",
+    "Valuation ($B)": 1.4,
+    "AI Impact Score": 3.24,
+    "Growth Rate (%)": 55.13
+  },
+  {
+    "Company": "Rebel Foods",
+    "Valuation ($B)": 1.4,
+    "AI Impact Score": 2.93,
+    "Growth Rate (%)": 123.38
+  },
+  {
+    "Company": "Coda",
+    "Valuation ($B)": 1.4,
+    "AI Impact Score": 3.44,
+    "Growth Rate (%)": 45.65
+  },
+  {
+    "Company": "Stash",
+    "Valuation ($B)": 1.4,
+    "AI Impact Score": 3.23,
+    "Growth Rate (%)": 105.41
+  },
+  {
+    "Company": "Rad Power Bikes",
+    "Valuation ($B)": 1.4,
+    "AI Impact Score": 1.56,
+    "Growth Rate (%)": 116.43
+  },
+  {
+    "Company": "Clarify Health",
+    "Valuation ($B)": 1.4,
+    "AI Impact Score": 5.13,
+    "Growth Rate (%)": 93.39
+  },
+  {
+    "Company": "Bucketplace",
+    "Valuation ($B)": 1.4,
+    "AI Impact Score": 7.59,
+    "Growth Rate (%)": 76.02
+  },
+  {
+    "Company": "Paddle",
+    "Valuation ($B)": 1.4,
+    "AI Impact Score": 6.46,
+    "Growth Rate (%)": 67.66
+  },
+  {
+    "Company": "OneCard",
+    "Valuation ($B)": 1.4,
+    "AI Impact Score": 7.06,
+    "Growth Rate (%)": 58.84
+  },
+  {
+    "Company": "boAT",
+    "Valuation ($B)": 1.4,
+    "AI Impact Score": 1.73,
+    "Growth Rate (%)": 140.13
+  },
+  {
+    "Company": "Phenom People",
+    "Valuation ($B)": 1.4,
+    "AI Impact Score": 9.56,
+    "Growth Rate (%)": 126.29
+  },
+  {
+    "Company": "GupShup",
+    "Valuation ($B)": 1.4,
+    "AI Impact Score": 8.55,
+    "Growth Rate (%)": 145.1
+  },
+  {
+    "Company": "Degreed",
+    "Valuation ($B)": 1.4,
+    "AI Impact Score": 8.25,
+    "Growth Rate (%)": 27.4
+  },
+  {
+    "Company": "Astranis Space Technologies",
+    "Valuation ($B)": 1.4,
+    "AI Impact Score": 8.41,
+    "Growth Rate (%)": 112.32
+  },
+  {
+    "Company": "Scalable Capital",
+    "Valuation ($B)": 1.4,
+    "AI Impact Score": 9.39,
+    "Growth Rate (%)": 141.37
+  },
+  {
+    "Company": "VideoAmp",
+    "Valuation ($B)": 1.4,
+    "AI Impact Score": 5.9,
+    "Growth Rate (%)": 35.37
+  },
+  {
+    "Company": "Panther Labs",
+    "Valuation ($B)": 1.4,
+    "AI Impact Score": 2.8,
+    "Growth Rate (%)": 19.31
+  },
+  {
+    "Company": "Salt Security",
+    "Valuation ($B)": 1.4,
+    "AI Impact Score": 6.55,
+    "Growth Rate (%)": 113.76
+  },
+  {
+    "Company": "Tripledot",
+    "Valuation ($B)": 1.4,
+    "AI Impact Score": 7.69,
+    "Growth Rate (%)": 90.43
+  },
+  {
+    "Company": "Nimble Rx",
+    "Valuation ($B)": 1.4,
+    "AI Impact Score": 7.64,
+    "Growth Rate (%)": 127.86
+  },
+  {
+    "Company": "Veepee",
+    "Valuation ($B)": 1.38,
+    "AI Impact Score": 5.69,
+    "Growth Rate (%)": 29.57
+  },
+  {
+    "Company": "Neon",
+    "Valuation ($B)": 1.38,
+    "AI Impact Score": 1.62,
+    "Growth Rate (%)": 121.34
+  },
+  {
+    "Company": "Movable Ink",
+    "Valuation ($B)": 1.3599999999999999,
+    "AI Impact Score": 4.34,
+    "Growth Rate (%)": 38.23
+  },
+  {
+    "Company": "Patreon",
+    "Valuation ($B)": 1.35,
+    "AI Impact Score": 9.29,
+    "Growth Rate (%)": 32.91
+  },
+  {
+    "Company": "DeepBlue Technology",
+    "Valuation ($B)": 1.35,
+    "AI Impact Score": 6.26,
+    "Growth Rate (%)": 33.0
+  },
+  {
+    "Company": "Klook",
+    "Valuation ($B)": 1.35,
+    "AI Impact Score": 5.84,
+    "Growth Rate (%)": 124.04
+  },
+  {
+    "Company": "Yaoshibang",
+    "Valuation ($B)": 1.35,
+    "AI Impact Score": 3.42,
+    "Growth Rate (%)": 103.13
+  },
+  {
+    "Company": "Epirus",
+    "Valuation ($B)": 1.35,
+    "AI Impact Score": 4.32,
+    "Growth Rate (%)": 83.23
+  },
+  {
+    "Company": "Signifyd",
+    "Valuation ($B)": 1.34,
+    "AI Impact Score": 9.06,
+    "Growth Rate (%)": 60.24
+  },
+  {
+    "Company": "Jaguar Microsystems",
+    "Valuation ($B)": 1.34,
+    "AI Impact Score": 7.0,
+    "Growth Rate (%)": 132.81
+  },
+  {
+    "Company": "Motorway",
+    "Valuation ($B)": 1.33,
+    "AI Impact Score": 8.09,
+    "Growth Rate (%)": 64.94
+  },
+  {
+    "Company": "RIDI",
+    "Valuation ($B)": 1.33,
+    "AI Impact Score": 5.09,
+    "Growth Rate (%)": 124.32
+  },
+  {
+    "Company": "Flipboard",
+    "Valuation ($B)": 1.32,
+    "AI Impact Score": 6.67,
+    "Growth Rate (%)": 71.48
+  },
+  {
+    "Company": "GPclub",
+    "Valuation ($B)": 1.32,
+    "AI Impact Score": 3.24,
+    "Growth Rate (%)": 62.77
+  },
+  {
+    "Company": "Tongdun Technology",
+    "Valuation ($B)": 1.32,
+    "AI Impact Score": 7.35,
+    "Growth Rate (%)": 74.78
+  },
+  {
+    "Company": "Athletic Greens",
+    "Valuation ($B)": 1.32,
+    "AI Impact Score": 4.85,
+    "Growth Rate (%)": 52.19
+  },
+  {
+    "Company": "Unisound",
+    "Valuation ($B)": 1.31,
+    "AI Impact Score": 4.98,
+    "Growth Rate (%)": 114.67
+  },
+  {
+    "Company": "Alzheon",
+    "Valuation ($B)": 1.31,
+    "AI Impact Score": 6.84,
+    "Growth Rate (%)": 80.38
+  },
+  {
+    "Company": "MasterControl",
+    "Valuation ($B)": 1.3,
+    "AI Impact Score": 9.43,
+    "Growth Rate (%)": 42.51
+  },
+  {
+    "Company": "HeartFlow",
+    "Valuation ($B)": 1.3,
+    "AI Impact Score": 1.58,
+    "Growth Rate (%)": 135.94
+  },
+  {
+    "Company": "Shiprocket",
+    "Valuation ($B)": 1.3,
+    "AI Impact Score": 8.42,
+    "Growth Rate (%)": 63.74
+  },
+  {
+    "Company": "The Brandtech Group",
+    "Valuation ($B)": 1.3,
+    "AI Impact Score": 3.63,
+    "Growth Rate (%)": 86.1
+  },
+  {
+    "Company": "InSightec",
+    "Valuation ($B)": 1.3,
+    "AI Impact Score": 5.0,
+    "Growth Rate (%)": 136.91
+  },
+  {
+    "Company": "Everly Health",
+    "Valuation ($B)": 1.3,
+    "AI Impact Score": 1.2,
+    "Growth Rate (%)": 97.39
+  },
+  {
+    "Company": "Manner",
+    "Valuation ($B)": 1.3,
+    "AI Impact Score": 3.71,
+    "Growth Rate (%)": 26.37
+  },
+  {
+    "Company": "TalkingData",
+    "Valuation ($B)": 1.3,
+    "AI Impact Score": 5.52,
+    "Growth Rate (%)": 141.58
+  },
+  {
+    "Company": "DistroKid",
+    "Valuation ($B)": 1.3,
+    "AI Impact Score": 1.51,
+    "Growth Rate (%)": 97.88
+  },
+  {
+    "Company": "Konfio",
+    "Valuation ($B)": 1.3,
+    "AI Impact Score": 5.42,
+    "Growth Rate (%)": 56.89
+  },
+  {
+    "Company": "Betterment",
+    "Valuation ($B)": 1.3,
+    "AI Impact Score": 9.34,
+    "Growth Rate (%)": 29.5
+  },
+  {
+    "Company": "Flock Freight",
+    "Valuation ($B)": 1.3,
+    "AI Impact Score": 1.9500000000000002,
+    "Growth Rate (%)": 121.16
+  },
+  {
+    "Company": "YugaByte",
+    "Valuation ($B)": 1.3,
+    "AI Impact Score": 7.88,
+    "Growth Rate (%)": 96.81
+  },
+  {
+    "Company": "Lukka",
+    "Valuation ($B)": 1.3,
+    "AI Impact Score": 4.69,
+    "Growth Rate (%)": 84.68
+  },
+  {
+    "Company": "TravelPerk",
+    "Valuation ($B)": 1.3,
+    "AI Impact Score": 6.9,
+    "Growth Rate (%)": 135.14
+  },
+  {
+    "Company": "iTrustCapital",
+    "Valuation ($B)": 1.3,
+    "AI Impact Score": 3.34,
+    "Growth Rate (%)": 120.4
+  },
+  {
+    "Company": "Domestika",
+    "Valuation ($B)": 1.3,
+    "AI Impact Score": 2.44,
+    "Growth Rate (%)": 31.23
+  },
+  {
+    "Company": "CoinTracker",
+    "Valuation ($B)": 1.3,
+    "AI Impact Score": 2.44,
+    "Growth Rate (%)": 53.64
+  },
+  {
+    "Company": "Loadsmart",
+    "Valuation ($B)": 1.3,
+    "AI Impact Score": 1.63,
+    "Growth Rate (%)": 44.79
+  },
+  {
+    "Company": "TUNGEE",
+    "Valuation ($B)": 1.3,
+    "AI Impact Score": 2.67,
+    "Growth Rate (%)": 114.15
+  },
+  {
+    "Company": "Yubi",
+    "Valuation ($B)": 1.3,
+    "AI Impact Score": 6.98,
+    "Growth Rate (%)": 14.69
+  },
+  {
+    "Company": "LinkTree",
+    "Valuation ($B)": 1.3,
+    "AI Impact Score": 8.94,
+    "Growth Rate (%)": 89.78
+  },
+  {
+    "Company": "Island",
+    "Valuation ($B)": 1.3,
+    "AI Impact Score": 8.33,
+    "Growth Rate (%)": 116.74
+  },
+  {
+    "Company": "Clipboard Health",
+    "Valuation ($B)": 1.3,
+    "AI Impact Score": 7.17,
+    "Growth Rate (%)": 132.75
+  },
+  {
+    "Company": "Biofourmis",
+    "Valuation ($B)": 1.3,
+    "AI Impact Score": 1.99,
+    "Growth Rate (%)": 57.89
+  },
+  {
+    "Company": "STORD",
+    "Valuation ($B)": 1.3,
+    "AI Impact Score": 3.6,
+    "Growth Rate (%)": 124.98
+  },
+  {
+    "Company": "Optibus",
+    "Valuation ($B)": 1.3,
+    "AI Impact Score": 3.79,
+    "Growth Rate (%)": 25.49
+  },
+  {
+    "Company": "Equashield",
+    "Valuation ($B)": 1.3,
+    "AI Impact Score": 3.25,
+    "Growth Rate (%)": 128.5
+  },
+  {
+    "Company": "Intercom",
+    "Valuation ($B)": 1.28,
+    "AI Impact Score": 5.64,
+    "Growth Rate (%)": 27.85
+  },
+  {
+    "Company": "OVO Energy",
+    "Valuation ($B)": 1.28,
+    "AI Impact Score": 5.82,
+    "Growth Rate (%)": 65.62
+  },
+  {
+    "Company": "Huisuanzhang",
+    "Valuation ($B)": 1.28,
+    "AI Impact Score": 4.21,
+    "Growth Rate (%)": 121.62
+  },
+  {
+    "Company": "WTOIP",
+    "Valuation ($B)": 1.27,
+    "AI Impact Score": 4.18,
+    "Growth Rate (%)": 30.99
+  },
+  {
+    "Company": "PeopleCert",
+    "Valuation ($B)": 1.27,
+    "AI Impact Score": 8.46,
+    "Growth Rate (%)": 42.1
+  },
+  {
+    "Company": "Greater Bay Technology",
+    "Valuation ($B)": 1.26,
+    "AI Impact Score": 8.1,
+    "Growth Rate (%)": 111.12
+  },
+  {
+    "Company": "JMGO",
+    "Valuation ($B)": 1.26,
+    "AI Impact Score": 3.77,
+    "Growth Rate (%)": 110.81
+  },
+  {
+    "Company": "BigID",
+    "Valuation ($B)": 1.25,
+    "AI Impact Score": 9.22,
+    "Growth Rate (%)": 99.76
+  },
+  {
+    "Company": "Kuaikan Manhua",
+    "Valuation ($B)": 1.25,
+    "AI Impact Score": 9.58,
+    "Growth Rate (%)": 107.15
+  },
+  {
+    "Company": "Marshmallow",
+    "Valuation ($B)": 1.25,
+    "AI Impact Score": 3.94,
+    "Growth Rate (%)": 85.98
+  },
+  {
+    "Company": "Honor Technology",
+    "Valuation ($B)": 1.25,
+    "AI Impact Score": 4.19,
+    "Growth Rate (%)": 45.25
+  },
+  {
+    "Company": "Mythical Games",
+    "Valuation ($B)": 1.25,
+    "AI Impact Score": 5.55,
+    "Growth Rate (%)": 58.4
+  },
+  {
+    "Company": "Incode Technologies",
+    "Valuation ($B)": 1.25,
+    "AI Impact Score": 9.47,
+    "Growth Rate (%)": 35.42
+  },
+  {
+    "Company": "Tackle.io",
+    "Valuation ($B)": 1.25,
+    "AI Impact Score": 8.89,
+    "Growth Rate (%)": 137.18
+  },
+  {
+    "Company": "Flipdish",
+    "Valuation ($B)": 1.25,
+    "AI Impact Score": 1.92,
+    "Growth Rate (%)": 91.67
+  },
+  {
+    "Company": "Route",
+    "Valuation ($B)": 1.25,
+    "AI Impact Score": 4.53,
+    "Growth Rate (%)": 66.12
+  },
+  {
+    "Company": "CaptivateIQ",
+    "Valuation ($B)": 1.25,
+    "AI Impact Score": 5.98,
+    "Growth Rate (%)": 74.68
+  },
+  {
+    "Company": "Talos",
+    "Valuation ($B)": 1.25,
+    "AI Impact Score": 5.53,
+    "Growth Rate (%)": 142.62
+  },
+  {
+    "Company": "airSlate",
+    "Valuation ($B)": 1.25,
+    "AI Impact Score": 2.74,
+    "Growth Rate (%)": 31.47
+  },
+  {
+    "Company": "ClassDojo",
+    "Valuation ($B)": 1.25,
+    "AI Impact Score": 8.73,
+    "Growth Rate (%)": 92.07
+  },
+  {
+    "Company": "BrewDog",
+    "Valuation ($B)": 1.24,
+    "AI Impact Score": 7.09,
+    "Growth Rate (%)": 80.82
+  },
+  {
+    "Company": "Enflame",
+    "Valuation ($B)": 1.24,
+    "AI Impact Score": 8.54,
+    "Growth Rate (%)": 95.6
+  },
+  {
+    "Company": "Shulan Health",
+    "Valuation ($B)": 1.24,
+    "AI Impact Score": 8.73,
+    "Growth Rate (%)": 12.54
+  },
+  {
+    "Company": "SeatGeek",
+    "Valuation ($B)": 1.24,
+    "AI Impact Score": 7.74,
+    "Growth Rate (%)": 132.1
+  },
+  {
+    "Company": "EQRx",
+    "Valuation ($B)": 1.23,
+    "AI Impact Score": 4.95,
+    "Growth Rate (%)": 140.5
+  },
+  {
+    "Company": "Nexii",
+    "Valuation ($B)": 1.23,
+    "AI Impact Score": 6.49,
+    "Growth Rate (%)": 89.12
+  },
+  {
+    "Company": "inDriver",
+    "Valuation ($B)": 1.23,
+    "AI Impact Score": 2.44,
+    "Growth Rate (%)": 107.53
+  },
+  {
+    "Company": "Spiber",
+    "Valuation ($B)": 1.22,
+    "AI Impact Score": 7.06,
+    "Growth Rate (%)": 139.15
+  },
+  {
+    "Company": "Insider",
+    "Valuation ($B)": 1.22,
+    "AI Impact Score": 2.61,
+    "Growth Rate (%)": 109.01
+  },
+  {
+    "Company": "Kallyope",
+    "Valuation ($B)": 1.22,
+    "AI Impact Score": 7.25,
+    "Growth Rate (%)": 31.36
+  },
+  {
+    "Company": "Zip",
+    "Valuation ($B)": 1.2,
+    "AI Impact Score": 3.07,
+    "Growth Rate (%)": 90.68
+  },
+  {
+    "Company": "Our Next Energy",
+    "Valuation ($B)": 1.2,
+    "AI Impact Score": 2.06,
+    "Growth Rate (%)": 94.94
+  },
+  {
+    "Company": "Yiguo",
+    "Valuation ($B)": 1.2,
+    "AI Impact Score": 2.49,
+    "Growth Rate (%)": 69.38
+  },
+  {
+    "Company": "Fair",
+    "Valuation ($B)": 1.2,
+    "AI Impact Score": 1.02,
+    "Growth Rate (%)": 113.1
+  },
+  {
+    "Company": "Glossier",
+    "Valuation ($B)": 1.65,
+    "AI Impact Score": 7.47,
+    "Growth Rate (%)": 140.81
+  },
+  {
+    "Company": "Workhuman",
+    "Valuation ($B)": 1.2,
+    "AI Impact Score": 7.59,
+    "Growth Rate (%)": 139.58
+  },
+  {
+    "Company": "Qumulo",
+    "Valuation ($B)": 1.2,
+    "AI Impact Score": 5.63,
+    "Growth Rate (%)": 73.12
+  },
+  {
+    "Company": "Tealium",
+    "Valuation ($B)": 1.2,
+    "AI Impact Score": 2.45,
+    "Growth Rate (%)": 25.85
+  },
+  {
+    "Company": "Public",
+    "Valuation ($B)": 1.2,
+    "AI Impact Score": 1.75,
+    "Growth Rate (%)": 147.88
+  },
+  {
+    "Company": "Pipa Coding",
+    "Valuation ($B)": 1.2,
+    "AI Impact Score": 1.17,
+    "Growth Rate (%)": 127.45
+  },
+  {
+    "Company": "Pilot.com",
+    "Valuation ($B)": 1.2,
+    "AI Impact Score": 2.49,
+    "Growth Rate (%)": 27.45
+  },
+  {
+    "Company": "Aibee",
+    "Valuation ($B)": 1.2,
+    "AI Impact Score": 9.02,
+    "Growth Rate (%)": 138.92
+  },
+  {
+    "Company": "Jokr",
+    "Valuation ($B)": 1.3,
+    "AI Impact Score": 3.17,
+    "Growth Rate (%)": 131.79
+  },
+  {
+    "Company": "Cava Group",
+    "Valuation ($B)": 1.3,
+    "AI Impact Score": 4.19,
+    "Growth Rate (%)": 82.64
+  },
+  {
+    "Company": "Vectra Networks",
+    "Valuation ($B)": 1.2,
+    "AI Impact Score": 1.9500000000000002,
+    "Growth Rate (%)": 92.78
+  },
+  {
+    "Company": "Ada Support",
+    "Valuation ($B)": 1.2,
+    "AI Impact Score": 3.0,
+    "Growth Rate (%)": 65.86
+  },
+  {
+    "Company": "SmartMore",
+    "Valuation ($B)": 1.2,
+    "AI Impact Score": 5.67,
+    "Growth Rate (%)": 17.67
+  },
+  {
+    "Company": "Rohlik Group",
+    "Valuation ($B)": 1.2,
+    "AI Impact Score": 6.47,
+    "Growth Rate (%)": 56.93
+  },
+  {
+    "Company": "FloQast",
+    "Valuation ($B)": 1.2,
+    "AI Impact Score": 3.21,
+    "Growth Rate (%)": 122.4
+  },
+  {
+    "Company": "MindTickle",
+    "Valuation ($B)": 1.2,
+    "AI Impact Score": 1.52,
+    "Growth Rate (%)": 10.65
+  },
+  {
+    "Company": "DailyPay",
+    "Valuation ($B)": 1.2,
+    "AI Impact Score": 4.52,
+    "Growth Rate (%)": 56.69
+  },
+  {
+    "Company": "Offchain Labs",
+    "Valuation ($B)": 1.2,
+    "AI Impact Score": 3.11,
+    "Growth Rate (%)": 65.74
+  },
+  {
+    "Company": "Copado",
+    "Valuation ($B)": 1.2,
+    "AI Impact Score": 2.98,
+    "Growth Rate (%)": 85.24
+  },
+  {
+    "Company": "Gem",
+    "Valuation ($B)": 1.2,
+    "AI Impact Score": 9.64,
+    "Growth Rate (%)": 138.78
+  },
+  {
+    "Company": "CarDekho",
+    "Valuation ($B)": 1.2,
+    "AI Impact Score": 6.55,
+    "Growth Rate (%)": 58.49
+  },
+  {
+    "Company": "MyGlamm",
+    "Valuation ($B)": 1.2,
+    "AI Impact Score": 6.01,
+    "Growth Rate (%)": 58.57
+  },
+  {
+    "Company": "AgentSync",
+    "Valuation ($B)": 1.2,
+    "AI Impact Score": 4.74,
+    "Growth Rate (%)": 113.25
+  },
+  {
+    "Company": "Pristyn Care",
+    "Valuation ($B)": 1.4,
+    "AI Impact Score": 4.86,
+    "Growth Rate (%)": 73.31
+  },
+  {
+    "Company": "Merama",
+    "Valuation ($B)": 1.2,
+    "AI Impact Score": 5.87,
+    "Growth Rate (%)": 41.44
+  },
+  {
+    "Company": "SeekOut",
+    "Valuation ($B)": 1.2,
+    "AI Impact Score": 7.27,
+    "Growth Rate (%)": 73.34
+  },
+  {
+    "Company": "BigPanda",
+    "Valuation ($B)": 1.2,
+    "AI Impact Score": 7.32,
+    "Growth Rate (%)": 29.72
+  },
+  {
+    "Company": "Phantom",
+    "Valuation ($B)": 1.2,
+    "AI Impact Score": 2.55,
+    "Growth Rate (%)": 34.69
+  },
+  {
+    "Company": "LivSpace",
+    "Valuation ($B)": 1.2,
+    "AI Impact Score": 5.5,
+    "Growth Rate (%)": 79.77
+  },
+  {
+    "Company": "Xpressbees",
+    "Valuation ($B)": 1.2,
+    "AI Impact Score": 4.71,
+    "Growth Rate (%)": 68.65
+  },
+  {
+    "Company": "Nova Labs",
+    "Valuation ($B)": 1.2,
+    "AI Impact Score": 8.83,
+    "Growth Rate (%)": 138.08
+  },
+  {
+    "Company": "Choco",
+    "Valuation ($B)": 1.2,
+    "AI Impact Score": 6.68,
+    "Growth Rate (%)": 60.74
+  },
+  {
+    "Company": "Viz.ai",
+    "Valuation ($B)": 1.2,
+    "AI Impact Score": 5.79,
+    "Growth Rate (%)": 91.28
+  },
+  {
+    "Company": "Unit",
+    "Valuation ($B)": 1.2,
+    "AI Impact Score": 2.04,
+    "Growth Rate (%)": 98.52
+  },
+  {
+    "Company": "stori",
+    "Valuation ($B)": 1.2,
+    "AI Impact Score": 6.45,
+    "Growth Rate (%)": 11.83
+  },
+  {
+    "Company": "Spectrum Medical",
+    "Valuation ($B)": 1.2,
+    "AI Impact Score": 2.05,
+    "Growth Rate (%)": 102.9
+  },
+  {
+    "Company": "Swiftly",
+    "Valuation ($B)": 1.2,
+    "AI Impact Score": 4.03,
+    "Growth Rate (%)": 34.93
+  },
+  {
+    "Company": "CloudBees",
+    "Valuation ($B)": 1.15,
+    "AI Impact Score": 2.29,
+    "Growth Rate (%)": 144.55
+  },
+  {
+    "Company": "Colossal",
+    "Valuation ($B)": 1.19,
+    "AI Impact Score": 7.23,
+    "Growth Rate (%)": 30.81
+  },
+  {
+    "Company": "L&P Cosmetic",
+    "Valuation ($B)": 1.19,
+    "AI Impact Score": 2.86,
+    "Growth Rate (%)": 68.05
+  },
+  {
+    "Company": "Mininglamp Technology",
+    "Valuation ($B)": 1.19,
+    "AI Impact Score": 4.53,
+    "Growth Rate (%)": 21.95
+  },
+  {
+    "Company": "Luoji Siwei",
+    "Valuation ($B)": 1.18,
+    "AI Impact Score": 9.06,
+    "Growth Rate (%)": 149.56
+  },
+  {
+    "Company": "Yimidida",
+    "Valuation ($B)": 1.17,
+    "AI Impact Score": 2.84,
+    "Growth Rate (%)": 80.31
+  },
+  {
+    "Company": "Modern Health",
+    "Valuation ($B)": 1.17,
+    "AI Impact Score": 5.57,
+    "Growth Rate (%)": 93.35
+  },
+  {
+    "Company": "IRL",
+    "Valuation ($B)": 1.17,
+    "AI Impact Score": 4.77,
+    "Growth Rate (%)": 19.39
+  },
+  {
+    "Company": "Tuhu",
+    "Valuation ($B)": 1.16,
+    "AI Impact Score": 1.16,
+    "Growth Rate (%)": 114.99
+  },
+  {
+    "Company": "Younited",
+    "Valuation ($B)": 1.16,
+    "AI Impact Score": 8.13,
+    "Growth Rate (%)": 39.39
+  },
+  {
+    "Company": "SOURCE Global",
+    "Valuation ($B)": 1.16,
+    "AI Impact Score": 1.62,
+    "Growth Rate (%)": 135.73
+  },
+  {
+    "Company": "LifeMiles",
+    "Valuation ($B)": 1.15,
+    "AI Impact Score": 5.27,
+    "Growth Rate (%)": 38.72
+  },
+  {
+    "Company": "Venafi",
+    "Valuation ($B)": 1.15,
+    "AI Impact Score": 6.05,
+    "Growth Rate (%)": 36.7
+  },
+  {
+    "Company": "Guideline",
+    "Valuation ($B)": 1.15,
+    "AI Impact Score": 6.66,
+    "Growth Rate (%)": 15.12
+  },
+  {
+    "Company": "Rebellion Defense",
+    "Valuation ($B)": 1.15,
+    "AI Impact Score": 7.2,
+    "Growth Rate (%)": 76.09
+  },
+  {
+    "Company": "Elemy",
+    "Valuation ($B)": 1.15,
+    "AI Impact Score": 3.2800000000000002,
+    "Growth Rate (%)": 89.08
+  },
+  {
+    "Company": "Happy Money",
+    "Valuation ($B)": 1.15,
+    "AI Impact Score": 1.09,
+    "Growth Rate (%)": 19.2
+  },
+  {
+    "Company": "TELD",
+    "Valuation ($B)": 1.12,
+    "AI Impact Score": 7.51,
+    "Growth Rate (%)": 118.57
+  },
+  {
+    "Company": "DANA",
+    "Valuation ($B)": 1.13,
+    "AI Impact Score": 5.82,
+    "Growth Rate (%)": 73.46
+  },
+  {
+    "Company": "At-Bay",
+    "Valuation ($B)": 1.12,
+    "AI Impact Score": 8.53,
+    "Growth Rate (%)": 83.41
+  },
+  {
+    "Company": "Visby Medical",
+    "Valuation ($B)": 1.12,
+    "AI Impact Score": 8.39,
+    "Growth Rate (%)": 71.71
+  },
+  {
+    "Company": "Invoca",
+    "Valuation ($B)": 1.1,
+    "AI Impact Score": 8.59,
+    "Growth Rate (%)": 66.11
+  },
+  {
+    "Company": "Wasabi",
+    "Valuation ($B)": 1.1,
+    "AI Impact Score": 5.37,
+    "Growth Rate (%)": 88.35
+  },
+  {
+    "Company": "Flexe",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 4.0,
+    "Growth Rate (%)": 31.73
+  },
+  {
+    "Company": "TangoMe",
+    "Valuation ($B)": 1.1,
+    "AI Impact Score": 8.12,
+    "Growth Rate (%)": 35.47
+  },
+  {
+    "Company": "AppDirect",
+    "Valuation ($B)": 1.1,
+    "AI Impact Score": 5.06,
+    "Growth Rate (%)": 130.65
+  },
+  {
+    "Company": "Juanpi",
+    "Valuation ($B)": 1.1,
+    "AI Impact Score": 2.65,
+    "Growth Rate (%)": 142.46
+  },
+  {
+    "Company": "OVH",
+    "Valuation ($B)": 1.1,
+    "AI Impact Score": 8.69,
+    "Growth Rate (%)": 62.26
+  },
+  {
+    "Company": "GetYourGuide",
+    "Valuation ($B)": 1.1,
+    "AI Impact Score": 8.94,
+    "Growth Rate (%)": 47.9
+  },
+  {
+    "Company": "Ivalua",
+    "Valuation ($B)": 1.1,
+    "AI Impact Score": 5.2,
+    "Growth Rate (%)": 100.16
+  },
+  {
+    "Company": "Sisense",
+    "Valuation ($B)": 1.1,
+    "AI Impact Score": 1.6800000000000002,
+    "Growth Rate (%)": 67.22
+  },
+  {
+    "Company": "Pharmapacks",
+    "Valuation ($B)": 1.1,
+    "AI Impact Score": 4.49,
+    "Growth Rate (%)": 13.55
+  },
+  {
+    "Company": "Sennder",
+    "Valuation ($B)": 1.1,
+    "AI Impact Score": 8.23,
+    "Growth Rate (%)": 31.86
+  },
+  {
+    "Company": "Nexthink",
+    "Valuation ($B)": 1.1,
+    "AI Impact Score": 9.12,
+    "Growth Rate (%)": 110.24
+  },
+  {
+    "Company": "Zego",
+    "Valuation ($B)": 1.1,
+    "AI Impact Score": 2.83,
+    "Growth Rate (%)": 102.25
+  },
+  {
+    "Company": "Rightway",
+    "Valuation ($B)": 1.1,
+    "AI Impact Score": 1.6,
+    "Growth Rate (%)": 13.79
+  },
+  {
+    "Company": "Sunbit",
+    "Valuation ($B)": 1.1,
+    "AI Impact Score": 8.9,
+    "Growth Rate (%)": 41.08
+  },
+  {
+    "Company": "Qingting FM",
+    "Valuation ($B)": 1.1,
+    "AI Impact Score": 4.5,
+    "Growth Rate (%)": 42.35
+  },
+  {
+    "Company": "G2",
+    "Valuation ($B)": 1.1,
+    "AI Impact Score": 5.88,
+    "Growth Rate (%)": 104.06
+  },
+  {
+    "Company": "Hailo",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 9.71,
+    "Growth Rate (%)": 12.76
+  },
+  {
+    "Company": "Caribou",
+    "Valuation ($B)": 1.1,
+    "AI Impact Score": 1.6,
+    "Growth Rate (%)": 24.58
+  },
+  {
+    "Company": "Nowports",
+    "Valuation ($B)": 1.1,
+    "AI Impact Score": 6.83,
+    "Growth Rate (%)": 121.99
+  },
+  {
+    "Company": "People.ai",
+    "Valuation ($B)": 1.1,
+    "AI Impact Score": 1.67,
+    "Growth Rate (%)": 35.0
+  },
+  {
+    "Company": "Carousell",
+    "Valuation ($B)": 1.1,
+    "AI Impact Score": 4.38,
+    "Growth Rate (%)": 101.38
+  },
+  {
+    "Company": "apna",
+    "Valuation ($B)": 1.1,
+    "AI Impact Score": 8.23,
+    "Growth Rate (%)": 43.35
+  },
+  {
+    "Company": "Karat",
+    "Valuation ($B)": 1.1,
+    "AI Impact Score": 4.9,
+    "Growth Rate (%)": 23.92
+  },
+  {
+    "Company": "Enpal",
+    "Valuation ($B)": 1.1,
+    "AI Impact Score": 9.97,
+    "Growth Rate (%)": 44.04
+  },
+  {
+    "Company": "Acko General Insurance",
+    "Valuation ($B)": 1.1,
+    "AI Impact Score": 6.03,
+    "Growth Rate (%)": 111.12
+  },
+  {
+    "Company": "Daily Harvest",
+    "Valuation ($B)": 1.1,
+    "AI Impact Score": 3.89,
+    "Growth Rate (%)": 129.8
+  },
+  {
+    "Company": "The Bank of London",
+    "Valuation ($B)": 1.1,
+    "AI Impact Score": 2.98,
+    "Growth Rate (%)": 126.23
+  },
+  {
+    "Company": "Fundbox",
+    "Valuation ($B)": 1.1,
+    "AI Impact Score": 4.15,
+    "Growth Rate (%)": 65.61
+  },
+  {
+    "Company": "Turing",
+    "Valuation ($B)": 1.1,
+    "AI Impact Score": 4.35,
+    "Growth Rate (%)": 103.53
+  },
+  {
+    "Company": "GlobalBees",
+    "Valuation ($B)": 1.1,
+    "AI Impact Score": 1.62,
+    "Growth Rate (%)": 38.7
+  },
+  {
+    "Company": "LEAD",
+    "Valuation ($B)": 1.1,
+    "AI Impact Score": 4.33,
+    "Growth Rate (%)": 51.04
+  },
+  {
+    "Company": "eSentire",
+    "Valuation ($B)": 1.1,
+    "AI Impact Score": 5.18,
+    "Growth Rate (%)": 135.49
+  },
+  {
+    "Company": "Beyond Identity",
+    "Valuation ($B)": 1.1,
+    "AI Impact Score": 7.5,
+    "Growth Rate (%)": 11.82
+  },
+  {
+    "Company": "Staffbase",
+    "Valuation ($B)": 1.1,
+    "AI Impact Score": 6.91,
+    "Growth Rate (%)": 21.97
+  },
+  {
+    "Company": "Chief",
+    "Valuation ($B)": 1.1,
+    "AI Impact Score": 7.38,
+    "Growth Rate (%)": 39.1
+  },
+  {
+    "Company": "IntelyCare",
+    "Valuation ($B)": 1.1,
+    "AI Impact Score": 1.08,
+    "Growth Rate (%)": 13.71
+  },
+  {
+    "Company": "Teleport",
+    "Valuation ($B)": 1.1,
+    "AI Impact Score": 2.96,
+    "Growth Rate (%)": 35.4
+  },
+  {
+    "Company": "Imply Data",
+    "Valuation ($B)": 1.1,
+    "AI Impact Score": 6.96,
+    "Growth Rate (%)": 91.63
+  },
+  {
+    "Company": "Material Security",
+    "Valuation ($B)": 1.1,
+    "AI Impact Score": 5.36,
+    "Growth Rate (%)": 69.0
+  },
+  {
+    "Company": "PhysicsWallah",
+    "Valuation ($B)": 1.1,
+    "AI Impact Score": 1.05,
+    "Growth Rate (%)": 134.97
+  },
+  {
+    "Company": "Recover",
+    "Valuation ($B)": 1.1,
+    "AI Impact Score": 8.24,
+    "Growth Rate (%)": 124.44
+  },
+  {
+    "Company": "Purplle",
+    "Valuation ($B)": 1.1,
+    "AI Impact Score": 7.96,
+    "Growth Rate (%)": 57.85
+  },
+  {
+    "Company": "CAIS",
+    "Valuation ($B)": 1.1,
+    "AI Impact Score": 5.94,
+    "Growth Rate (%)": 46.32
+  },
+  {
+    "Company": "Nxin",
+    "Valuation ($B)": 1.08,
+    "AI Impact Score": 1.6,
+    "Growth Rate (%)": 63.16
+  },
+  {
+    "Company": "UISEE Technology",
+    "Valuation ($B)": 1.08,
+    "AI Impact Score": 7.9,
+    "Growth Rate (%)": 92.64
+  },
+  {
+    "Company": "56PINGTAI",
+    "Valuation ($B)": 1.08,
+    "AI Impact Score": 6.25,
+    "Growth Rate (%)": 47.53
+  },
+  {
+    "Company": "Cirkul",
+    "Valuation ($B)": 1.07,
+    "AI Impact Score": 8.04,
+    "Growth Rate (%)": 97.38
+  },
+  {
+    "Company": "Radius Payment Solutions",
+    "Valuation ($B)": 1.07,
+    "AI Impact Score": 7.77,
+    "Growth Rate (%)": 67.32
+  },
+  {
+    "Company": "Rivigo",
+    "Valuation ($B)": 1.07,
+    "AI Impact Score": 8.23,
+    "Growth Rate (%)": 87.29
+  },
+  {
+    "Company": "Mamaearth",
+    "Valuation ($B)": 1.07,
+    "AI Impact Score": 5.66,
+    "Growth Rate (%)": 71.06
+  },
+  {
+    "Company": "0x",
+    "Valuation ($B)": 1.05,
+    "AI Impact Score": 2.26,
+    "Growth Rate (%)": 51.23
+  },
+  {
+    "Company": "Jiuxian",
+    "Valuation ($B)": 1.05,
+    "AI Impact Score": 7.04,
+    "Growth Rate (%)": 142.78
+  },
+  {
+    "Company": "Instabase",
+    "Valuation ($B)": 1.05,
+    "AI Impact Score": 6.58,
+    "Growth Rate (%)": 116.9
+  },
+  {
+    "Company": "Sendbird",
+    "Valuation ($B)": 1.05,
+    "AI Impact Score": 7.68,
+    "Growth Rate (%)": 29.62
+  },
+  {
+    "Company": "Density",
+    "Valuation ($B)": 1.05,
+    "AI Impact Score": 2.5300000000000002,
+    "Growth Rate (%)": 131.59
+  },
+  {
+    "Company": "Mixpanel",
+    "Valuation ($B)": 1.05,
+    "AI Impact Score": 2.75,
+    "Growth Rate (%)": 78.24
+  },
+  {
+    "Company": "Branch",
+    "Valuation ($B)": 1.05,
+    "AI Impact Score": 9.01,
+    "Growth Rate (%)": 135.24
+  },
+  {
+    "Company": "OrCam Technologies",
+    "Valuation ($B)": 1.03,
+    "AI Impact Score": 7.75,
+    "Growth Rate (%)": 121.98
+  },
+  {
+    "Company": "Ample",
+    "Valuation ($B)": 1.02,
+    "AI Impact Score": 9.17,
+    "Growth Rate (%)": 69.53
+  },
+  {
+    "Company": "BlackBuck",
+    "Valuation ($B)": 1.02,
+    "AI Impact Score": 7.83,
+    "Growth Rate (%)": 13.15
+  },
+  {
+    "Company": "Leap Motor",
+    "Valuation ($B)": 1.01,
+    "AI Impact Score": 6.37,
+    "Growth Rate (%)": 47.61
+  },
+  {
+    "Company": "Wheel",
+    "Valuation ($B)": 1.01,
+    "AI Impact Score": 6.89,
+    "Growth Rate (%)": 85.83
+  },
+  {
+    "Company": "DeepL",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 9.0,
+    "Growth Rate (%)": 98.69
+  },
+  {
+    "Company": "MNT-Halan",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 6.21,
+    "Growth Rate (%)": 46.1
+  },
+  {
+    "Company": "Character.AI",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 6.69,
+    "Growth Rate (%)": 29.51
+  },
+  {
+    "Company": "Atmosphere",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 2.41,
+    "Growth Rate (%)": 126.89
+  },
+  {
+    "Company": "Adept",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 5.27,
+    "Growth Rate (%)": 147.82
+  },
+  {
+    "Company": "Beamery",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 7.45,
+    "Growth Rate (%)": 83.6
+  },
+  {
+    "Company": "Flow",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 3.44,
+    "Growth Rate (%)": 34.04
+  },
+  {
+    "Company": "Xanadu",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 2.8200000000000003,
+    "Growth Rate (%)": 48.12
+  },
+  {
+    "Company": "LINE MAN Wongnai",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 3.8200000000000003,
+    "Growth Rate (%)": 12.57
+  },
+  {
+    "Company": "Celestia",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 3.17,
+    "Growth Rate (%)": 138.0
+  },
+  {
+    "Company": "Stability AI",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 2.93,
+    "Growth Rate (%)": 26.49
+  },
+  {
+    "Company": "Vesttoo",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 4.82,
+    "Growth Rate (%)": 90.71
+  },
+  {
+    "Company": "Satispay",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 9.17,
+    "Growth Rate (%)": 48.37
+  },
+  {
+    "Company": "Paystand",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 5.5600000000000005,
+    "Growth Rate (%)": 87.58
+  },
+  {
+    "Company": "Turntide Technologies",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 2.69,
+    "Growth Rate (%)": 101.2
+  },
+  {
+    "Company": "EcoVadis",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 1.69,
+    "Growth Rate (%)": 126.16
+  },
+  {
+    "Company": "TransferMate",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 7.27,
+    "Growth Rate (%)": 38.9
+  },
+  {
+    "Company": "Lookout",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 4.45,
+    "Growth Rate (%)": 11.54
+  },
+  {
+    "Company": "Perimeter 81",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 8.4,
+    "Growth Rate (%)": 29.16
+  },
+  {
+    "Company": "Snapdeal",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 6.94,
+    "Growth Rate (%)": 136.0
+  },
+  {
+    "Company": "TechStyle Fashion Group",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 8.17,
+    "Growth Rate (%)": 132.34
+  },
+  {
+    "Company": "Zebec",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 3.45,
+    "Growth Rate (%)": 93.64
+  },
+  {
+    "Company": "InMobi",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 7.23,
+    "Growth Rate (%)": 94.07
+  },
+  {
+    "Company": "LinkSure Network",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 3.38,
+    "Growth Rate (%)": 103.11
+  },
+  {
+    "Company": "Red Ventures",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 9.45,
+    "Growth Rate (%)": 34.55
+  },
+  {
+    "Company": "BeiBei",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 6.73,
+    "Growth Rate (%)": 138.02
+  },
+  {
+    "Company": "Lamabang",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 3.92,
+    "Growth Rate (%)": 68.63
+  },
+  {
+    "Company": "JimuBox",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 3.43,
+    "Growth Rate (%)": 63.64
+  },
+  {
+    "Company": "FXiaoKe",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 2.7199999999999998,
+    "Growth Rate (%)": 82.65
+  },
+  {
+    "Company": "Mia.com",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 7.25,
+    "Growth Rate (%)": 16.58
+  },
+  {
+    "Company": "58 Daojia",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 2.9699999999999998,
+    "Growth Rate (%)": 33.28
+  },
+  {
+    "Company": "Womai",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 6.36,
+    "Growth Rate (%)": 113.32
+  },
+  {
+    "Company": "HuJiang",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 3.38,
+    "Growth Rate (%)": 21.59
+  },
+  {
+    "Company": "iTutorGroup",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 6.96,
+    "Growth Rate (%)": 94.44
+  },
+  {
+    "Company": "MindMaze",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 8.33,
+    "Growth Rate (%)": 44.35
+  },
+  {
+    "Company": "iCarbonX",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 8.0,
+    "Growth Rate (%)": 64.5
+  },
+  {
+    "Company": "Kendra Scott",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 7.85,
+    "Growth Rate (%)": 50.42
+  },
+  {
+    "Company": "Mobvoi",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 2.69,
+    "Growth Rate (%)": 59.79
+  },
+  {
+    "Company": "Zhuan Zhuan",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 1.8,
+    "Growth Rate (%)": 110.67
+  },
+  {
+    "Company": "Modernizing Medicine",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 7.29,
+    "Growth Rate (%)": 51.6
+  },
+  {
+    "Company": "Zhaogang",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 4.32,
+    "Growth Rate (%)": 89.3
+  },
+  {
+    "Company": "DianRong",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 4.89,
+    "Growth Rate (%)": 76.65
+  },
+  {
+    "Company": "Cell C",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 1.28,
+    "Growth Rate (%)": 102.91
+  },
+  {
+    "Company": "YH Global",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 3.34,
+    "Growth Rate (%)": 141.16
+  },
+  {
+    "Company": "Revolution Precrafted",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 1.3,
+    "Growth Rate (%)": 112.56
+  },
+  {
+    "Company": "WeLab",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 8.91,
+    "Growth Rate (%)": 40.09
+  },
+  {
+    "Company": "Maimai",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 3.19,
+    "Growth Rate (%)": 14.37
+  },
+  {
+    "Company": "Dxy.cn",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 6.02,
+    "Growth Rate (%)": 46.72
+  },
+  {
+    "Company": "HMD Global",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 1.35,
+    "Growth Rate (%)": 93.31
+  },
+  {
+    "Company": "Huike Group",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 7.0,
+    "Growth Rate (%)": 17.2
+  },
+  {
+    "Company": "China Cloud",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 3.91,
+    "Growth Rate (%)": 79.49
+  },
+  {
+    "Company": "LinkDoc Technology",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 9.08,
+    "Growth Rate (%)": 93.56
+  },
+  {
+    "Company": "MediaMath",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 8.99,
+    "Growth Rate (%)": 56.79
+  },
+  {
+    "Company": "Movile",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 3.93,
+    "Growth Rate (%)": 117.93
+  },
+  {
+    "Company": "Pat McGrath Labs",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 9.11,
+    "Growth Rate (%)": 24.92
+  },
+  {
+    "Company": "Wacai",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 9.97,
+    "Growth Rate (%)": 20.52
+  },
+  {
+    "Company": "FlashEx",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 8.43,
+    "Growth Rate (%)": 111.95
+  },
+  {
+    "Company": "Banma Network Technologies",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 8.6,
+    "Growth Rate (%)": 79.37
+  },
+  {
+    "Company": "Tresata",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 3.24,
+    "Growth Rate (%)": 106.38
+  },
+  {
+    "Company": "Momenta",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 6.19,
+    "Growth Rate (%)": 70.88
+  },
+  {
+    "Company": "Hosjoy",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 1.6099999999999999,
+    "Growth Rate (%)": 44.5
+  },
+  {
+    "Company": "Omio",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 1.85,
+    "Growth Rate (%)": 124.67
+  },
+  {
+    "Company": "TERMINUS Technology",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 9.99,
+    "Growth Rate (%)": 121.92
+  },
+  {
+    "Company": "BitFury",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 3.94,
+    "Growth Rate (%)": 107.26
+  },
+  {
+    "Company": "REEF Technology",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 7.73,
+    "Growth Rate (%)": 48.1
+  },
+  {
+    "Company": "Globality",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 8.26,
+    "Growth Rate (%)": 92.63
+  },
+  {
+    "Company": "Ynsect",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 8.72,
+    "Growth Rate (%)": 60.54
+  },
+  {
+    "Company": "Intellifusion",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 9.98,
+    "Growth Rate (%)": 22.82
+  },
+  {
+    "Company": "Poizon",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 3.17,
+    "Growth Rate (%)": 138.42
+  },
+  {
+    "Company": "SITECH DEV",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 1.3599999999999999,
+    "Growth Rate (%)": 29.15
+  },
+  {
+    "Company": "KnowBox",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 4.7,
+    "Growth Rate (%)": 143.03
+  },
+  {
+    "Company": "Yanolja",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 2.17,
+    "Growth Rate (%)": 72.44
+  },
+  {
+    "Company": "Meero",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 1.2,
+    "Growth Rate (%)": 35.92
+  },
+  {
+    "Company": "Ibotta",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 4.24,
+    "Growth Rate (%)": 85.87
+  },
+  {
+    "Company": "C2FO",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 8.05,
+    "Growth Rate (%)": 132.21
+  },
+  {
+    "Company": "Numbrs",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 6.1,
+    "Growth Rate (%)": 112.51
+  },
+  {
+    "Company": "EBANX",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 3.8200000000000003,
+    "Growth Rate (%)": 122.92
+  },
+  {
+    "Company": "KK Group",
+    "Valuation ($B)": 3.0,
+    "AI Impact Score": 6.89,
+    "Growth Rate (%)": 102.23
+  },
+  {
+    "Company": "Alto Pharmacy",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 3.09,
+    "Growth Rate (%)": 106.92
+  },
+  {
+    "Company": "Hotmart",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 1.13,
+    "Growth Rate (%)": 128.89
+  },
+  {
+    "Company": "Emerging Markets Property Group",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 7.88,
+    "Growth Rate (%)": 44.95
+  },
+  {
+    "Company": "Quizlet",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 6.61,
+    "Growth Rate (%)": 78.52
+  },
+  {
+    "Company": "Orca Bio",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 7.86,
+    "Growth Rate (%)": 40.97
+  },
+  {
+    "Company": "Infobip",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 1.35,
+    "Growth Rate (%)": 148.27
+  },
+  {
+    "Company": "Zwift",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 8.53,
+    "Growth Rate (%)": 142.17
+  },
+  {
+    "Company": "Playco",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 6.58,
+    "Growth Rate (%)": 15.52
+  },
+  {
+    "Company": "Gousto",
+    "Valuation ($B)": 1.7000000000000002,
+    "AI Impact Score": 6.07,
+    "Growth Rate (%)": 108.78
+  },
+  {
+    "Company": "Alation",
+    "Valuation ($B)": 1.7000000000000002,
+    "AI Impact Score": 6.62,
+    "Growth Rate (%)": 139.53
+  },
+  {
+    "Company": "Boom Supersonic",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 8.78,
+    "Growth Rate (%)": 35.28
+  },
+  {
+    "Company": "Quantum Metric",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 6.28,
+    "Growth Rate (%)": 89.51
+  },
+  {
+    "Company": "News Break",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 6.23,
+    "Growth Rate (%)": 138.17
+  },
+  {
+    "Company": "MadeiraMadeira",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 9.92,
+    "Growth Rate (%)": 14.75
+  },
+  {
+    "Company": "PPRO",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 7.8100000000000005,
+    "Growth Rate (%)": 107.64
+  },
+  {
+    "Company": "Splashtop",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 4.98,
+    "Growth Rate (%)": 51.63
+  },
+  {
+    "Company": "Flash Express",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 7.37,
+    "Growth Rate (%)": 139.42
+  },
+  {
+    "Company": "Axiom Space",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 4.5,
+    "Growth Rate (%)": 145.95
+  },
+  {
+    "Company": "Locus Robotics",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 3.06,
+    "Growth Rate (%)": 142.2
+  },
+  {
+    "Company": "Standard AI",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 6.37,
+    "Growth Rate (%)": 76.39
+  },
+  {
+    "Company": "WeBull",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 9.35,
+    "Growth Rate (%)": 130.69
+  },
+  {
+    "Company": "Newsela",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 9.36,
+    "Growth Rate (%)": 128.24
+  },
+  {
+    "Company": "Aqua Security",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 4.08,
+    "Growth Rate (%)": 54.67
+  },
+  {
+    "Company": "PatSnap",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 5.75,
+    "Growth Rate (%)": 126.05
+  },
+  {
+    "Company": "Evidation",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 2.9,
+    "Growth Rate (%)": 15.18
+  },
+  {
+    "Company": "Sidecar Health",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 9.96,
+    "Growth Rate (%)": 93.48
+  },
+  {
+    "Company": "Feedzai",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 9.83,
+    "Growth Rate (%)": 42.2
+  },
+  {
+    "Company": "Yunxuetang",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 6.85,
+    "Growth Rate (%)": 26.88
+  },
+  {
+    "Company": "Cameo",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 8.24,
+    "Growth Rate (%)": 20.77
+  },
+  {
+    "Company": "Hyperchain",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 7.44,
+    "Growth Rate (%)": 107.48
+  },
+  {
+    "Company": "The Zebra",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 6.34,
+    "Growth Rate (%)": 57.58
+  },
+  {
+    "Company": "Clearcover",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 1.48,
+    "Growth Rate (%)": 111.47
+  },
+  {
+    "Company": "Groq",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 5.09,
+    "Growth Rate (%)": 19.15
+  },
+  {
+    "Company": "Fiture",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 7.07,
+    "Growth Rate (%)": 54.14
+  },
+  {
+    "Company": "Injective Protocol",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 7.1,
+    "Growth Rate (%)": 85.53
+  },
+  {
+    "Company": "Sift",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 4.36,
+    "Growth Rate (%)": 120.7
+  },
+  {
+    "Company": "SaltPay",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 9.48,
+    "Growth Rate (%)": 54.63
+  },
+  {
+    "Company": "Capsule",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 2.51,
+    "Growth Rate (%)": 97.62
+  },
+  {
+    "Company": "MOLOCO",
+    "Valuation ($B)": 1.5,
+    "AI Impact Score": 5.5,
+    "Growth Rate (%)": 134.04
+  },
+  {
+    "Company": "Inari",
+    "Valuation ($B)": 1.5,
+    "AI Impact Score": 7.22,
+    "Growth Rate (%)": 96.22
+  },
+  {
+    "Company": "Mux",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 7.27,
+    "Growth Rate (%)": 42.61
+  },
+  {
+    "Company": "XForcePlus",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 6.84,
+    "Growth Rate (%)": 13.42
+  },
+  {
+    "Company": "Augustinus Bader",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 3.48,
+    "Growth Rate (%)": 131.81
+  },
+  {
+    "Company": "Shift Technology",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 2.41,
+    "Growth Rate (%)": 12.98
+  },
+  {
+    "Company": "TensTorrent",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 6.72,
+    "Growth Rate (%)": 132.46
+  },
+  {
+    "Company": "Zihaiguo",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 6.39,
+    "Growth Rate (%)": 84.05
+  },
+  {
+    "Company": "Forte Labs",
+    "Valuation ($B)": 1.73,
+    "AI Impact Score": 2.61,
+    "Growth Rate (%)": 141.47
+  },
+  {
+    "Company": "Axtria",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 7.35,
+    "Growth Rate (%)": 121.83
+  },
+  {
+    "Company": "Amount",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 5.1,
+    "Growth Rate (%)": 149.71
+  },
+  {
+    "Company": "Vise",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 7.01,
+    "Growth Rate (%)": 59.1
+  },
+  {
+    "Company": "Printful",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 8.54,
+    "Growth Rate (%)": 117.41
+  },
+  {
+    "Company": "Matrixport",
+    "Valuation ($B)": 1.05,
+    "AI Impact Score": 2.5300000000000002,
+    "Growth Rate (%)": 66.27
+  },
+  {
+    "Company": "Shippo",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 1.17,
+    "Growth Rate (%)": 77.18
+  },
+  {
+    "Company": "Thirty Madison",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 8.01,
+    "Growth Rate (%)": 97.85
+  },
+  {
+    "Company": "LetsGetChecked",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 6.49,
+    "Growth Rate (%)": 132.31
+  },
+  {
+    "Company": "EcoFlow",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 7.3,
+    "Growth Rate (%)": 147.77
+  },
+  {
+    "Company": "Carro",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 8.54,
+    "Growth Rate (%)": 117.56
+  },
+  {
+    "Company": "Tractable",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 8.23,
+    "Growth Rate (%)": 68.49
+  },
+  {
+    "Company": "Xiaoe Tech",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 9.65,
+    "Growth Rate (%)": 68.99
+  },
+  {
+    "Company": "Bringg",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 5.82,
+    "Growth Rate (%)": 113.26
+  },
+  {
+    "Company": "Claroty",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 5.4,
+    "Growth Rate (%)": 43.43
+  },
+  {
+    "Company": "Simply",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 4.62,
+    "Growth Rate (%)": 25.47
+  },
+  {
+    "Company": "Aircall",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 2.38,
+    "Growth Rate (%)": 59.65
+  },
+  {
+    "Company": "Worldcoin",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 6.15,
+    "Growth Rate (%)": 50.21
+  },
+  {
+    "Company": "SmartAsset",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 3.49,
+    "Growth Rate (%)": 51.48
+  },
+  {
+    "Company": "Morning Consult",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 9.29,
+    "Growth Rate (%)": 42.71
+  },
+  {
+    "Company": "Visier",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 6.25,
+    "Growth Rate (%)": 15.89
+  },
+  {
+    "Company": "ShipBob",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 6.34,
+    "Growth Rate (%)": 12.5
+  },
+  {
+    "Company": "MobileCoin",
+    "Valuation ($B)": 1.06,
+    "AI Impact Score": 4.19,
+    "Growth Rate (%)": 148.28
+  },
+  {
+    "Company": "Amperity",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 1.47,
+    "Growth Rate (%)": 69.89
+  },
+  {
+    "Company": "Pantheon Systems",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 1.29,
+    "Growth Rate (%)": 63.81
+  },
+  {
+    "Company": "Xiaoice",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 4.8100000000000005,
+    "Growth Rate (%)": 105.15
+  },
+  {
+    "Company": "dMed Biopharmaceutical",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 1.76,
+    "Growth Rate (%)": 40.56
+  },
+  {
+    "Company": "Carson Group",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 6.46,
+    "Growth Rate (%)": 142.99
+  },
+  {
+    "Company": "Interos",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 8.93,
+    "Growth Rate (%)": 120.09
+  },
+  {
+    "Company": "NIUM",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 8.95,
+    "Growth Rate (%)": 22.52
+  },
+  {
+    "Company": "Human Interest",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 6.93,
+    "Growth Rate (%)": 68.46
+  },
+  {
+    "Company": "Bluecore",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 2.9,
+    "Growth Rate (%)": 133.08
+  },
+  {
+    "Company": "Freshbooks",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 8.77,
+    "Growth Rate (%)": 142.26
+  },
+  {
+    "Company": "Snorkel AI",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 8.97,
+    "Growth Rate (%)": 75.44
+  },
+  {
+    "Company": "Gelato",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 2.77,
+    "Growth Rate (%)": 95.88
+  },
+  {
+    "Company": "Maven Clinic",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 7.64,
+    "Growth Rate (%)": 33.38
+  },
+  {
+    "Company": "PicsArt",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 3.58,
+    "Growth Rate (%)": 148.76
+  },
+  {
+    "Company": "1KMXC",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 8.22,
+    "Growth Rate (%)": 42.43
+  },
+  {
+    "Company": "Cider",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 9.98,
+    "Growth Rate (%)": 141.98
+  },
+  {
+    "Company": "Berlin Brands Group",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 1.27,
+    "Growth Rate (%)": 100.95
+  },
+  {
+    "Company": "Agile Robots",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 9.08,
+    "Growth Rate (%)": 95.08
+  },
+  {
+    "Company": "Mammoth Biosciences",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 6.6,
+    "Growth Rate (%)": 81.78
+  },
+  {
+    "Company": "Orchard",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 9.76,
+    "Growth Rate (%)": 42.29
+  },
+  {
+    "Company": "Xendit",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 5.19,
+    "Growth Rate (%)": 34.71
+  },
+  {
+    "Company": "TrueLayer",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 8.63,
+    "Growth Rate (%)": 40.87
+  },
+  {
+    "Company": "Assembly",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 1.56,
+    "Growth Rate (%)": 36.1
+  },
+  {
+    "Company": "PandaDoc",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 4.02,
+    "Growth Rate (%)": 119.14
+  },
+  {
+    "Company": "Keenon Robotics",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 1.6,
+    "Growth Rate (%)": 59.02
+  },
+  {
+    "Company": "HAYDON",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 9.78,
+    "Growth Rate (%)": 18.1
+  },
+  {
+    "Company": "Ninja Van",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 8.35,
+    "Growth Rate (%)": 145.67
+  },
+  {
+    "Company": "Vedantu",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 8.67,
+    "Growth Rate (%)": 133.73
+  },
+  {
+    "Company": "TrialSpark",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 9.44,
+    "Growth Rate (%)": 139.89
+  },
+  {
+    "Company": "Ajaib",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 1.77,
+    "Growth Rate (%)": 149.29
+  },
+  {
+    "Company": "Licious",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 4.47,
+    "Growth Rate (%)": 34.35
+  },
+  {
+    "Company": "Masterworks",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 1.6400000000000001,
+    "Growth Rate (%)": 65.47
+  },
+  {
+    "Company": "Chronosphere",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 2.9,
+    "Growth Rate (%)": 116.15
+  },
+  {
+    "Company": "Solo.io",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 3.06,
+    "Growth Rate (%)": 107.44
+  },
+  {
+    "Company": "Savage X Fenty",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 5.22,
+    "Growth Rate (%)": 31.55
+  },
+  {
+    "Company": "Swile",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 3.42,
+    "Growth Rate (%)": 124.22
+  },
+  {
+    "Company": "MobiKwik",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 1.9100000000000001,
+    "Growth Rate (%)": 41.42
+  },
+  {
+    "Company": "Weights & Biases",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 2.51,
+    "Growth Rate (%)": 41.33
+  },
+  {
+    "Company": "Zopa",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 2.33,
+    "Growth Rate (%)": 85.18
+  },
+  {
+    "Company": "Dental Monitoring",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 9.76,
+    "Growth Rate (%)": 93.01
+  },
+  {
+    "Company": "CargoX",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 7.83,
+    "Growth Rate (%)": 91.21
+  },
+  {
+    "Company": "Fabric",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 9.71,
+    "Growth Rate (%)": 22.81
+  },
+  {
+    "Company": "Augury",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 4.96,
+    "Growth Rate (%)": 132.84
+  },
+  {
+    "Company": "Moka",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 3.51,
+    "Growth Rate (%)": 47.18
+  },
+  {
+    "Company": "Tezign",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 8.18,
+    "Growth Rate (%)": 28.13
+  },
+  {
+    "Company": "Vagaro",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 3.94,
+    "Growth Rate (%)": 134.42
+  },
+  {
+    "Company": "Razor",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 3.69,
+    "Growth Rate (%)": 143.79
+  },
+  {
+    "Company": "IGAWorks",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 3.09,
+    "Growth Rate (%)": 130.7
+  },
+  {
+    "Company": "Contrast Security",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 2.17,
+    "Growth Rate (%)": 123.33
+  },
+  {
+    "Company": "Wrapbook",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 3.31,
+    "Growth Rate (%)": 101.73
+  },
+  {
+    "Company": "Gaussian Robotics",
+    "Valuation ($B)": 1.1,
+    "AI Impact Score": 4.2,
+    "Growth Rate (%)": 87.12
+  },
+  {
+    "Company": "Mensa Brands",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 7.07,
+    "Growth Rate (%)": 22.18
+  },
+  {
+    "Company": "Heyday",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 1.56,
+    "Growth Rate (%)": 67.18
+  },
+  {
+    "Company": "PLACE",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 2.89,
+    "Growth Rate (%)": 62.18
+  },
+  {
+    "Company": "Stytch",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 8.28,
+    "Growth Rate (%)": 46.37
+  },
+  {
+    "Company": "Owkin",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 2.32,
+    "Growth Rate (%)": 111.28
+  },
+  {
+    "Company": "Expel",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 4.08,
+    "Growth Rate (%)": 79.42
+  },
+  {
+    "Company": "NoBroker",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 8.78,
+    "Growth Rate (%)": 21.35
+  },
+  {
+    "Company": "Lessen",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 2.39,
+    "Growth Rate (%)": 40.83
+  },
+  {
+    "Company": "Clara",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 1.74,
+    "Growth Rate (%)": 105.66
+  },
+  {
+    "Company": "YipitData",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 5.36,
+    "Growth Rate (%)": 20.66
+  },
+  {
+    "Company": "Anyscale",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 3.7199999999999998,
+    "Growth Rate (%)": 129.17
+  },
+  {
+    "Company": "Iodine Software",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 6.07,
+    "Growth Rate (%)": 79.32
+  },
+  {
+    "Company": "ReliaQuest",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 8.23,
+    "Growth Rate (%)": 77.28
+  },
+  {
+    "Company": "Pet Circle",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 2.23,
+    "Growth Rate (%)": 92.94
+  },
+  {
+    "Company": "Nature's Fynd",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 6.23,
+    "Growth Rate (%)": 125.46
+  },
+  {
+    "Company": "Lydia",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 5.55,
+    "Growth Rate (%)": 58.69
+  },
+  {
+    "Company": "SellerX",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 2.3,
+    "Growth Rate (%)": 104.92
+  },
+  {
+    "Company": "SnapLogic",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 6.62,
+    "Growth Rate (%)": 89.2
+  },
+  {
+    "Company": "Cadence",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 3.46,
+    "Growth Rate (%)": 47.38
+  },
+  {
+    "Company": "Noname Security",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 5.39,
+    "Growth Rate (%)": 133.01
+  },
+  {
+    "Company": "Rothy's",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 1.74,
+    "Growth Rate (%)": 121.64
+  },
+  {
+    "Company": "VOI",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 5.14,
+    "Growth Rate (%)": 102.18
+  },
+  {
+    "Company": "Haomao.AI",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 3.76,
+    "Growth Rate (%)": 129.08
+  },
+  {
+    "Company": "Kopi Kenangan",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 8.4,
+    "Growth Rate (%)": 131.42
+  },
+  {
+    "Company": "InFarm",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 1.51,
+    "Growth Rate (%)": 109.17
+  },
+  {
+    "Company": "ONE",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 4.77,
+    "Growth Rate (%)": 127.18
+  },
+  {
+    "Company": "Fractal Analytics",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 5.13,
+    "Growth Rate (%)": 107.65
+  },
+  {
+    "Company": "Assent",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 7.53,
+    "Growth Rate (%)": 105.22
+  },
+  {
+    "Company": "Placer.ai",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 6.17,
+    "Growth Rate (%)": 96.61
+  },
+  {
+    "Company": "Pentera",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 7.0,
+    "Growth Rate (%)": 115.38
+  },
+  {
+    "Company": "Darwinbox",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 7.99,
+    "Growth Rate (%)": 32.2
+  },
+  {
+    "Company": "Minio",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 8.76,
+    "Growth Rate (%)": 133.32
+  },
+  {
+    "Company": "Esusu",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 3.8200000000000003,
+    "Growth Rate (%)": 132.06
+  },
+  {
+    "Company": "Betterfly",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 5.84,
+    "Growth Rate (%)": 14.09
+  },
+  {
+    "Company": "Dune Analytics",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 8.56,
+    "Growth Rate (%)": 125.61
+  },
+  {
+    "Company": "Scandit",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 9.91,
+    "Growth Rate (%)": 28.04
+  },
+  {
+    "Company": "Payhawk",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 9.01,
+    "Growth Rate (%)": 56.92
+  },
+  {
+    "Company": "Watershed",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 4.34,
+    "Growth Rate (%)": 114.09
+  },
+  {
+    "Company": "Axelar",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 2.76,
+    "Growth Rate (%)": 32.51
+  },
+  {
+    "Company": "CHEQ",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 5.4,
+    "Growth Rate (%)": 124.52
+  },
+  {
+    "Company": "Hasura",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 7.67,
+    "Growth Rate (%)": 126.5
+  },
+  {
+    "Company": "Timescale",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 5.43,
+    "Growth Rate (%)": 81.05
+  },
+  {
+    "Company": "Scalapay",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 5.35,
+    "Growth Rate (%)": 10.89
+  },
+  {
+    "Company": "Omada Health",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 8.54,
+    "Growth Rate (%)": 50.19
+  },
+  {
+    "Company": "BlueVoyant",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 4.25,
+    "Growth Rate (%)": 96.37
+  },
+  {
+    "Company": "Veev",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 8.74,
+    "Growth Rate (%)": 147.37
+  },
+  {
+    "Company": "Vendr",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 4.66,
+    "Growth Rate (%)": 98.45
+  },
+  {
+    "Company": "Gauntlet Networks",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 3.95,
+    "Growth Rate (%)": 46.37
+  },
+  {
+    "Company": "Aptos",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 5.09,
+    "Growth Rate (%)": 98.76
+  },
+  {
+    "Company": "Glia",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 7.86,
+    "Growth Rate (%)": 85.6
+  },
+  {
+    "Company": "CommerceIQ",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 2.13,
+    "Growth Rate (%)": 119.18
+  },
+  {
+    "Company": "RapidAPI",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 2.77,
+    "Growth Rate (%)": 24.98
+  },
+  {
+    "Company": "Tarana Wireless",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 9.56,
+    "Growth Rate (%)": 116.54
+  },
+  {
+    "Company": "FLASH",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 2.58,
+    "Growth Rate (%)": 85.78
+  },
+  {
+    "Company": "Electric",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 6.11,
+    "Growth Rate (%)": 144.82
+  },
+  {
+    "Company": "LayerZero Labs",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 6.21,
+    "Growth Rate (%)": 57.86
+  },
+  {
+    "Company": "BostonGene",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 5.41,
+    "Growth Rate (%)": 98.57
+  },
+  {
+    "Company": "Grover",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 6.8,
+    "Growth Rate (%)": 140.48
+  },
+  {
+    "Company": "Genies",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 3.07,
+    "Growth Rate (%)": 24.35
+  },
+  {
+    "Company": "Oyster",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 5.97,
+    "Growth Rate (%)": 141.21
+  },
+  {
+    "Company": "NexHealth",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 4.35,
+    "Growth Rate (%)": 106.3
+  },
+  {
+    "Company": "UPSIDE Foods",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 6.96,
+    "Growth Rate (%)": 19.5
+  },
+  {
+    "Company": "Factorial",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 2.27,
+    "Growth Rate (%)": 52.13
+  },
+  {
+    "Company": "Divergent 3D",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 6.14,
+    "Growth Rate (%)": 109.14
+  },
+  {
+    "Company": "Taxfix",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 2.67,
+    "Growth Rate (%)": 19.43
+  },
+  {
+    "Company": "Open",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 3.51,
+    "Growth Rate (%)": 91.5
+  },
+  {
+    "Company": "Polarium",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 2.9699999999999998,
+    "Growth Rate (%)": 58.42
+  },
+  {
+    "Company": "Opn",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 2.65,
+    "Growth Rate (%)": 96.93
+  },
+  {
+    "Company": "Remarkable",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 8.43,
+    "Growth Rate (%)": 16.4
+  },
+  {
+    "Company": "Habi",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 3.5700000000000003,
+    "Growth Rate (%)": 132.02
+  },
+  {
+    "Company": "Glean",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 9.34,
+    "Growth Rate (%)": 146.29
+  },
+  {
+    "Company": "CareBridge",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 9.73,
+    "Growth Rate (%)": 145.64
+  },
+  {
+    "Company": "Immuta",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 6.14,
+    "Growth Rate (%)": 114.95
+  },
+  {
+    "Company": "JupiterOne",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 2.29,
+    "Growth Rate (%)": 28.21
+  },
+  {
+    "Company": "Vayyar",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 4.37,
+    "Growth Rate (%)": 116.16
+  },
+  {
+    "Company": "LeadSquared",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 8.18,
+    "Growth Rate (%)": 13.44
+  },
+  {
+    "Company": "FourKites",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 4.31,
+    "Growth Rate (%)": 13.1
+  },
+  {
+    "Company": "VulcanForms",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 1.78,
+    "Growth Rate (%)": 55.31
+  },
+  {
+    "Company": "SingleStore",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 6.01,
+    "Growth Rate (%)": 78.41
+  },
+  {
+    "Company": "Unstoppable Domains",
+    "Valuation ($B)": 1.0,
+    "AI Impact Score": 8.61,
+    "Growth Rate (%)": 117.86
+  }
+]
