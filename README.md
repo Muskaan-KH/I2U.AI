@@ -1,6 +1,6 @@
 # I2U.AI
 
-# 3D Unicorn Startup Visualization Dashboard
+# Unicorn Startup 3D Visualization Dashboard
 
 ## Overview
 This project is an interactive Streamlit dashboard for visualizing unicorn startup data in 3D. It features multiple unique visualization concepts, real-time and static data sources. The dashboard is designed for performance, clarity, and a clean user experience.
